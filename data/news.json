@@ -1,0 +1,25 @@
+{
+  "news": [
+    { "title": "한국 경제 성장률 2분기 전망 상향 조정…수출 호조 영향", "url": "https://news.naver.com/section/101" },
+    { "title": "반도체 업황 회복세…삼성·SK하이닉스 3분기 실적 기대", "url": "https://news.naver.com/section/101" },
+    { "title": "미 연준, 금리 동결 유지…연내 인하 신호 내비쳐", "url": "https://news.naver.com/section/101" },
+    { "title": "글로벌 AI 투자 급증…국내 스타트업도 수혜 전망", "url": "https://news.naver.com/section/101" },
+    { "title": "원·달러 환율, 수출 호조에 안정세 유지", "url": "https://news.naver.com/section/101" },
+    { "title": "정부, 중소기업 디지털 전환 지원 2조원 투입 발표", "url": "https://news.naver.com/section/101" },
+    { "title": "국제유가 소폭 하락…배럴당 78달러 선 유지", "url": "https://news.naver.com/section/101" }
+  ],
+  "stocks": {
+    "kospi":  { "value": 2748.50, "change":  12.30, "change_pct":  0.45 },
+    "kosdaq": { "value":  848.20, "change":  -5.10, "change_pct": -0.60 },
+    "nasdaq": { "value": 19853.10, "change": 148.70, "change_pct":  0.75 },
+    "usdkrw": { "value": 1378.50, "change":   2.50, "change_pct":  0.18 }
+  },
+  "gold": {
+    "price_usd": 3248.50,
+    "price_krw": 4482450,
+    "change": 15.30,
+    "change_pct": 0.47
+  },
+  "updated": "2026-06-20 06:00",
+  "error": null
+}
