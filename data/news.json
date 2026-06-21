@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "호르무즈 빗장 풀리면 유류비 부담 '뚝'…K항공·해운 정상화 시동[중동 전쟁 이후 K산업계는④]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014017694"
+      "title": "\"코스닥 1부 리그 기준에 '성장성'도 반영\"",
+      "url": "https://n.news.naver.com/mnews/article/009/0005696677"
     },
     {
-      "title": "“하이닉스에 한수 좀 배우겠습니다”…前대표 모셔간 인텔",
-      "url": "https://n.news.naver.com/mnews/article/009/0005696394"
+      "title": "편의점 상비약 20종 확대 이뤄질까…약사회 반응 보니",
+      "url": "https://n.news.naver.com/mnews/article/277/0005779247"
     },
     {
-      "title": "코스피 불장에 수익률 대박난 국민연금…기금 고갈 4년 미뤘다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005779019"
+      "title": "금리 2% 시대에 ‘연 19.4% 효과’…청년미래적금, 출시 전부터 ‘들썩’",
+      "url": "https://n.news.naver.com/mnews/article/029/0003032758"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001506622"
+      "title": "우리銀, 생산적·포용금융 10조 추가…증액분 조기집행",
+      "url": "https://n.news.naver.com/mnews/article/011/0004633337"
     },
     {
-      "title": "주유소 기름값 5주 연속 하락…휘발유 평균 2009.2원",
-      "url": "https://n.news.naver.com/mnews/article/448/0000620994"
+      "title": "유한양행 '창립 100주년'…\"신뢰의 100년, 글로벌 혁신 제약사 도약\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005374801"
     },
     {
-      "title": "“통닭 한 마리 2980원”…유통가, 여름옷·물놀이용품 할인전",
-      "url": "https://n.news.naver.com/mnews/article/022/0004136847"
+      "title": "계란 10개 5200원…벌써 '열' 받는 물가",
+      "url": "https://n.news.naver.com/mnews/article/015/0005301072"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012203435"
+      "title": "종전에도 1500원대…환율 발목 잡는 '연준·유가·달러 수요'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009014531"
     },
     {
-      "title": "'형제의 난' 조현문, 수백억 주식 매각 노리고 효성 공격했나?",
-      "url": "https://n.news.naver.com/mnews/article/629/0000509123"
+      "title": "\"내일 전 매장 조기 종료 후 역사 교육\"…스타벅스, 신뢰 회복 총력",
+      "url": "https://n.news.naver.com/mnews/article/422/0000876891"
     },
     {
-      "title": "금융연 \"4대 은행, 가계대출 편중에 생산적 금융 제약\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001365902"
+      "title": "'스페이스X 광풍' 주춤…지수 편입 후 되살아날까, ETF·옵션에 뭉칫돈 몰려",
+      "url": "https://n.news.naver.com/mnews/article/018/0006311259"
     },
     {
-      "title": "“어디에 떨어질지 몰라” 고철 덩어리 5만개가 하늘 위에…우주까지 쓰레기로 난리 [지구, 뭐래?]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002659201"
+      "title": "국제유가 30% 하락해도 기름값은 아직 2천원대",
+      "url": "https://n.news.naver.com/mnews/article/215/0001256067"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 9052.42,
-      "change": 0.0,
-      "change_pct": 0.0
+      "change": -11.42,
+      "change_pct": -0.13
     },
     "kosdaq": {
       "value": 966.59,
-      "change": 0.0,
-      "change_pct": 0.0
+      "change": -34.34,
+      "change_pct": -3.43
     },
     "nasdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 26517.93,
+      "change": 496.27,
+      "change_pct": 1.91
     },
     "usdkrw": {
       "value": 1529.89,
-      "change": 4.47,
-      "change_pct": 0.29
+      "change": -7.67,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4172.9,
-    "price_krw": 6384077,
-    "change": -51.2,
-    "change_pct": -1.21
+    "price_usd": 4172.2,
+    "price_krw": 6383007,
+    "change": -51.9,
+    "change_pct": -1.23
   },
-  "updated": "2026-06-21 07:05",
+  "updated": "2026-06-22 07:13",
   "error": null
 }
