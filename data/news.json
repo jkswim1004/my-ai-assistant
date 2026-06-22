@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"코스닥 1부 리그 기준에 '성장성'도 반영\"",
-      "url": "https://n.news.naver.com/mnews/article/009/0005696677"
+      "title": "두산로보,  '오토메이트 2026' AI 팔레타이징 로봇 첫선",
+      "url": "https://n.news.naver.com/mnews/article/374/0000517349"
     },
     {
-      "title": "편의점 상비약 20종 확대 이뤄질까…약사회 반응 보니",
-      "url": "https://n.news.naver.com/mnews/article/277/0005779247"
+      "title": "'글로벌 창업도시 울산' 첫걸음… 유망 스타트업 57곳 찾는다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005779726"
     },
     {
-      "title": "금리 2% 시대에 ‘연 19.4% 효과’…청년미래적금, 출시 전부터 ‘들썩’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003032758"
+      "title": "미래에셋, 연금자산 80조원 돌파…\"국내 증권사 중 처음\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000877198"
     },
     {
-      "title": "우리銀, 생산적·포용금융 10조 추가…증액분 조기집행",
-      "url": "https://n.news.naver.com/mnews/article/011/0004633337"
+      "title": "스타벅스, 오늘 오후 3시부터 전 지점 문 닫는다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002659488"
     },
     {
-      "title": "유한양행 '창립 100주년'…\"신뢰의 100년, 글로벌 혁신 제약사 도약\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005374801"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000517454"
     },
     {
-      "title": "계란 10개 5200원…벌써 '열' 받는 물가",
-      "url": "https://n.news.naver.com/mnews/article/015/0005301072"
+      "title": "금감원, MBK 제재심 7월 초 예정…“회생 이슈로 더 늦출 수 없어\"",
+      "url": "https://n.news.naver.com/mnews/article/366/0001173476"
     },
     {
-      "title": "종전에도 1500원대…환율 발목 잡는 '연준·유가·달러 수요'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009014531"
+      "title": "이찬진 금감원장 \"단일종목 레버리지 증권사만 배불려...적절한지 의문\"",
+      "url": "https://n.news.naver.com/mnews/article/648/0000048224"
     },
     {
-      "title": "\"내일 전 매장 조기 종료 후 역사 교육\"…스타벅스, 신뢰 회복 총력",
-      "url": "https://n.news.naver.com/mnews/article/422/0000876891"
+      "title": "GS건설, 신재생에너지 개발사업 확대 본격화…아이스퀘어드 캐피털과 MOU체결",
+      "url": "https://n.news.naver.com/mnews/article/015/0005301345"
     },
     {
-      "title": "'스페이스X 광풍' 주춤…지수 편입 후 되살아날까, ETF·옵션에 뭉칫돈 몰려",
-      "url": "https://n.news.naver.com/mnews/article/018/0006311259"
+      "title": "개장 30주년 맞은 코스닥시장…거래소, 대규모 IR 행사 개최",
+      "url": "https://n.news.naver.com/mnews/article/088/0001015587"
     },
     {
-      "title": "국제유가 30% 하락해도 기름값은 아직 2천원대",
-      "url": "https://n.news.naver.com/mnews/article/215/0001256067"
+      "title": "롯데바이오, 송도 1공장 사용승인 획득…'듀얼 사이트' 본격화",
+      "url": "https://n.news.naver.com/mnews/article/417/0001148442"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 9052.42,
-      "change": -11.42,
-      "change_pct": -0.13
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 966.59,
-      "change": -34.34,
-      "change_pct": -3.43
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26517.93,
-      "change": 496.27,
-      "change_pct": 1.91
+      "value": 26166.6,
+      "change": -351.33,
+      "change_pct": -1.32
     },
     "usdkrw": {
-      "value": 1529.89,
-      "change": -7.67,
-      "change_pct": -0.5
+      "value": 1536.1,
+      "change": -1.46,
+      "change_pct": -0.09
     }
   },
   "gold": {
-    "price_usd": 4172.2,
-    "price_krw": 6383007,
-    "change": -51.9,
-    "change_pct": -1.23
+    "price_usd": 4209.3,
+    "price_krw": 6465905,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-06-22 07:13",
+  "updated": "2026-06-23 07:46",
   "error": null
 }
