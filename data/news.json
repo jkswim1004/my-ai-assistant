@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "두산로보,  '오토메이트 2026' AI 팔레타이징 로봇 첫선",
-      "url": "https://n.news.naver.com/mnews/article/374/0000517349"
+      "title": "삼성전자 HBM4 매출 10억달러 돌파…세계 최초 양산 4개월만",
+      "url": "https://n.news.naver.com/mnews/article/001/0016152787"
     },
     {
-      "title": "'글로벌 창업도시 울산' 첫걸음… 유망 스타트업 57곳 찾는다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005779726"
+      "title": "年 2%대 잠들어 있는 퇴직연금… ETF로 깨우자!",
+      "url": "https://n.news.naver.com/mnews/article/020/0003728593"
     },
     {
-      "title": "미래에셋, 연금자산 80조원 돌파…\"국내 증권사 중 처음\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000877198"
+      "title": "한국인들 일본서 얼마나 썼길래…여행수지 적자 '사상 최대'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005301633"
     },
     {
-      "title": "스타벅스, 오늘 오후 3시부터 전 지점 문 닫는다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002659488"
+      "title": "내년 최저임금 최초 요구안, 노동계 \"1만 2천 원\" VS 경영계 \"동결\"",
+      "url": "https://n.news.naver.com/mnews/article/660/0000111793"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000517454"
+      "title": "신한은행, 중저신용자 금리 최고 6.9%로…'포용금융 2.0' 가동",
+      "url": "https://n.news.naver.com/mnews/article/015/0005301828"
     },
     {
-      "title": "금감원, MBK 제재심 7월 초 예정…“회생 이슈로 더 늦출 수 없어\"",
-      "url": "https://n.news.naver.com/mnews/article/366/0001173476"
+      "title": "커피·치킨·떡볶이에 음료까지…줄줄이 '인상' 행렬",
+      "url": "https://n.news.naver.com/mnews/article/215/0001256287"
     },
     {
-      "title": "이찬진 금감원장 \"단일종목 레버리지 증권사만 배불려...적절한지 의문\"",
-      "url": "https://n.news.naver.com/mnews/article/648/0000048224"
+      "title": "[속보] 코스피, 10% 급락한 8203 마감…삼전·하닉 12%대 ↓",
+      "url": "https://n.news.naver.com/mnews/article/005/0001856620"
     },
     {
-      "title": "GS건설, 신재생에너지 개발사업 확대 본격화…아이스퀘어드 캐피털과 MOU체결",
-      "url": "https://n.news.naver.com/mnews/article/015/0005301345"
+      "title": "외환시장 개혁에도 투자자 체감 부족… 올해도 MSCI 선진시장 편입 난망",
+      "url": "https://n.news.naver.com/mnews/article/469/0000937930"
     },
     {
-      "title": "개장 30주년 맞은 코스닥시장…거래소, 대규모 IR 행사 개최",
-      "url": "https://n.news.naver.com/mnews/article/088/0001015587"
+      "title": "美 제조업 고용 팬데믹 이후 최악…이란 전쟁·관세 여파",
+      "url": "https://n.news.naver.com/mnews/article/277/0005780461"
     },
     {
-      "title": "롯데바이오, 송도 1공장 사용승인 획득…'듀얼 사이트' 본격화",
-      "url": "https://n.news.naver.com/mnews/article/417/0001148442"
+      "title": "국회 토론회서 “주식·부동산 미실현 이익도 포괄 과세해야”",
+      "url": "https://n.news.naver.com/mnews/article/029/0003033190"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 9052.42,
+      "value": 9114.55,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 966.59,
+      "value": 968.4,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26166.6,
-      "change": -351.33,
-      "change_pct": -1.32
+      "value": 25587.04,
+      "change": -579.56,
+      "change_pct": -2.21
     },
     "usdkrw": {
-      "value": 1536.1,
-      "change": -1.46,
-      "change_pct": -0.09
+      "value": 1531.16,
+      "change": -0.17,
+      "change_pct": -0.01
     }
   },
   "gold": {
-    "price_usd": 4209.3,
-    "price_krw": 6465905,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4129.5,
+    "price_krw": 6322925,
+    "change": -52.4,
+    "change_pct": -1.25
   },
-  "updated": "2026-06-23 07:46",
+  "updated": "2026-06-24 07:10",
   "error": null
 }
