@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성전자 HBM4 매출 10억달러 돌파…세계 최초 양산 4개월만",
-      "url": "https://n.news.naver.com/mnews/article/001/0016152787"
+      "title": "출생아 규모 2019년 이후 최다…결혼은 10년 만에 가장 많아",
+      "url": "https://n.news.naver.com/mnews/article/001/0016156384"
     },
     {
-      "title": "年 2%대 잠들어 있는 퇴직연금… ETF로 깨우자!",
-      "url": "https://n.news.naver.com/mnews/article/020/0003728593"
+      "title": "SK하이닉스 내달 10일 나스닥 상장…45조 규모 ADR 발행",
+      "url": "https://n.news.naver.com/mnews/article/020/0003729196"
     },
     {
-      "title": "한국인들 일본서 얼마나 썼길래…여행수지 적자 '사상 최대'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005301633"
+      "title": "한은 \"자영업자 대출 1096조원…부동산업으로 몰려\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000517900"
     },
     {
-      "title": "내년 최저임금 최초 요구안, 노동계 \"1만 2천 원\" VS 경영계 \"동결\"",
-      "url": "https://n.news.naver.com/mnews/article/660/0000111793"
+      "title": "홍콩이 먼저 판 삼전·닉스 ETF, 귀국하지 않는 투자금",
+      "url": "https://n.news.naver.com/mnews/article/025/0003532954"
     },
     {
-      "title": "신한은행, 중저신용자 금리 최고 6.9%로…'포용금융 2.0' 가동",
-      "url": "https://n.news.naver.com/mnews/article/015/0005301828"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000497828"
     },
     {
-      "title": "커피·치킨·떡볶이에 음료까지…줄줄이 '인상' 행렬",
-      "url": "https://n.news.naver.com/mnews/article/215/0001256287"
+      "title": "\"90조 자사주 매입 기대감\"…삼성전자, 이틀 만에 왕좌 귀환",
+      "url": "https://n.news.naver.com/mnews/article/015/0005302340"
     },
     {
-      "title": "[속보] 코스피, 10% 급락한 8203 마감…삼전·하닉 12%대 ↓",
-      "url": "https://n.news.naver.com/mnews/article/005/0001856620"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002370350"
     },
     {
-      "title": "외환시장 개혁에도 투자자 체감 부족… 올해도 MSCI 선진시장 편입 난망",
-      "url": "https://n.news.naver.com/mnews/article/469/0000937930"
+      "title": "중소기업계 “내년도 최저임금 동결 촉구”",
+      "url": "https://n.news.naver.com/mnews/article/022/0004137880"
     },
     {
-      "title": "美 제조업 고용 팬데믹 이후 최악…이란 전쟁·관세 여파",
-      "url": "https://n.news.naver.com/mnews/article/277/0005780461"
+      "title": "김정수 삼양식품 회장 \"성장은 끊임없이 움직이는 과정\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000877983"
     },
     {
-      "title": "국회 토론회서 “주식·부동산 미실현 이익도 포괄 과세해야”",
-      "url": "https://n.news.naver.com/mnews/article/029/0003033190"
+      "title": "코스피, 하루 만에 반등…8,471.02 마감",
+      "url": "https://n.news.naver.com/mnews/article/056/0012205591"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 9114.55,
+      "value": 8203.84,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 968.4,
+      "value": 891.52,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25587.04,
-      "change": -579.56,
-      "change_pct": -2.21
+      "value": 25476.63,
+      "change": -110.4,
+      "change_pct": -0.43
     },
     "usdkrw": {
-      "value": 1531.16,
-      "change": -0.17,
-      "change_pct": -0.01
+      "value": 1537.96,
+      "change": -1.09,
+      "change_pct": -0.07
     }
   },
   "gold": {
-    "price_usd": 4129.5,
-    "price_krw": 6322925,
-    "change": -52.4,
-    "change_pct": -1.25
+    "price_usd": 4021.7,
+    "price_krw": 6185213,
+    "change": -108.2,
+    "change_pct": -2.62
   },
-  "updated": "2026-06-24 07:10",
+  "updated": "2026-06-25 07:16",
   "error": null
 }
