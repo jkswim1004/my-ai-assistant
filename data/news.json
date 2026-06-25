@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "출생아 규모 2019년 이후 최다…결혼은 10년 만에 가장 많아",
-      "url": "https://n.news.naver.com/mnews/article/001/0016156384"
+      "title": "마이크론 \"장기계약 16건…협의중 포함시 매출 절반\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016157564"
     },
     {
-      "title": "SK하이닉스 내달 10일 나스닥 상장…45조 규모 ADR 발행",
-      "url": "https://n.news.naver.com/mnews/article/020/0003729196"
+      "title": "박홍근 \"교육교부금 줄어드는 일 없어…고등·영유아에 재투자\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016158126"
     },
     {
-      "title": "한은 \"자영업자 대출 1096조원…부동산업으로 몰려\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000517900"
+      "title": "기후동행카드 '서울형 플러스' 제동…국토부 \"공식 협의부터\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009024396"
     },
     {
-      "title": "홍콩이 먼저 판 삼전·닉스 ETF, 귀국하지 않는 투자금",
-      "url": "https://n.news.naver.com/mnews/article/025/0003532954"
+      "title": "반도체 기업 비수도권 오면, 국유지 사용료 최대 100% 감면",
+      "url": "https://n.news.naver.com/mnews/article/020/0003729484"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000497828"
+      "title": "케이뱅크, 원·유로화 스테이블코인 송금·정산 기술 검증 돌입",
+      "url": "https://n.news.naver.com/mnews/article/092/0002427997"
     },
     {
-      "title": "\"90조 자사주 매입 기대감\"…삼성전자, 이틀 만에 왕좌 귀환",
-      "url": "https://n.news.naver.com/mnews/article/015/0005302340"
+      "title": "코스피, 5%대 급등 8930에 마감…장중 9000선 터치",
+      "url": "https://n.news.naver.com/mnews/article/654/0000187469"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002370350"
+      "title": "카드 대신 캐피탈…카카오뱅크, 첫 M&A로 종합금융플랫폼 승부수",
+      "url": "https://n.news.naver.com/mnews/article/421/0009024654"
     },
     {
-      "title": "중소기업계 “내년도 최저임금 동결 촉구”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004137880"
+      "title": "구미시, 철강 제조현장에 AI 도입…'기업 경쟁력 강화'",
+      "url": "https://n.news.naver.com/mnews/article/003/0014026756"
     },
     {
-      "title": "김정수 삼양식품 회장 \"성장은 끊임없이 움직이는 과정\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000877983"
+      "title": "GS, 음식물류 폐기물 자원화 팔 걷어 붙였다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002661255"
     },
     {
-      "title": "코스피, 하루 만에 반등…8,471.02 마감",
-      "url": "https://n.news.naver.com/mnews/article/056/0012205591"
+      "title": "애플, 메모리 대란에 결국 맥·아이패드 가격 줄인상",
+      "url": "https://n.news.naver.com/mnews/article/056/0012206536"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8203.84,
+      "value": 8471.02,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 891.52,
+      "value": 909.31,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25476.63,
-      "change": -110.4,
-      "change_pct": -0.43
+      "value": 25358.6,
+      "change": -118.04,
+      "change_pct": -0.46
     },
     "usdkrw": {
-      "value": 1537.96,
-      "change": -1.09,
-      "change_pct": -0.07
+      "value": 1544.09,
+      "change": 8.84,
+      "change_pct": 0.58
     }
   },
   "gold": {
-    "price_usd": 4021.7,
-    "price_krw": 6185213,
-    "change": -108.2,
-    "change_pct": -2.62
+    "price_usd": 4040.2,
+    "price_krw": 6238432,
+    "change": 49.9,
+    "change_pct": 1.25
   },
-  "updated": "2026-06-25 07:16",
+  "updated": "2026-06-26 07:20",
   "error": null
 }
