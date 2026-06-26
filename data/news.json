@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "마이크론 \"장기계약 16건…협의중 포함시 매출 절반\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016157564"
+      "title": "무뇨스 현대차 사장 \"車 개발 외 로보틱스, 자율주행, SDV 투자도 늘릴 것\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005540202"
     },
     {
-      "title": "박홍근 \"교육교부금 줄어드는 일 없어…고등·영유아에 재투자\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016158126"
+      "title": "[속보] 코스피, 8%대 급락에 서킷브레이커 발동",
+      "url": "https://n.news.naver.com/mnews/article/009/0005699187"
     },
     {
-      "title": "기후동행카드 '서울형 플러스' 제동…국토부 \"공식 협의부터\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009024396"
+      "title": "애플, 제품 가격 줄인상…팀 쿡 \"원자재 가격 감당 불가\"",
+      "url": "https://n.news.naver.com/mnews/article/629/0000510976"
     },
     {
-      "title": "반도체 기업 비수도권 오면, 국유지 사용료 최대 100% 감면",
-      "url": "https://n.news.naver.com/mnews/article/020/0003729484"
+      "title": "정부, 민생물가 안정에 1조원 투입…공공요금 묶고, 달걀 2억개 추가수입",
+      "url": "https://n.news.naver.com/mnews/article/018/0006315287"
     },
     {
-      "title": "케이뱅크, 원·유로화 스테이블코인 송금·정산 기술 검증 돌입",
-      "url": "https://n.news.naver.com/mnews/article/092/0002427997"
+      "title": "10% 폭락→5% 급등→5.8% 급락… 연일 롤러코스피",
+      "url": "https://n.news.naver.com/mnews/article/023/0003984382"
     },
     {
-      "title": "코스피, 5%대 급등 8930에 마감…장중 9000선 터치",
-      "url": "https://n.news.naver.com/mnews/article/654/0000187469"
+      "title": "삼성전자 퇴직률 8.6%로 하락… 해외 퇴직 감소 영향",
+      "url": "https://n.news.naver.com/mnews/article/023/0003984303"
     },
     {
-      "title": "카드 대신 캐피탈…카카오뱅크, 첫 M&A로 종합금융플랫폼 승부수",
-      "url": "https://n.news.naver.com/mnews/article/421/0009024654"
+      "title": "리가켐바이오, 국민성장펀드서 5000억 직접 투자 유치…상장사 최초",
+      "url": "https://n.news.naver.com/mnews/article/011/0004635215"
     },
     {
-      "title": "구미시, 철강 제조현장에 AI 도입…'기업 경쟁력 강화'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014026756"
+      "title": "메리츠-MBK 홈플러스 공방에 시간만 간다…\"이러다 파산할라\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005302991"
     },
     {
-      "title": "GS, 음식물류 폐기물 자원화 팔 걷어 붙였다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002661255"
+      "title": "최고가격 유지의 딜레마…'수입상 차익' 막고 손실보전해야",
+      "url": "https://n.news.naver.com/mnews/article/277/0005781885"
     },
     {
-      "title": "애플, 메모리 대란에 결국 맥·아이패드 가격 줄인상",
-      "url": "https://n.news.naver.com/mnews/article/056/0012206536"
+      "title": "HD현대중공업, 군산조선소 7800억원에 매각",
+      "url": "https://n.news.naver.com/mnews/article/011/0004635316"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8471.02,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 909.31,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25358.6,
-      "change": -118.04,
-      "change_pct": -0.46
+      "value": 25297.62,
+      "change": -60.98,
+      "change_pct": -0.24
     },
     "usdkrw": {
-      "value": 1544.09,
-      "change": 8.84,
-      "change_pct": 0.58
+      "value": 1535.0,
+      "change": -7.76,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4040.2,
-    "price_krw": 6238432,
-    "change": 49.9,
-    "change_pct": 1.25
+    "price_usd": 4103.0,
+    "price_krw": 6298105,
+    "change": 72.5,
+    "change_pct": 1.8
   },
-  "updated": "2026-06-26 07:20",
+  "updated": "2026-06-27 07:12",
   "error": null
 }
