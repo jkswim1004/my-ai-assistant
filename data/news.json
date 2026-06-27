@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "무뇨스 현대차 사장 \"車 개발 외 로보틱스, 자율주행, SDV 투자도 늘릴 것\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005540202"
+      "title": "휘발유·경유 최고가격 150원 인하…27일 0시부터 적용",
+      "url": "https://n.news.naver.com/mnews/article/448/0000622566"
     },
     {
-      "title": "[속보] 코스피, 8%대 급락에 서킷브레이커 발동",
-      "url": "https://n.news.naver.com/mnews/article/009/0005699187"
+      "title": "“광주-전남 반도체 팹, 착공까지 6년 ‘용인 지체’ 되풀이 말아야”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003729846"
     },
     {
-      "title": "애플, 제품 가격 줄인상…팀 쿡 \"원자재 가격 감당 불가\"",
-      "url": "https://n.news.naver.com/mnews/article/629/0000510976"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012207036"
     },
     {
-      "title": "정부, 민생물가 안정에 1조원 투입…공공요금 묶고, 달걀 2억개 추가수입",
-      "url": "https://n.news.naver.com/mnews/article/018/0006315287"
+      "title": "“비트코인 쓸모없어…수십 년에 걸쳐 소멸” 닷컴버블 예측한 억만장자 전망",
+      "url": "https://n.news.naver.com/mnews/article/016/0002662309"
     },
     {
-      "title": "10% 폭락→5% 급등→5.8% 급락… 연일 롤러코스피",
-      "url": "https://n.news.naver.com/mnews/article/023/0003984382"
+      "title": "\"해외로 갈 반도체를 광주에서?\"…삼성전자 술렁이는 까닭",
+      "url": "https://n.news.naver.com/mnews/article/015/0005303379"
     },
     {
-      "title": "삼성전자 퇴직률 8.6%로 하락… 해외 퇴직 감소 영향",
-      "url": "https://n.news.naver.com/mnews/article/023/0003984303"
+      "title": "한국 선박 2척 호르무즈 해협 추가 통과…남은 배 3척",
+      "url": "https://n.news.naver.com/mnews/article/008/0005377914"
     },
     {
-      "title": "리가켐바이오, 국민성장펀드서 5000억 직접 투자 유치…상장사 최초",
-      "url": "https://n.news.naver.com/mnews/article/011/0004635215"
+      "title": "달러-원 환율, 안전 선호 커지며 낙폭 줄여…1535.8원 마감",
+      "url": "https://n.news.naver.com/mnews/article/374/0000518581"
     },
     {
-      "title": "메리츠-MBK 홈플러스 공방에 시간만 간다…\"이러다 파산할라\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005302991"
+      "title": "법원 최후통첩에도…홈플러스 2000억 확보 ‘오리무중’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004635564"
     },
     {
-      "title": "최고가격 유지의 딜레마…'수입상 차익' 막고 손실보전해야",
-      "url": "https://n.news.naver.com/mnews/article/277/0005781885"
+      "title": "\"AI부터 ADC까지\" 셀트리온, 바이오USA서 차세대 성장동력 입증",
+      "url": "https://n.news.naver.com/mnews/article/448/0000622670"
     },
     {
-      "title": "HD현대중공업, 군산조선소 7800억원에 매각",
-      "url": "https://n.news.naver.com/mnews/article/011/0004635316"
+      "title": "기아, PV5 신규 라인업·협업 모델 공개…부산모빌리티쇼 참가",
+      "url": "https://n.news.naver.com/mnews/article/079/0004162303"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 8411.21,
+      "change": -519.09,
+      "change_pct": -5.81
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 851.37,
+      "change": -36.44,
+      "change_pct": -4.1
     },
     "nasdaq": {
       "value": 25297.62,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4103.0,
-    "price_krw": 6298105,
-    "change": 72.5,
-    "change_pct": 1.8
+    "price_usd": 4078.7,
+    "price_krw": 6260804,
+    "change": 48.2,
+    "change_pct": 1.2
   },
-  "updated": "2026-06-27 07:12",
+  "updated": "2026-06-28 07:01",
   "error": null
 }
