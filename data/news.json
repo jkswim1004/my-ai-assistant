@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "휘발유·경유 최고가격 150원 인하…27일 0시부터 적용",
-      "url": "https://n.news.naver.com/mnews/article/448/0000622566"
+      "title": "\"미국 인구 둔화로 신차 판매량 2040년까지 200만 대 감소...자동차는 쇠퇴 산업\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002372042"
     },
     {
-      "title": "“광주-전남 반도체 팹, 착공까지 6년 ‘용인 지체’ 되풀이 말아야”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003729846"
+      "title": "‘전셋값 폭등’ 맞다? 아니다?…매매 앞지른 전세 상승세 어쩌나",
+      "url": "https://n.news.naver.com/mnews/article/056/0012207491"
+    },
+    {
+      "title": "배전기기 생산에 로봇 투입 … 납기 확 줄여",
+      "url": "https://n.news.naver.com/mnews/article/009/0005699779"
+    },
+    {
+      "title": "휘발유·경유 다시 1900원대로…두 달만에 ‘2천원 시대’ 막 내리나",
+      "url": "https://n.news.naver.com/mnews/article/009/0005699657"
+    },
+    {
+      "title": "\"드러누웠어야...\" 단일종목 레버리지... 해외 자금 유입 없이 개미만 몰려",
+      "url": "https://n.news.naver.com/mnews/article/469/0000939099"
+    },
+    {
+      "title": "청년미래적금 29일부터 출생연도 관계없이 가입 신청",
+      "url": "https://n.news.naver.com/mnews/article/586/0000132542"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012207036"
+      "url": "https://n.news.naver.com/mnews/article/422/0000879334"
     },
     {
-      "title": "“비트코인 쓸모없어…수십 년에 걸쳐 소멸” 닷컴버블 예측한 억만장자 전망",
-      "url": "https://n.news.naver.com/mnews/article/016/0002662309"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000879327"
     },
     {
-      "title": "\"해외로 갈 반도체를 광주에서?\"…삼성전자 술렁이는 까닭",
-      "url": "https://n.news.naver.com/mnews/article/015/0005303379"
+      "title": "ETF에도 밀린 코스닥, 30주년에 ‘800스닥’ 굴욕…하반기 체질 개선 시험대",
+      "url": "https://n.news.naver.com/mnews/article/025/0003533680"
     },
     {
-      "title": "한국 선박 2척 호르무즈 해협 추가 통과…남은 배 3척",
-      "url": "https://n.news.naver.com/mnews/article/008/0005377914"
-    },
-    {
-      "title": "달러-원 환율, 안전 선호 커지며 낙폭 줄여…1535.8원 마감",
-      "url": "https://n.news.naver.com/mnews/article/374/0000518581"
-    },
-    {
-      "title": "법원 최후통첩에도…홈플러스 2000억 확보 ‘오리무중’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004635564"
-    },
-    {
-      "title": "\"AI부터 ADC까지\" 셀트리온, 바이오USA서 차세대 성장동력 입증",
-      "url": "https://n.news.naver.com/mnews/article/448/0000622670"
-    },
-    {
-      "title": "기아, PV5 신규 라인업·협업 모델 공개…부산모빌리티쇼 참가",
-      "url": "https://n.news.naver.com/mnews/article/079/0004162303"
+      "title": "이름·비밀번호 털렸다...식품산업협회 교육사이트 개인정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/008/0005378189"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.24
     },
     "usdkrw": {
-      "value": 1535.0,
-      "change": -7.76,
-      "change_pct": -0.5
+      "value": 1535.11,
+      "change": -11.37,
+      "change_pct": -0.74
     }
   },
   "gold": {
-    "price_usd": 4078.7,
-    "price_krw": 6260804,
-    "change": 48.2,
-    "change_pct": 1.2
+    "price_usd": 4096.3,
+    "price_krw": 6288270,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-06-28 07:01",
+  "updated": "2026-06-29 07:00",
   "error": null
 }
