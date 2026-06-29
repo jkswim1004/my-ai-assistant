@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"미국 인구 둔화로 신차 판매량 2040년까지 200만 대 감소...자동차는 쇠퇴 산업\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002372042"
+      "title": "경제계 \"정부 '3대 메가프로젝트' 추진 계획 환영\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004162880"
     },
     {
-      "title": "‘전셋값 폭등’ 맞다? 아니다?…매매 앞지른 전세 상승세 어쩌나",
-      "url": "https://n.news.naver.com/mnews/article/056/0012207491"
+      "title": "산업장관 “서남권 반도체 팹 800조·충청권 패키징 81조 투자”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001175237"
     },
     {
-      "title": "배전기기 생산에 로봇 투입 … 납기 확 줄여",
-      "url": "https://n.news.naver.com/mnews/article/009/0005699779"
+      "title": "최태원 “서남권 반도체에 400조, AI데이터센터에 1000조 투자”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003730143"
     },
     {
-      "title": "휘발유·경유 다시 1900원대로…두 달만에 ‘2천원 시대’ 막 내리나",
-      "url": "https://n.news.naver.com/mnews/article/009/0005699657"
+      "title": "'백수 박사' 늘었다…신규 박사 취득자 3명 중 1명이 '무직'",
+      "url": "https://n.news.naver.com/mnews/article/660/0000112141"
     },
     {
-      "title": "\"드러누웠어야...\" 단일종목 레버리지... 해외 자금 유입 없이 개미만 몰려",
-      "url": "https://n.news.naver.com/mnews/article/469/0000939099"
+      "title": "삼성, 3.5조 규모 협력사 금융지원 확대…해외진출도 지원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016165430"
     },
     {
-      "title": "청년미래적금 29일부터 출생연도 관계없이 가입 신청",
-      "url": "https://n.news.naver.com/mnews/article/586/0000132542"
+      "title": "카카오 2차 파업…노조 2,100명 '로그아웃'",
+      "url": "https://n.news.naver.com/mnews/article/215/0001256888"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000879334"
+      "title": "AI로 제조업 대전환 이끈다…\"2030년까지 민관합동 20조 투자\"",
+      "url": "https://n.news.naver.com/mnews/article/648/0000048451"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000879327"
+      "title": "남성 ‘전업주부’ 27만 명…1년 만 16.6% 늘어 역대 최다",
+      "url": "https://n.news.naver.com/mnews/article/449/0000350911"
     },
     {
-      "title": "ETF에도 밀린 코스닥, 30주년에 ‘800스닥’ 굴욕…하반기 체질 개선 시험대",
-      "url": "https://n.news.naver.com/mnews/article/025/0003533680"
+      "title": "경남 홈플러스 종사자들 \"회생 기한 연장하고 정상화 약속 지켜야\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005783003"
     },
     {
-      "title": "이름·비밀번호 털렸다...식품산업협회 교육사이트 개인정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/008/0005378189"
+      "title": "반도체 호황에 1분기 지역 경제 3.8% 성장...4년여 만에 최고",
+      "url": "https://n.news.naver.com/mnews/article/366/0001175209"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 8411.21,
-      "change": -519.09,
-      "change_pct": -5.81
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 851.37,
-      "change": -36.44,
-      "change_pct": -4.1
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25297.62,
-      "change": -60.98,
-      "change_pct": -0.24
+      "value": 25820.14,
+      "change": 522.53,
+      "change_pct": 2.07
     },
     "usdkrw": {
-      "value": 1535.11,
-      "change": -11.37,
-      "change_pct": -0.74
+      "value": 1540.65,
+      "change": -5.83,
+      "change_pct": -0.38
     }
   },
   "gold": {
-    "price_usd": 4096.3,
-    "price_krw": 6288270,
+    "price_usd": 4030.5,
+    "price_krw": 6209589,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-06-29 07:00",
+  "updated": "2026-06-30 07:07",
   "error": null
 }
