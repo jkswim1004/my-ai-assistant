@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"오늘 연차 낼테니 계약서 쓰자\"…'동탄·기흥·구리' 집주인들 발동동",
-      "url": "https://n.news.naver.com/mnews/article/018/0006319094"
+      "title": "구글 '게임앱 갑질'…8500억 역대급 과징금 맞나",
+      "url": "https://n.news.naver.com/mnews/article/015/0005305163"
     },
     {
-      "title": "\"보이스피싱 피해구제도 이젠 비대면으로\"…앱으로 신청·증빙  가능해져",
-      "url": "https://n.news.naver.com/mnews/article/003/0014038530"
+      "title": "계란 2억개 더 들여온다…농축산물 할인에 3000억원 투입",
+      "url": "https://n.news.naver.com/mnews/article/421/0009035781"
     },
     {
-      "title": "코레일 자회사 5곳→3곳 통합…고객서비스·유통물류·유지관리로 재편",
-      "url": "https://n.news.naver.com/mnews/article/008/0005379553"
+      "title": "삼성전자 초기업노조 \"메가 프로젝트, 우리와도 논의해야\"",
+      "url": "https://n.news.naver.com/mnews/article/022/0004139775"
     },
     {
-      "title": "한경협 \"AI 시대 신성장동력 'K-사이버보안' 육성해야\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009033138"
+      "title": "기아, 163만대 판매…상반기 최대 실적",
+      "url": "https://n.news.naver.com/mnews/article/015/0005305158"
     },
     {
-      "title": "\"8월부터 일주일 육아휴직도 가능\"‥하반기 무엇이 달라지나?",
-      "url": "https://n.news.naver.com/mnews/article/214/0001508627"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002373527"
     },
     {
-      "title": "엔화 162엔 돌파하며 39년 반 만의 최저…日 개입 가능성 고조",
-      "url": "https://n.news.naver.com/mnews/article/421/0009031519"
+      "title": "“무섭게 오르더니 아찔하게 떨어지네”…금값 13년 만에 최악의 분기 손실",
+      "url": "https://n.news.naver.com/mnews/article/009/0005701301"
     },
     {
-      "title": "지난해 폐업 사업자 97만개…1년 새 3.2% 감소",
-      "url": "https://n.news.naver.com/mnews/article/030/0003442752"
+      "title": "철강업계 “EU 철강 쿼터 양호한 수준…정부 노력 감사”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002664315"
     },
     {
-      "title": "중기·소상공인도 단체협상 길 열린다…낮아진 문턱에 단체협상 남발 우려도",
-      "url": "https://n.news.naver.com/mnews/article/008/0005379350"
+      "title": "6월 사상 첫 1천억불 돌파…한국 수출 신기원",
+      "url": "https://n.news.naver.com/mnews/article/088/0001017105"
     },
     {
-      "title": "‘반기 말 효과 없었다’…환율 1549원 마감, 금융위기 이후 또 최고",
-      "url": "https://n.news.naver.com/mnews/article/018/0006319125"
+      "title": "SK·KKR, 국내 최대 신재생에너지 기업 만든다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005784025"
     },
     {
-      "title": "파산 갈림길 선 홈플러스⋯노동자·소상공인 ‘벼랑끝’",
-      "url": "https://n.news.naver.com/mnews/article/087/0001202388"
+      "title": "원·달러 환율 0.4원 오른 1549.8원 개장",
+      "url": "https://n.news.naver.com/mnews/article/277/0005783783"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8394.65,
+      "value": 8476.48,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 920.57,
+      "value": 916.18,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26213.72,
-      "change": 393.58,
-      "change_pct": 1.52
+      "value": 26040.03,
+      "change": -173.69,
+      "change_pct": -0.66
     },
     "usdkrw": {
-      "value": 1545.14,
-      "change": 9.9,
-      "change_pct": 0.64
+      "value": 1554.5,
+      "change": 12.77,
+      "change_pct": 0.83
     }
   },
   "gold": {
-    "price_usd": 4026.9,
-    "price_krw": 6222124,
-    "change": 4.6,
-    "change_pct": 0.11
+    "price_usd": 4051.4,
+    "price_krw": 6297901,
+    "change": 28.5,
+    "change_pct": 0.71
   },
-  "updated": "2026-07-01 07:14",
+  "updated": "2026-07-02 07:16",
   "error": null
 }
