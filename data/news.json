@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "구글 '게임앱 갑질'…8500억 역대급 과징금 맞나",
-      "url": "https://n.news.naver.com/mnews/article/015/0005305163"
+      "title": "\"한달 걸리던 실차 테스트, 일주일로 단축\"…현대차·기아 '신무기'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009036202"
     },
     {
-      "title": "계란 2억개 더 들여온다…농축산물 할인에 3000억원 투입",
-      "url": "https://n.news.naver.com/mnews/article/421/0009035781"
+      "title": "KDDX 우선협상자…한화오션 최종선정",
+      "url": "https://n.news.naver.com/mnews/article/009/0005702079"
     },
     {
-      "title": "삼성전자 초기업노조 \"메가 프로젝트, 우리와도 논의해야\"",
-      "url": "https://n.news.naver.com/mnews/article/022/0004139775"
+      "title": "은마아파트 재건축 사업시행계획 인가…2028년 착공 목표",
+      "url": "https://n.news.naver.com/mnews/article/215/0001257400"
     },
     {
-      "title": "기아, 163만대 판매…상반기 최대 실적",
-      "url": "https://n.news.naver.com/mnews/article/015/0005305158"
+      "title": "국세청, 부가세 신고 시작…692만 사업자 대상 세정 지원 확대",
+      "url": "https://n.news.naver.com/mnews/article/119/0003107236"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002373527"
+      "title": "6월 외환보유액 4천273억달러…외화예수금 늘며 3.7억달러↑",
+      "url": "https://n.news.naver.com/mnews/article/001/0016173854"
     },
     {
-      "title": "“무섭게 오르더니 아찔하게 떨어지네”…금값 13년 만에 최악의 분기 손실",
-      "url": "https://n.news.naver.com/mnews/article/009/0005701301"
+      "title": "복지장관 “국민연금 리밸런싱 시장 영향 최소화”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003657930"
     },
     {
-      "title": "철강업계 “EU 철강 쿼터 양호한 수준…정부 노력 감사”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002664315"
+      "title": "하반기 산업 전망…반도체·車 ‘맑음’ 석유화학 ‘비’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004637428"
     },
     {
-      "title": "6월 사상 첫 1천억불 돌파…한국 수출 신기원",
-      "url": "https://n.news.naver.com/mnews/article/088/0001017105"
+      "title": "삼성, 충청에 140조 투자…이재용 \"IT소재부품 글로벌 허브로\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016172336"
     },
     {
-      "title": "SK·KKR, 국내 최대 신재생에너지 기업 만든다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005784025"
+      "title": "청년미래적금 누적 가입 신청자 200만 명 넘어‥내일 마감",
+      "url": "https://n.news.naver.com/mnews/article/214/0001509229"
     },
     {
-      "title": "원·달러 환율 0.4원 오른 1549.8원 개장",
-      "url": "https://n.news.naver.com/mnews/article/277/0005783783"
+      "title": "6월 소비자물가 3.2%↑ \"석유류 상승에 2년 2개월 만 최고\"",
+      "url": "https://n.news.naver.com/mnews/article/082/0001387966"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8476.48,
+      "value": 8303.41,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 916.18,
+      "value": 929.35,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26040.03,
-      "change": -173.69,
-      "change_pct": -0.66
+      "value": 25832.67,
+      "change": -207.36,
+      "change_pct": -0.8
     },
     "usdkrw": {
-      "value": 1554.5,
-      "change": 12.77,
-      "change_pct": 0.83
+      "value": 1537.9,
+      "change": -10.71,
+      "change_pct": -0.69
     }
   },
   "gold": {
-    "price_usd": 4051.4,
-    "price_krw": 6297901,
-    "change": 28.5,
-    "change_pct": 0.71
+    "price_usd": 4135.5,
+    "price_krw": 6359985,
+    "change": 67.2,
+    "change_pct": 1.65
   },
-  "updated": "2026-07-02 07:16",
+  "updated": "2026-07-03 07:05",
   "error": null
 }
