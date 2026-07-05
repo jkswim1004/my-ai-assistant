@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "경제인협회, 'K-바캉스 캠페인'…회원사에 국내여행 독려",
-      "url": "https://n.news.naver.com/mnews/article/448/0000624305"
+      "title": "호남반도체에 800조 투자한 삼성·SK…美 압박 가능성에 고심",
+      "url": "https://n.news.naver.com/mnews/article/374/0000519971"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001509519"
+      "title": "홈플러스 회생절차 폐지 결정에 도내 4개 매장 존폐 기로",
+      "url": "https://n.news.naver.com/mnews/article/654/0000188993"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001509480"
+      "title": "지난해 일본 맥주 판매 10만 톤 '돌파'...점유율 1위",
+      "url": "https://n.news.naver.com/mnews/article/052/0002374876"
     },
     {
-      "title": "미래에셋, 1조3천억 자금조달 추진…SK하이닉스 투자자로 나서나",
-      "url": "https://n.news.naver.com/mnews/article/374/0000519943"
+      "title": "전세계가 '한국의 일주일' 주목한 이유가…'150조 터진다'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005306359"
     },
     {
-      "title": "\"한강 조망 특화\"…대우건설, '더 성수 520' 공개",
-      "url": "https://n.news.naver.com/mnews/article/031/0001039732"
+      "title": "새벽 내내 달러 사고판다…원화값 영향 촉각",
+      "url": "https://n.news.naver.com/mnews/article/009/0005702927"
     },
     {
-      "title": "“아이패드·에어팟 제치고 역대 최고 매출”…아마존 베스트셀러 휩쓴 K뷰티",
-      "url": "https://n.news.naver.com/mnews/article/009/0005702692"
+      "title": "부산 삼계탕 가격 5년 새 24% 상승",
+      "url": "https://n.news.naver.com/mnews/article/082/0001388376"
     },
     {
-      "title": "\"여름 정기 세일·스마트 안경까지\"…유통업계, 하반기 첫 주말 할인 총력전",
-      "url": "https://n.news.naver.com/mnews/article/421/0009040478"
+      "title": "금감원 \"채권도 원금 손실 가능\"…장기채·중도매도 투자 주의 당부",
+      "url": "https://n.news.naver.com/mnews/article/421/0009041694"
     },
     {
-      "title": "“호남 반도체팹 유력 후보지”…이 동네 부동산 벌써 뛰고있다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003535261"
+      "title": "‘탈팡’ 있었지만…쿠팡 결제액·이용자 최고 수준 회복",
+      "url": "https://n.news.naver.com/mnews/article/366/0001176832"
     },
     {
-      "title": "“환율, 계속 높은 수준 유지할 것…과거수준 복귀 어렵다”",
-      "url": "https://n.news.naver.com/mnews/article/082/0001388278"
+      "title": "고용 탄성치, 8년 만에 최저 찍을 듯… 반도체 호황에도 일자리 없는 성장",
+      "url": "https://n.news.naver.com/mnews/article/366/0001176839"
     },
     {
-      "title": "“시장에 달러가 넘쳐 난다” 마이너스 프리미엄까지, 고환율 시대 무슨 일?",
-      "url": "https://n.news.naver.com/mnews/article/016/0002665620"
+      "title": "GS, 강원에 AI데이터센터 부지 18만평…메가프로젝트 1호 노린다",
+      "url": "https://n.news.naver.com/mnews/article/001/0016176039"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.8
     },
     "usdkrw": {
-      "value": 1530.15,
-      "change": -21.66,
-      "change_pct": -1.4
+      "value": 1529.19,
+      "change": -12.94,
+      "change_pct": -0.84
     }
   },
   "gold": {
     "price_usd": 4187.3,
-    "price_krw": 6407196,
+    "price_krw": 6403176,
     "change": 74.6,
     "change_pct": 1.81
   },
-  "updated": "2026-07-05 06:57",
+  "updated": "2026-07-06 07:00",
   "error": null
 }
