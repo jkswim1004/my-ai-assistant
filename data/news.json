@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/215/0001257781"
+      "title": "엔화, 美 장기금리 하락에 1달러=162엔대 전반 상승 출발",
+      "url": "https://n.news.naver.com/mnews/article/003/0014050129"
     },
     {
-      "title": "삼성전자 DX노조, 성과급 격차 반발 집회 예고…전삼노도 압박",
-      "url": "https://n.news.naver.com/mnews/article/055/0001370037"
+      "title": "한국 성장률 전망 첫 3%대 나왔다…반도체 수출 덕분",
+      "url": "https://n.news.naver.com/mnews/article/016/0002666569"
     },
     {
-      "title": "새벽 6시 개장… 저가 매수세 유입에 환율 1530원대 등락",
-      "url": "https://n.news.naver.com/mnews/article/022/0004140950"
+      "title": "구윤철 \"단일종목 레버리지 ETF, 문제점 보완 방안 협의 중\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014051653"
     },
     {
-      "title": "\"SK하이닉스, 오는 10일 외국기업 최대 규모 美 ADR 상장\"",
-      "url": "https://n.news.naver.com/mnews/article/031/0001039947"
+      "title": "삼전 2분기 영업익 89.4조, 작년 한해 이익 2배 넘어…“올해 내내 사상최대 실적 예상”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003732105"
     },
     {
-      "title": "휴대폰 개통 까다로워진다…안면인증·모바일 신분증 의무화",
-      "url": "https://n.news.naver.com/mnews/article/586/0000133119"
+      "title": "유무인 복합체계의 심장, 軍 차세대 독자 '무인 항공엔진' 첫 공개",
+      "url": "https://n.news.naver.com/mnews/article/014/0005544948"
     },
     {
-      "title": "전 세계에 로보틱스 기술력 뽐낸 ‘아틀라스’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004141036"
+      "title": "캐나다 매체 \"60조 규모 차세대 잠수함 사업, 독일 TKMS 선정\"",
+      "url": "https://n.news.naver.com/mnews/article/088/0001017788"
     },
     {
-      "title": "오리온그룹, 1000억 규모 창사 첫 분기배당…\"주주환원 강화\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009043069"
+      "title": "이재용 회장, '억만장자 여름캠프' 美선밸리 참석 위해 출국",
+      "url": "https://n.news.naver.com/mnews/article/014/0005544944"
     },
     {
-      "title": "안철수 \"삼전닉스 레버리지 상장폐지 검토하라\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005306526"
+      "title": "\"차에 사람이 깔리면 모두 돕지 않나\"…홈플러스 살리려는 원로들의 호소",
+      "url": "https://n.news.naver.com/mnews/article/002/0002447533"
     },
     {
-      "title": "홈플러스 대출 EOD 발생…MBK 경영진 600억 갚아야[마켓인]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006323796"
+      "title": "정부, 비수도권 근로자 소득세 서울보다 더 깎아준다",
+      "url": "https://n.news.naver.com/mnews/article/088/0001017887"
     },
     {
-      "title": "SK하이닉스, ADR 발행 규모 45조→43조원 낮춰",
-      "url": "https://n.news.naver.com/mnews/article/119/0003108497"
+      "title": "[단독] 레버리지 변동성 막을 수 있었는데… 당국, “여러 종목 허용” 묵살",
+      "url": "https://n.news.naver.com/mnews/article/005/0001859528"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8088.34,
+      "value": 8051.33,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 868.41,
+      "value": 847.07,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26121.16,
-      "change": 288.49,
-      "change_pct": 1.12
+      "value": 25818.69,
+      "change": -302.47,
+      "change_pct": -1.16
     },
     "usdkrw": {
-      "value": 1530.36,
-      "change": -11.77,
-      "change_pct": -0.76
+      "value": 1512.97,
+      "change": -18.03,
+      "change_pct": -1.18
     }
   },
   "gold": {
-    "price_usd": 4178.3,
-    "price_krw": 6394302,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4109.2,
+    "price_krw": 6217096,
+    "change": -45.9,
+    "change_pct": -1.1
   },
-  "updated": "2026-07-07 07:12",
+  "updated": "2026-07-08 07:10",
   "error": null
 }
