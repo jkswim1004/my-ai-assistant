@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "엔화, 美 장기금리 하락에 1달러=162엔대 전반 상승 출발",
-      "url": "https://n.news.naver.com/mnews/article/003/0014050129"
+      "title": "당정 \"2028년 10조 이상 코스피 상장사부터 ESG 공시 의무화\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/003/0014052878"
     },
     {
-      "title": "한국 성장률 전망 첫 3%대 나왔다…반도체 수출 덕분",
-      "url": "https://n.news.naver.com/mnews/article/016/0002666569"
+      "title": "스페이스X, 236달러 간다?…낙관적 투자 의견내놓은 월가",
+      "url": "https://n.news.naver.com/mnews/article/021/0002803306"
     },
     {
-      "title": "구윤철 \"단일종목 레버리지 ETF, 문제점 보완 방안 협의 중\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014051653"
+      "title": "삼전 27만원대로 추락…코스피·코스닥 5%대 폭락 [숫자 뒤의 진실]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004141642"
     },
     {
-      "title": "삼전 2분기 영업익 89.4조, 작년 한해 이익 2배 넘어…“올해 내내 사상최대 실적 예상”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003732105"
+      "title": "KB금융, 전북에 금융거점 세웠다… 양종희 \"자산운용 특화 출발점\"",
+      "url": "https://n.news.naver.com/mnews/article/029/0003035913"
     },
     {
-      "title": "유무인 복합체계의 심장, 軍 차세대 독자 '무인 항공엔진' 첫 공개",
-      "url": "https://n.news.naver.com/mnews/article/014/0005544948"
+      "title": "현대차 노조, 13일부터 사흘간 부분파업…3차 제시안도 거부",
+      "url": "https://n.news.naver.com/mnews/article/138/0002233602"
     },
     {
-      "title": "캐나다 매체 \"60조 규모 차세대 잠수함 사업, 독일 TKMS 선정\"",
-      "url": "https://n.news.naver.com/mnews/article/088/0001017788"
+      "title": "민주당, 오늘 ‘홈플러스 사태’ 해결 위한 MBK-메리츠 경영진 간담회",
+      "url": "https://n.news.naver.com/mnews/article/056/0012214500"
     },
     {
-      "title": "이재용 회장, '억만장자 여름캠프' 美선밸리 참석 위해 출국",
-      "url": "https://n.news.naver.com/mnews/article/014/0005544944"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002376720"
     },
     {
-      "title": "\"차에 사람이 깔리면 모두 돕지 않나\"…홈플러스 살리려는 원로들의 호소",
-      "url": "https://n.news.naver.com/mnews/article/002/0002447533"
+      "title": "삼성전자, AI 서버용 차세대 SSD 양산…데이터 전송속도 2배 높였다",
+      "url": "https://n.news.naver.com/mnews/article/029/0003035876"
     },
     {
-      "title": "정부, 비수도권 근로자 소득세 서울보다 더 깎아준다",
-      "url": "https://n.news.naver.com/mnews/article/088/0001017887"
+      "title": "국민銀, 전국 주담대 3억으로 줄인다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004639572"
     },
     {
-      "title": "[단독] 레버리지 변동성 막을 수 있었는데… 당국, “여러 종목 허용” 묵살",
-      "url": "https://n.news.naver.com/mnews/article/005/0001859528"
+      "title": "\"반도체 효과\" 5월 경상수지 흑자 역대 1위 또 갈아치웠다(상보)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005786952"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 8051.33,
+      "value": 7656.31,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 847.07,
+      "value": 831.23,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25818.69,
-      "change": -302.47,
-      "change_pct": -1.16
+      "value": 25870.65,
+      "change": 51.96,
+      "change_pct": 0.2
     },
     "usdkrw": {
-      "value": 1512.97,
-      "change": -18.03,
-      "change_pct": -1.18
+      "value": 1505.57,
+      "change": -23.19,
+      "change_pct": -1.52
     }
   },
   "gold": {
-    "price_usd": 4109.2,
-    "price_krw": 6217096,
-    "change": -45.9,
-    "change_pct": -1.1
+    "price_usd": 4086.6,
+    "price_krw": 6152662,
+    "change": -58.7,
+    "change_pct": -1.42
   },
-  "updated": "2026-07-08 07:10",
+  "updated": "2026-07-09 07:03",
   "error": null
 }
