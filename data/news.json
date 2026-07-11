@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "HD현대마린솔루션, AI 활용 최적 항로 찾는 기술 상용화 추진",
-      "url": "https://n.news.naver.com/mnews/article/009/0005705874"
+      "title": "통화긴축 시작된다…전문가들 \"7월 이어 8월이나 10월 인상\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016189090"
     },
     {
-      "title": "HLB 간암 신약 美 승인 또 지연…“FDA, 제조시설 보완 요구”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001860213"
+      "title": "호반건설, 한진칼 지분 20.15%로 확대…조원태 회장과 0.43%P 차이",
+      "url": "https://n.news.naver.com/mnews/article/020/0003733082"
     },
     {
-      "title": "\"삼전닉스 레버리지 ETF가 반도체 변동성 키웠다\"…日 매체 '경고'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014060112"
+      "title": "주유소 기름값 8주 연속 하락‥전국 휘발윳값 1천893원",
+      "url": "https://n.news.naver.com/mnews/article/214/0001511046"
+    },
+    {
+      "title": "개미들이 살린 모나미…송하경 대표 “무엇과도 바꿀 수 없는 큰 힘”",
+      "url": "https://n.news.naver.com/mnews/article/666/0000114819"
+    },
+    {
+      "title": "\"뭘 사든 다 돈 된다더니\"…금값 꺾이자 발칵 뒤집힌 곳",
+      "url": "https://n.news.naver.com/mnews/article/015/0005308875"
+    },
+    {
+      "title": "美 \"삼성·SK하이닉스도 공장 지어야\"…메모리 유치 압박",
+      "url": "https://n.news.naver.com/mnews/article/119/0003110291"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/449/0000352418"
+      "url": "https://n.news.naver.com/mnews/article/214/0001510951"
     },
     {
-      "title": "디에스자산운용, 코스닥 액티브ETF 출시…유니콘 발굴 '무기'[현장+]",
-      "url": "https://n.news.naver.com/mnews/article/293/0000087469"
+      "title": "\"뉴욕 중심가서 빛난 SK하이닉스\" 최태원, '역사적인 날' 美상장 기념 영상 올려",
+      "url": "https://n.news.naver.com/mnews/article/003/0014060672"
     },
     {
-      "title": "‘대출 빗장’ 전방위 확산…iM뱅크, 모기지보험 가입 중단",
-      "url": "https://n.news.naver.com/mnews/article/016/0002668815"
+      "title": "“노동·주거·자산 격차와 불공정·불평등 심화가 청년세대 불안의 본질”…전문가들 제시한 해법은?",
+      "url": "https://n.news.naver.com/mnews/article/022/0004142298"
     },
     {
-      "title": "최태원 SK 회장 “오래 기다린 역사적 순간…꿈이 현실됐다”",
-      "url": "https://n.news.naver.com/mnews/article/023/0003986951"
-    },
-    {
-      "title": "[속보]SK하이닉스, 美 나스닥 상장…최태원, 오프닝 벨 울렸다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004640443"
-    },
-    {
-      "title": "호남 반도체 덕분에 전력기기 업체들 ‘기회’ 얻는다…첫 수혜자는 LG엔솔",
-      "url": "https://n.news.naver.com/mnews/article/022/0004142088"
-    },
-    {
-      "title": "홈플러스 노동자들, MBK 본사서 농성…“회사 살리기 책임 다하라”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002813595"
+      "title": "한 달 반 만에 시험대 오른 '2배 ETF'…정책은 흥행, 투자자는 손실 [증시는 왜]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005546725"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 7475.94,
+      "change": 184.03,
+      "change_pct": 2.52
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 837.43,
+      "change": 43.43,
+      "change_pct": 5.47
     },
     "nasdaq": {
       "value": 26281.61,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4128.9,
-    "price_krw": 6188684,
-    "change": -1.7,
-    "change_pct": -0.04
+    "price_usd": 4104.1,
+    "price_krw": 6151512,
+    "change": -26.5,
+    "change_pct": -0.64
   },
-  "updated": "2026-07-11 07:00",
+  "updated": "2026-07-12 06:47",
   "error": null
 }
