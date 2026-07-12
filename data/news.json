@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "통화긴축 시작된다…전문가들 \"7월 이어 8월이나 10월 인상\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016189090"
+      "title": "“전 세계가 한국 때문에”…닛케이 경고한 ‘삼전닉스 레버리지’",
+      "url": "https://n.news.naver.com/mnews/article/025/0003537019"
     },
     {
-      "title": "호반건설, 한진칼 지분 20.15%로 확대…조원태 회장과 0.43%P 차이",
-      "url": "https://n.news.naver.com/mnews/article/020/0003733082"
+      "title": "달러 좀 내리나?…외환시장에 265억달러 퍼붓는 ‘구원투수’ SK하이닉스",
+      "url": "https://n.news.naver.com/mnews/article/016/0002669129"
     },
     {
-      "title": "주유소 기름값 8주 연속 하락‥전국 휘발윳값 1천893원",
-      "url": "https://n.news.naver.com/mnews/article/214/0001511046"
+      "title": "현대차, 佛 조수미 국제 성악 콩쿠르 후원",
+      "url": "https://n.news.naver.com/mnews/article/081/0003660499"
     },
     {
-      "title": "개미들이 살린 모나미…송하경 대표 “무엇과도 바꿀 수 없는 큰 힘”",
-      "url": "https://n.news.naver.com/mnews/article/666/0000114819"
+      "title": "'보유세 용도'까지 거론한 李…부동산 세제 '비거주·초고가'에 초점",
+      "url": "https://n.news.naver.com/mnews/article/008/0005384842"
     },
     {
-      "title": "\"뭘 사든 다 돈 된다더니\"…금값 꺾이자 발칵 뒤집힌 곳",
-      "url": "https://n.news.naver.com/mnews/article/015/0005308875"
+      "title": "에코프로, 인니 투자로 전기차 150만대 분 니켈 확보",
+      "url": "https://n.news.naver.com/mnews/article/023/0003987192"
     },
     {
-      "title": "美 \"삼성·SK하이닉스도 공장 지어야\"…메모리 유치 압박",
-      "url": "https://n.news.naver.com/mnews/article/119/0003110291"
+      "title": "메모리 없어서 못 팔라…공장 가동 서두르는 글로벌 메모리 3강",
+      "url": "https://n.news.naver.com/mnews/article/018/0006328503"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001510951"
+      "title": "국세청장 “반도체 산업 세수 쏠림 걱정... ‘미래대응기금’ 꼭 필요”",
+      "url": "https://n.news.naver.com/mnews/article/021/0002804136"
     },
     {
-      "title": "\"뉴욕 중심가서 빛난 SK하이닉스\" 최태원, '역사적인 날' 美상장 기념 영상 올려",
-      "url": "https://n.news.naver.com/mnews/article/003/0014060672"
+      "title": "“사장보다 알바가 더 번다”…숫자 밖 골목가게의 손익계산서 [사장님 잡는 최저임금]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002668994"
     },
     {
-      "title": "“노동·주거·자산 격차와 불공정·불평등 심화가 청년세대 불안의 본질”…전문가들 제시한 해법은?",
-      "url": "https://n.news.naver.com/mnews/article/022/0004142298"
+      "title": "'찬밥' 신세였는데…서울 빌라에 다시 돈 몰린다",
+      "url": "https://n.news.naver.com/mnews/article/215/0001258423"
     },
     {
-      "title": "한 달 반 만에 시험대 오른 '2배 ETF'…정책은 흥행, 투자자는 손실 [증시는 왜]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005546725"
+      "title": "SK하이닉스 미국 상장 흥행···월요일 코스피, 훈풍 부나",
+      "url": "https://n.news.naver.com/mnews/article/032/0003457523"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.29
     },
     "usdkrw": {
-      "value": 1498.87,
-      "change": -4.48,
-      "change_pct": -0.3
+      "value": 1498.78,
+      "change": -7.13,
+      "change_pct": -0.47
     }
   },
   "gold": {
-    "price_usd": 4104.1,
-    "price_krw": 6151512,
-    "change": -26.5,
-    "change_pct": -0.64
+    "price_usd": 4113.7,
+    "price_krw": 6165531,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-12 06:47",
+  "updated": "2026-07-13 06:48",
   "error": null
 }
