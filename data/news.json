@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“전 세계가 한국 때문에”…닛케이 경고한 ‘삼전닉스 레버리지’",
-      "url": "https://n.news.naver.com/mnews/article/025/0003537019"
+      "title": "아시아 반도체주 랠리 꺾이나…글로벌 운용사들 베팅 축소",
+      "url": "https://n.news.naver.com/mnews/article/421/0009056564"
     },
     {
-      "title": "달러 좀 내리나?…외환시장에 265억달러 퍼붓는 ‘구원투수’ SK하이닉스",
-      "url": "https://n.news.naver.com/mnews/article/016/0002669129"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002378964"
     },
     {
-      "title": "현대차, 佛 조수미 국제 성악 콩쿠르 후원",
-      "url": "https://n.news.naver.com/mnews/article/081/0003660499"
+      "title": "유가에 발목 잡혔지만 화물 덕에…대한항공, 흑자행진",
+      "url": "https://n.news.naver.com/mnews/article/025/0003537249"
     },
     {
-      "title": "'보유세 용도'까지 거론한 李…부동산 세제 '비거주·초고가'에 초점",
-      "url": "https://n.news.naver.com/mnews/article/008/0005384842"
+      "title": "한은 \"반도체 수요 증가보다 공급 확대 더뎌\"…고점론 일축",
+      "url": "https://n.news.naver.com/mnews/article/055/0001371886"
     },
     {
-      "title": "에코프로, 인니 투자로 전기차 150만대 분 니켈 확보",
-      "url": "https://n.news.naver.com/mnews/article/023/0003987192"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000521353"
     },
     {
-      "title": "메모리 없어서 못 팔라…공장 가동 서두르는 글로벌 메모리 3강",
-      "url": "https://n.news.naver.com/mnews/article/018/0006328503"
+      "title": "호르무즈 재봉쇄 우려에…정유업계, 9월 원유 확보 ‘비상’",
+      "url": "https://n.news.naver.com/mnews/article/020/0003733523"
     },
     {
-      "title": "국세청장 “반도체 산업 세수 쏠림 걱정... ‘미래대응기금’ 꼭 필요”",
-      "url": "https://n.news.naver.com/mnews/article/021/0002804136"
+      "title": "정부, ‘신규 원전·SMR’ 검토 공식화… “12차 전기본에 반영”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001178840"
     },
     {
-      "title": "“사장보다 알바가 더 번다”…숫자 밖 골목가게의 손익계산서 [사장님 잡는 최저임금]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002668994"
+      "title": "삼성전자 928명 장기성과급…자사주 처분 3227억 재원 마련",
+      "url": "https://n.news.naver.com/mnews/article/079/0004167963"
     },
     {
-      "title": "'찬밥' 신세였는데…서울 빌라에 다시 돈 몰린다",
-      "url": "https://n.news.naver.com/mnews/article/215/0001258423"
+      "title": "이유도 모른 채… 코스피 6900도 무너졌다",
+      "url": "https://n.news.naver.com/mnews/article/005/0001860717"
     },
     {
-      "title": "SK하이닉스 미국 상장 흥행···월요일 코스피, 훈풍 부나",
-      "url": "https://n.news.naver.com/mnews/article/032/0003457523"
+      "title": "삼성전자, 테슬라 'AI5' 생산 임박…\"테이프아웃에 진입\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004167684"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 7475.94,
-      "change": 184.03,
-      "change_pct": 2.52
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 837.43,
-      "change": 43.43,
-      "change_pct": 5.47
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26281.61,
-      "change": 74.72,
-      "change_pct": 0.29
+      "value": 25873.18,
+      "change": -408.43,
+      "change_pct": -1.55
     },
     "usdkrw": {
-      "value": 1498.78,
-      "change": -7.13,
-      "change_pct": -0.47
+      "value": 1497.02,
+      "change": -8.89,
+      "change_pct": -0.59
     }
   },
   "gold": {
-    "price_usd": 4113.7,
-    "price_krw": 6165531,
+    "price_usd": 4008.7,
+    "price_krw": 6001104,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-07-13 06:48",
+  "updated": "2026-07-14 06:54",
   "error": null
 }
