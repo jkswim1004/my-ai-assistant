@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "아시아 반도체주 랠리 꺾이나…글로벌 운용사들 베팅 축소",
-      "url": "https://n.news.naver.com/mnews/article/421/0009056564"
+      "title": "홈플러스 셧다운에 “직원·입점업체에 고통 전가”…혼란확산",
+      "url": "https://n.news.naver.com/mnews/article/011/0004641236"
+    },
+    {
+      "title": "서울 아파트 40%가 15억 넘는다…종부세 12억 기준 달라질까 [부동산360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002669931"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002378964"
+      "url": "https://n.news.naver.com/mnews/article/215/0001258710"
     },
     {
-      "title": "유가에 발목 잡혔지만 화물 덕에…대한항공, 흑자행진",
-      "url": "https://n.news.naver.com/mnews/article/025/0003537249"
+      "title": "가장 부지런한 영국 공주, 참전용사 묘지부터 찾았다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003537602"
     },
     {
-      "title": "한은 \"반도체 수요 증가보다 공급 확대 더뎌\"…고점론 일축",
-      "url": "https://n.news.naver.com/mnews/article/055/0001371886"
+      "title": "[영상] K2 전차, 국내 첫 나토 인증…유럽 수주전 '청신호'",
+      "url": "https://n.news.naver.com/mnews/article/001/0016194550"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000521353"
+      "title": "“두 배 대박 노렸는데”… 단일종목 레버리지 ETF서 개미 돈 8조8000억원 녹았다",
+      "url": "https://n.news.naver.com/mnews/article/366/0001179231"
     },
     {
-      "title": "호르무즈 재봉쇄 우려에…정유업계, 9월 원유 확보 ‘비상’",
-      "url": "https://n.news.naver.com/mnews/article/020/0003733523"
+      "title": "\"바이오시밀러 3상 임상·동물실험 자료 제출 요건 합리화\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002379287"
     },
     {
-      "title": "정부, ‘신규 원전·SMR’ 검토 공식화… “12차 전기본에 반영”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001178840"
+      "title": "美 ADR 27% 폭등…SK하이닉스 급락 충격 딛고 '비상'",
+      "url": "https://n.news.naver.com/mnews/article/215/0001258741"
     },
     {
-      "title": "삼성전자 928명 장기성과급…자사주 처분 3227억 재원 마련",
-      "url": "https://n.news.naver.com/mnews/article/079/0004167963"
+      "title": "‘3·4·5’ 성장 청사진…함께 못 크는 ‘고용’",
+      "url": "https://n.news.naver.com/mnews/article/032/0003458177"
     },
     {
-      "title": "이유도 모른 채… 코스피 6900도 무너졌다",
-      "url": "https://n.news.naver.com/mnews/article/005/0001860717"
-    },
-    {
-      "title": "삼성전자, 테슬라 'AI5' 생산 임박…\"테이프아웃에 진입\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004167684"
+      "title": "1000조 역대급 베팅…최태원, 美 상장 타고 '글로벌 승부수' [강경주의 테크X]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005309755"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7475.94,
+      "value": 6806.93,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 837.43,
+      "value": 799.36,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25873.18,
-      "change": -408.43,
-      "change_pct": -1.55
+      "value": 26107.01,
+      "change": 233.83,
+      "change_pct": 0.9
     },
     "usdkrw": {
-      "value": 1497.02,
-      "change": -8.89,
-      "change_pct": -0.59
+      "value": 1488.23,
+      "change": -10.25,
+      "change_pct": -0.68
     }
   },
   "gold": {
-    "price_usd": 4008.7,
-    "price_krw": 6001104,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4058.3,
+    "price_krw": 6039683,
+    "change": 61.3,
+    "change_pct": 1.53
   },
-  "updated": "2026-07-14 06:54",
+  "updated": "2026-07-15 06:55",
   "error": null
 }
