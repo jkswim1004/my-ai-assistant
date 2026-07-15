@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "홈플러스 셧다운에 “직원·입점업체에 고통 전가”…혼란확산",
-      "url": "https://n.news.naver.com/mnews/article/011/0004641236"
+      "title": "與민병덕 “홈플러스 2000억원 긴급자금, 이르면 16일 해결”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003661562"
     },
     {
-      "title": "서울 아파트 40%가 15억 넘는다…종부세 12억 기준 달라질까 [부동산360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002669931"
+      "title": "신동빈 “AX는 생존의 문제”…중장기 성장 방안 살핀다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002670430"
+    },
+    {
+      "title": "[속보] 6월 취업자 6.3만명 증가…청년층은 19.7만명↓",
+      "url": "https://n.news.naver.com/mnews/article/421/0009059915"
+    },
+    {
+      "title": "1년 이자 673만원까지 불어난다…계산기 두드린 영끌족 \"어떡해\"",
+      "url": "https://n.news.naver.com/mnews/article/215/0001258795"
+    },
+    {
+      "title": "ASML, 2분기 호실적…AI훈풍에 연간 매출 전망 또 상향",
+      "url": "https://n.news.naver.com/mnews/article/018/0006330978"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/215/0001258710"
+      "url": "https://n.news.naver.com/mnews/article/052/0002380106"
     },
     {
-      "title": "가장 부지런한 영국 공주, 참전용사 묘지부터 찾았다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003537602"
+      "title": "고액성과급 DSR 반영 줄인다…\"타은행, KB식 한도축소 고려안해\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016195747"
     },
     {
-      "title": "[영상] K2 전차, 국내 첫 나토 인증…유럽 수주전 '청신호'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016194550"
+      "title": "“하회마을에 엘리자베스 2세 여왕 동상 세울것”…류진 한경협 회장, 英 앤 공주에 약속",
+      "url": "https://n.news.naver.com/mnews/article/020/0003734221"
     },
     {
-      "title": "“두 배 대박 노렸는데”… 단일종목 레버리지 ETF서 개미 돈 8조8000억원 녹았다",
-      "url": "https://n.news.naver.com/mnews/article/366/0001179231"
+      "title": "6월 자동차 수출 역대 최대…친환경차 첫 10만대 돌파",
+      "url": "https://n.news.naver.com/mnews/article/448/0000627051"
     },
     {
-      "title": "\"바이오시밀러 3상 임상·동물실험 자료 제출 요건 합리화\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002379287"
-    },
-    {
-      "title": "美 ADR 27% 폭등…SK하이닉스 급락 충격 딛고 '비상'",
-      "url": "https://n.news.naver.com/mnews/article/215/0001258741"
-    },
-    {
-      "title": "‘3·4·5’ 성장 청사진…함께 못 크는 ‘고용’",
-      "url": "https://n.news.naver.com/mnews/article/032/0003458177"
-    },
-    {
-      "title": "1000조 역대급 베팅…최태원, 美 상장 타고 '글로벌 승부수' [강경주의 테크X]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005309755"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000521955"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6806.93,
+      "value": 6856.83,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 799.36,
+      "value": 783.98,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26107.01,
-      "change": 233.83,
-      "change_pct": 0.9
+      "value": 26269.23,
+      "change": 162.22,
+      "change_pct": 0.62
     },
     "usdkrw": {
-      "value": 1488.23,
-      "change": -10.25,
-      "change_pct": -0.68
+      "value": 1485.65,
+      "change": -12.05,
+      "change_pct": -0.8
     }
   },
   "gold": {
-    "price_usd": 4058.3,
-    "price_krw": 6039683,
-    "change": 61.3,
-    "change_pct": 1.53
+    "price_usd": 4066.9,
+    "price_krw": 6041989,
+    "change": 5.8,
+    "change_pct": 0.14
   },
-  "updated": "2026-07-15 06:55",
+  "updated": "2026-07-16 06:58",
   "error": null
 }
