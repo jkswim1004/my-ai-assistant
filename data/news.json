@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "국토부 “3기 신도시 앞당겨 공급…전세금 신탁 사업 추진”",
-      "url": "https://n.news.naver.com/mnews/article/056/0012219589"
+      "title": "日, 소뱅 등 44곳 참여 소버린 AI 개시…올해 기반 모델 공개",
+      "url": "https://n.news.naver.com/mnews/article/009/0005708756"
     },
     {
-      "title": "비수도권 정착 신혼부부, 출산·내집마련 비중 더 높다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003734428"
+      "title": "“메모리 계속 필요” 최태원 회장이 내놓은 SK하이닉스 주가 전망",
+      "url": "https://n.news.naver.com/mnews/article/119/0003112411"
     },
     {
-      "title": "신안우이 해상풍력 착공…메가프로젝트 원전 건설 반발에 더 중요해진 해상풍력",
-      "url": "https://n.news.naver.com/mnews/article/032/0003458584"
-    },
-    {
-      "title": "데이터센터 건설 지연 우려에… 삼전닉스 급락",
-      "url": "https://n.news.naver.com/mnews/article/009/0005708575"
-    },
-    {
-      "title": "與, 홈플러스 2000억 자금 확보에 \"사태해결 지금부터…21일 현안질의\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014072129"
-    },
-    {
-      "title": "“별도 통신 채널에 잔디장 훈련까지”…휴머노이드 ‘아틀라스’ 월드컵 퍼포먼스 비하인드 공개",
-      "url": "https://n.news.naver.com/mnews/article/032/0003458571"
-    },
-    {
-      "title": "\"같은 회사인데 보상은 100배\"…삼성 DX 직원 6000명 집결",
-      "url": "https://n.news.naver.com/mnews/article/014/0005549400"
-    },
-    {
-      "title": "한은, 1년 2개월 만에 금리 인상…'물가 불안·경기 반등'에 긴축 선회",
-      "url": "https://n.news.naver.com/mnews/article/030/0003448367"
-    },
-    {
-      "title": "3민석 잠실 돔야구장 민투심 통과…2032년 준공 목표",
-      "url": "https://n.news.naver.com/mnews/article/629/0000516679"
+      "title": "버핏 \"모두가 도박 선호할 때 가치 찾기 어려워\"…'빚투' 늘어난 한국 증시도 경고",
+      "url": "https://n.news.naver.com/mnews/article/660/0000113326"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001373212"
+      "url": "https://n.news.naver.com/mnews/article/437/0000501603"
+    },
+    {
+      "title": "마이크론, 현대모비스 등에 차량용 메모리 장기 공급",
+      "url": "https://n.news.naver.com/mnews/article/056/0012220007"
+    },
+    {
+      "title": "홈플러스 긴급 운영자금 확보에…민주당 “청문회 대신 21일 현안질의”",
+      "url": "https://n.news.naver.com/mnews/article/056/0012219680"
+    },
+    {
+      "title": "'최대 300㎜ 폭우 예고' 농식품부 긴급 점검…예방 당부",
+      "url": "https://n.news.naver.com/mnews/article/374/0000522259"
+    },
+    {
+      "title": "무신사, '상반기 결산 빅세일' 진행…인기 상품 50% 할인",
+      "url": "https://n.news.naver.com/mnews/article/082/0001390148"
+    },
+    {
+      "title": "현대차 4시간 2차 부분파업 예고…임단협 길어지나",
+      "url": "https://n.news.naver.com/mnews/article/025/0003538297"
+    },
+    {
+      "title": "뉴욕증시 반도체 주식 매도세 지속 일제 하락…나스닥 1.40%↓",
+      "url": "https://n.news.naver.com/mnews/article/003/0014073186"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6820.6,
+      "change": -463.81,
+      "change_pct": -6.37
     },
     "kosdaq": {
-      "value": 829.43,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 791.84,
+      "change": -37.59,
+      "change_pct": -4.53
     },
     "nasdaq": {
-      "value": 25881.95,
-      "change": -387.28,
-      "change_pct": -1.47
+      "value": 25520.24,
+      "change": -361.71,
+      "change_pct": -1.4
     },
     "usdkrw": {
-      "value": 1478.19,
-      "change": -9.69,
-      "change_pct": -0.65
+      "value": 1487.46,
+      "change": 1.26,
+      "change_pct": 0.08
     }
   },
   "gold": {
-    "price_usd": 3979.9,
-    "price_krw": 5883048,
-    "change": -64.1,
-    "change_pct": -1.59
+    "price_usd": 4023.0,
+    "price_krw": 5984051,
+    "change": 37.4,
+    "change_pct": 0.94
   },
-  "updated": "2026-07-17 07:02",
+  "updated": "2026-07-18 06:52",
   "error": null
 }
