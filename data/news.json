@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "뉴욕증시, 반도체 매도세 지속에 하락",
-      "url": "https://n.news.naver.com/mnews/article/032/0003458853"
+      "title": "최태원 \"내년 메모리 수요 50% 이상 증가… 美에도 팹 지어야\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005549821"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000522276"
+      "title": "여름휴가 떠나는 1인 가구 \"택배 도난 가장 걱정돼\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001373538"
     },
     {
-      "title": "현대차 이어 중공업도…울산 노동계 하투 분위기 고조",
-      "url": "https://n.news.naver.com/mnews/article/003/0014073230"
+      "title": "삼성전자, 사우디 모스크 100여곳에 맞춤형 냉난방공조 설루션",
+      "url": "https://n.news.naver.com/mnews/article/001/0016201719"
     },
     {
-      "title": "갤럭시Z 시리즈 '와이드 폴드' 가장 많이 만든다",
-      "url": "https://n.news.naver.com/mnews/article/030/0003448712"
+      "title": "‘경주마·가두리' 판치던 코인 시장… 당국, 불공정거래 30여건 고발·통보",
+      "url": "https://n.news.naver.com/mnews/article/366/0001180155"
     },
     {
-      "title": "주유소 기름값 9주째 하락…국제유가 반등에 내림세 둔화",
-      "url": "https://n.news.naver.com/mnews/article/022/0004143968"
+      "title": "AI 플랫폼 주간 사용량 1~5위 中 싹쓸이…美 고가 AI 흔든다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014073756"
     },
     {
-      "title": "집중호우 최대 300㎜ 예보…농식품부, 연휴 비상대응 돌입",
-      "url": "https://n.news.naver.com/mnews/article/016/0002671631"
+      "title": "한은 금리인상 후폭풍 더 커지나…주담대 7.5%·보금자리론 5% 현실화",
+      "url": "https://n.news.naver.com/mnews/article/005/0001861727"
     },
     {
-      "title": "“절망입니다” “처참합니다” 대박 믿었는데, 한달만에 -40% 수익률…무슨 일이",
-      "url": "https://n.news.naver.com/mnews/article/016/0002671755"
+      "title": "\"방이 움직였다\"…23년 만에 가족여행 선물한 기아 PV5",
+      "url": "https://n.news.naver.com/mnews/article/029/0003037550"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/449/0000353299"
+      "title": "2000억 자금 확보한 홈플러스… 영업 정상화까지는 험로",
+      "url": "https://n.news.naver.com/mnews/article/014/0005549776"
     },
     {
-      "title": "한화 필리조선소, 美 미사일 시험 계측선 수주…\"골든돔 방어체계 핵심 역할\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000942902"
+      "title": "‘닥공’ 나선 정부, 신속매입임대 전면 시행으로 우선 비아파트 공급[부동산360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002671995"
     },
     {
-      "title": "“반도체 성과 국민과 나눈다”던 삼성전자 일냈다…4조 잭팟",
-      "url": "https://n.news.naver.com/mnews/article/011/0004642639"
+      "title": "홍콩이 더 큰데…국내 레버리지 ETF만 죄어도 변동성 잡힐까",
+      "url": "https://n.news.naver.com/mnews/article/025/0003538525"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -1.4
     },
     "usdkrw": {
-      "value": 1487.46,
-      "change": 1.26,
-      "change_pct": 0.08
+      "value": 1486.53,
+      "change": 7.68,
+      "change_pct": 0.52
     }
   },
   "gold": {
-    "price_usd": 4012.7,
-    "price_krw": 5968730,
-    "change": 27.1,
-    "change_pct": 0.68
+    "price_usd": 4018.8,
+    "price_krw": 5974066,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-07-19 06:49",
+  "updated": "2026-07-20 06:50",
   "error": null
 }
