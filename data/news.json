@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "최태원 \"내년 메모리 수요 50% 이상 증가… 美에도 팹 지어야\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005549821"
+      "title": "\"'폰 렌탈·eSIM 부업' 미끼 사기 기승\"…금감원, 불법사금융 '소비자경보'",
+      "url": "https://n.news.naver.com/mnews/article/660/0000113479"
     },
     {
-      "title": "여름휴가 떠나는 1인 가구 \"택배 도난 가장 걱정돼\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001373538"
+      "title": "류진 한경협 회장 “4대 그룹 회장단 복귀, 꼭 이룰 것”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003538684"
     },
     {
-      "title": "삼성전자, 사우디 모스크 100여곳에 맞춤형 냉난방공조 설루션",
-      "url": "https://n.news.naver.com/mnews/article/001/0016201719"
+      "title": "서울 상위 1% 아파트 입성하려면 얼마 필요할까?",
+      "url": "https://n.news.naver.com/mnews/article/005/0001861924"
     },
     {
-      "title": "‘경주마·가두리' 판치던 코인 시장… 당국, 불공정거래 30여건 고발·통보",
-      "url": "https://n.news.naver.com/mnews/article/366/0001180155"
+      "title": "원·달러 환율 0.1원 내린 1478.4원(오후 3시30분)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005791987"
     },
     {
-      "title": "AI 플랫폼 주간 사용량 1~5위 中 싹쓸이…美 고가 AI 흔든다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014073756"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000886990"
     },
     {
-      "title": "한은 금리인상 후폭풍 더 커지나…주담대 7.5%·보금자리론 5% 현실화",
-      "url": "https://n.news.naver.com/mnews/article/005/0001861727"
+      "title": "5년 만에 판박이 물류센터 대형 화재…안전 강화했다던 쿠팡, 다시 시험대",
+      "url": "https://n.news.naver.com/mnews/article/055/0001373765"
     },
     {
-      "title": "\"방이 움직였다\"…23년 만에 가족여행 선물한 기아 PV5",
-      "url": "https://n.news.naver.com/mnews/article/029/0003037550"
+      "title": "개도국에 AI데이터센터 구축하고 AI솔루션 지원···유상원조에도 ‘AI’사업 추진",
+      "url": "https://n.news.naver.com/mnews/article/032/0003459195"
     },
     {
-      "title": "2000억 자금 확보한 홈플러스… 영업 정상화까지는 험로",
-      "url": "https://n.news.naver.com/mnews/article/014/0005549776"
+      "title": "‘도덕적 해이’ 비판에도… 권대영 “장기채무 탕감은 금융선진화”",
+      "url": "https://n.news.naver.com/mnews/article/022/0004144448"
     },
     {
-      "title": "‘닥공’ 나선 정부, 신속매입임대 전면 시행으로 우선 비아파트 공급[부동산360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002671995"
+      "title": "2000억 조달한 홈플러스 …\"회생절차 재개를\" 즉시항고",
+      "url": "https://n.news.naver.com/mnews/article/009/0005709684"
     },
     {
-      "title": "홍콩이 더 큰데…국내 레버리지 ETF만 죄어도 변동성 잡힐까",
-      "url": "https://n.news.naver.com/mnews/article/025/0003538525"
+      "title": "\"요가·필라테스 이용자 10%, 휴폐업에 돈 떼여\"…표준약관 마련",
+      "url": "https://n.news.naver.com/mnews/article/374/0000522533"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6820.6,
-      "change": -463.81,
-      "change_pct": -6.37
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 791.84,
-      "change": -37.59,
-      "change_pct": -4.53
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25520.24,
-      "change": -361.71,
-      "change_pct": -1.4
+      "value": 25508.07,
+      "change": -12.17,
+      "change_pct": -0.05
     },
     "usdkrw": {
-      "value": 1486.53,
-      "change": 7.68,
-      "change_pct": 0.52
+      "value": 1475.41,
+      "change": -3.44,
+      "change_pct": -0.23
     }
   },
   "gold": {
-    "price_usd": 4018.8,
-    "price_krw": 5974066,
+    "price_usd": 4011.8,
+    "price_krw": 5919049,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-07-20 06:50",
+  "updated": "2026-07-21 06:58",
   "error": null
 }
