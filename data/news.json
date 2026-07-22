@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "신세계, 글로벌 럭셔리 호텔 '아만' 개발 나선다…\"5억 달러 투자금 조성\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009069510"
+      "title": "‘국민 소통’ 대통령 세종집무실 밑그림 나왔다…2029년 8월 입주 목표",
+      "url": "https://n.news.naver.com/mnews/article/028/0002815224"
     },
     {
-      "title": "카카오뱅크 노조, 31일 전면 파업…\"서비스 제공 문제 없어\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009071526"
+      "title": "은행 연체율 10년만에 최고…中企는 1% 넘어",
+      "url": "https://n.news.naver.com/mnews/article/009/0005710948"
     },
     {
-      "title": "한정애 \"홈플러스 회생·정상화에 전력 다하겠다\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005550610"
+      "title": "방미 김정관 “대미투자 1호, 에너지 중심 협의…이르면 8월 말 발표”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002815354"
     },
     {
-      "title": "독일 6월 생산자 물가지수 1.8%↑ '둔화'…\"3개월째 상승\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014076968"
+      "title": "SK하이닉스, 청주 HBM 패키징 공장 건설에 속도",
+      "url": "https://n.news.naver.com/mnews/article/119/0003113897"
     },
     {
-      "title": "\"생닭·장어·전복 보양식 최대 50% 할인\" 이마트, '중복 대전'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014079827"
+      "title": "산업은행, 여수 석유화학단지 사업구조 전환에 4500억 금융지원",
+      "url": "https://n.news.naver.com/mnews/article/421/0009073504"
     },
     {
-      "title": "기대 못 미친 '인보사' 미국 임상에 코오롱티슈진 \"실패 아냐\"... 주가는 급락",
-      "url": "https://n.news.naver.com/mnews/article/469/0000943469"
+      "title": "용인 반도체산단 전기공급 2053년→2042년…“적기공급에 모든 역량 집중”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002673597"
+    },
+    {
+      "title": "포스코그룹, 경북 포항에 첨단 제조 인큐베이팅센터",
+      "url": "https://n.news.naver.com/mnews/article/015/0005312756"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/449/0000353789"
+      "url": "https://n.news.naver.com/mnews/article/422/0000887837"
     },
     {
-      "title": "5월 서울 아파트값 1.3% '껑충'…전셋값도 1.0% 상승",
-      "url": "https://n.news.naver.com/mnews/article/001/0016207101"
+      "title": "주택·주식 뛰자 가계순자산 9%늘었는데···주택값 수도권 쏠림은 역대 최고",
+      "url": "https://n.news.naver.com/mnews/article/032/0003459701"
     },
     {
-      "title": "\"로봇 사업 본격화\" 삼성전자 5% 급등[핫종목]",
-      "url": "https://n.news.naver.com/mnews/article/421/0009070009"
-    },
-    {
-      "title": "현대차 노조 “더 이상 기다리지 않겠다”…현장투쟁 총력전",
-      "url": "https://n.news.naver.com/mnews/article/016/0002672742"
+      "title": "롯데백화점 입점 상담 빨라진다…파트너사 'AI 비즈센터' 업계 첫 도입",
+      "url": "https://n.news.naver.com/mnews/article/003/0014082509"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6516.27,
+      "value": 6747.95,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 749.64,
+      "value": 753.34,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25837.21,
-      "change": 329.14,
-      "change_pct": 1.29
+      "value": 25690.9,
+      "change": -146.31,
+      "change_pct": -0.57
     },
     "usdkrw": {
-      "value": 1480.16,
-      "change": -7.23,
-      "change_pct": -0.49
+      "value": 1476.35,
+      "change": 1.34,
+      "change_pct": 0.09
     }
   },
   "gold": {
-    "price_usd": 4082.2,
-    "price_krw": 6042309,
-    "change": 71.9,
-    "change_pct": 1.79
+    "price_usd": 4135.0,
+    "price_krw": 6104707,
+    "change": 63.9,
+    "change_pct": 1.57
   },
-  "updated": "2026-07-22 07:02",
+  "updated": "2026-07-23 07:02",
   "error": null
 }
