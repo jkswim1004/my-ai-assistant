@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "‘국민 소통’ 대통령 세종집무실 밑그림 나왔다…2029년 8월 입주 목표",
-      "url": "https://n.news.naver.com/mnews/article/028/0002815224"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000502738"
     },
     {
-      "title": "은행 연체율 10년만에 최고…中企는 1% 넘어",
-      "url": "https://n.news.naver.com/mnews/article/009/0005710948"
+      "title": "“해외 바이어 모셔라”... 글로벌 공략 사활 건 K패션",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989269"
     },
     {
-      "title": "방미 김정관 “대미투자 1호, 에너지 중심 협의…이르면 8월 말 발표”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002815354"
-    },
-    {
-      "title": "SK하이닉스, 청주 HBM 패키징 공장 건설에 속도",
-      "url": "https://n.news.naver.com/mnews/article/119/0003113897"
-    },
-    {
-      "title": "산업은행, 여수 석유화학단지 사업구조 전환에 4500억 금융지원",
-      "url": "https://n.news.naver.com/mnews/article/421/0009073504"
-    },
-    {
-      "title": "용인 반도체산단 전기공급 2053년→2042년…“적기공급에 모든 역량 집중”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002673597"
-    },
-    {
-      "title": "포스코그룹, 경북 포항에 첨단 제조 인큐베이팅센터",
-      "url": "https://n.news.naver.com/mnews/article/015/0005312756"
+      "title": "현대차 2분기 매출 신기록… 전쟁·화재 탓 영업익은 20% ‘뚝’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004145496"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000887837"
+      "url": "https://n.news.naver.com/mnews/article/422/0000888226"
     },
     {
-      "title": "주택·주식 뛰자 가계순자산 9%늘었는데···주택값 수도권 쏠림은 역대 최고",
-      "url": "https://n.news.naver.com/mnews/article/032/0003459701"
+      "title": "IPARK현산 2분기 영업익 1,227억 원...전년 대비 53%↑",
+      "url": "https://n.news.naver.com/mnews/article/215/0001259782"
     },
     {
-      "title": "롯데백화점 입점 상담 빨라진다…파트너사 'AI 비즈센터' 업계 첫 도입",
-      "url": "https://n.news.naver.com/mnews/article/003/0014082509"
+      "title": "문닫은 홈플러스 부지에 오피스텔·키즈카페 짓는다",
+      "url": "https://n.news.naver.com/mnews/article/021/0002806480"
+    },
+    {
+      "title": "포스코 노사 단체교섭 결렬…중노위 조정 돌입",
+      "url": "https://n.news.naver.com/mnews/article/215/0001259716"
+    },
+    {
+      "title": "2분기 한국 경제, 0.6% 성장···실질소득 상승률 38년만에 최고치",
+      "url": "https://n.news.naver.com/mnews/article/032/0003459850"
+    },
+    {
+      "title": "동탄·영통 급등세 꺾였지만…분당·수지로 번지는 수도권 집값",
+      "url": "https://n.news.naver.com/mnews/article/011/0004644406"
+    },
+    {
+      "title": "삼성전자 노사, 반도체 성과급 '사회공헌 연내 추진'",
+      "url": "https://n.news.naver.com/mnews/article/079/0004171392"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6747.95,
+      "value": 6797.7,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 753.34,
+      "value": 751.09,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25690.9,
-      "change": -146.31,
-      "change_pct": -0.57
+      "value": 25137.69,
+      "change": -553.21,
+      "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1476.35,
-      "change": 1.34,
-      "change_pct": 0.09
+      "value": 1474.13,
+      "change": -1.5,
+      "change_pct": -0.1
     }
   },
   "gold": {
-    "price_usd": 4135.0,
-    "price_krw": 6104707,
-    "change": 63.9,
-    "change_pct": 1.57
+    "price_usd": 4052.3,
+    "price_krw": 5973617,
+    "change": -94.6,
+    "change_pct": -2.28
   },
-  "updated": "2026-07-23 07:02",
+  "updated": "2026-07-24 07:02",
   "error": null
 }
