@@ -2,73 +2,73 @@
   "news": [
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000502738"
-    },
-    {
-      "title": "“해외 바이어 모셔라”... 글로벌 공략 사활 건 K패션",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989269"
-    },
-    {
-      "title": "현대차 2분기 매출 신기록… 전쟁·화재 탓 영업익은 20% ‘뚝’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004145496"
+      "url": "https://n.news.naver.com/mnews/article/052/0002384156"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000888226"
+      "url": "https://n.news.naver.com/mnews/article/055/0001375001"
     },
     {
-      "title": "IPARK현산 2분기 영업익 1,227억 원...전년 대비 53%↑",
-      "url": "https://n.news.naver.com/mnews/article/215/0001259782"
+      "title": "탈북 청소년 '여명학교' 이사 끝…'맞춤형' 교사 건립 업무협약",
+      "url": "https://n.news.naver.com/mnews/article/003/0014086058"
     },
     {
-      "title": "문닫은 홈플러스 부지에 오피스텔·키즈카페 짓는다",
-      "url": "https://n.news.naver.com/mnews/article/021/0002806480"
+      "title": "기아 \"유럽서 中업체 단기 대응 위해 인센티브 확대…장기적인 전략 아냐\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005390553"
     },
     {
-      "title": "포스코 노사 단체교섭 결렬…중노위 조정 돌입",
-      "url": "https://n.news.naver.com/mnews/article/215/0001259716"
+      "title": "EU, 러시아 LNG 韓 수입 제재 면제…연간 200만 톤 수입 길 열려",
+      "url": "https://n.news.naver.com/mnews/article/421/0009077993"
     },
     {
-      "title": "2분기 한국 경제, 0.6% 성장···실질소득 상승률 38년만에 최고치",
-      "url": "https://n.news.naver.com/mnews/article/032/0003459850"
+      "title": "우리금융, 상반기 당기순익 1조6090억원…전년 대비 3.7% 증가",
+      "url": "https://n.news.naver.com/mnews/article/016/0002674761"
     },
     {
-      "title": "동탄·영통 급등세 꺾였지만…분당·수지로 번지는 수도권 집값",
-      "url": "https://n.news.naver.com/mnews/article/011/0004644406"
+      "title": "[속보] 코스피 급락에 매도 사이드카 발동",
+      "url": "https://n.news.naver.com/mnews/article/052/0002383922"
     },
     {
-      "title": "삼성전자 노사, 반도체 성과급 '사회공헌 연내 추진'",
-      "url": "https://n.news.naver.com/mnews/article/079/0004171392"
+      "title": "대통령 직속 규합위, 가상자산사업자 '대주주 적격성' 개선 권고",
+      "url": "https://n.news.naver.com/mnews/article/014/0005552644"
+    },
+    {
+      "title": "육개장사발면·새우깡·카프리썬·던킨도넛 등 내달 가격 인상(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016212862"
+    },
+    {
+      "title": "한화오션, 美 함정 공동설계 본격화…'마스가' 힘 싣는다",
+      "url": "https://n.news.naver.com/mnews/article/215/0001259822"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6797.7,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 751.09,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 25137.69,
-      "change": -553.21,
-      "change_pct": -2.15
+      "value": 24975.82,
+      "change": -161.87,
+      "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1474.13,
-      "change": -1.5,
-      "change_pct": -0.1
+      "value": 1459.42,
+      "change": -16.21,
+      "change_pct": -1.1
     }
   },
   "gold": {
-    "price_usd": 4052.3,
-    "price_krw": 5973617,
-    "change": -94.6,
-    "change_pct": -2.28
+    "price_usd": 4055.7,
+    "price_krw": 5918969,
+    "change": 9.1,
+    "change_pct": 0.22
   },
-  "updated": "2026-07-24 07:02",
+  "updated": "2026-07-25 07:02",
   "error": null
 }
