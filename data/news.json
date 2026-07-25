@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002384156"
+      "title": "정부, 석유 최고가격 ‘휘발유 1784원·경유1773원’으로 유지",
+      "url": "https://n.news.naver.com/mnews/article/366/0001181750"
+    },
+    {
+      "title": "이재용·정의선·이해진, 엔비디아 본사서 젠슨 황 만났다(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016214197"
+    },
+    {
+      "title": "현대자동차그룹, 엔비디아와 '로봇 레퍼런스 플랫폼' 공동 구축",
+      "url": "https://n.news.naver.com/mnews/article/079/0004171980"
+    },
+    {
+      "title": "최태원 \"한국 3대 AI 메가 프로젝트, 허황되지 않아\"",
+      "url": "https://n.news.naver.com/mnews/article/092/0002431862"
+    },
+    {
+      "title": "중동 긴장고조에 국내유가 반등 조짐…최고가격제로 '시간벌기'",
+      "url": "https://n.news.naver.com/mnews/article/001/0016214699"
+    },
+    {
+      "title": "쿠팡 사태 진화 나선 정부…미국 정부·의회·업계 현지 설득전",
+      "url": "https://n.news.naver.com/mnews/article/001/0016214241"
+    },
+    {
+      "title": "이재용, 이 대통령 자서전 언급하며 “AI 세대 더 큰 꿈 이루도록 노력”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002815703"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001375001"
+      "url": "https://n.news.naver.com/mnews/article/422/0000888850"
     },
     {
-      "title": "탈북 청소년 '여명학교' 이사 끝…'맞춤형' 교사 건립 업무협약",
-      "url": "https://n.news.naver.com/mnews/article/003/0014086058"
+      "title": "패션 판 흔들었던 3040세대 창업자들, 줄줄이 K뷰티에 베팅",
+      "url": "https://n.news.naver.com/mnews/article/366/0001181891"
     },
     {
-      "title": "기아 \"유럽서 中업체 단기 대응 위해 인센티브 확대…장기적인 전략 아냐\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005390553"
-    },
-    {
-      "title": "EU, 러시아 LNG 韓 수입 제재 면제…연간 200만 톤 수입 길 열려",
-      "url": "https://n.news.naver.com/mnews/article/421/0009077993"
-    },
-    {
-      "title": "우리금융, 상반기 당기순익 1조6090억원…전년 대비 3.7% 증가",
-      "url": "https://n.news.naver.com/mnews/article/016/0002674761"
-    },
-    {
-      "title": "[속보] 코스피 급락에 매도 사이드카 발동",
-      "url": "https://n.news.naver.com/mnews/article/052/0002383922"
-    },
-    {
-      "title": "대통령 직속 규합위, 가상자산사업자 '대주주 적격성' 개선 권고",
-      "url": "https://n.news.naver.com/mnews/article/014/0005552644"
-    },
-    {
-      "title": "육개장사발면·새우깡·카프리썬·던킨도넛 등 내달 가격 인상(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016212862"
-    },
-    {
-      "title": "한화오션, 美 함정 공동설계 본격화…'마스가' 힘 싣는다",
-      "url": "https://n.news.naver.com/mnews/article/215/0001259822"
+      "title": "개미들도 국장 외면?…서학개미 이번달 순매수 4배 폭증",
+      "url": "https://n.news.naver.com/mnews/article/374/0000523674"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6690.62,
+      "change": -406.27,
+      "change_pct": -5.72
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 748.22,
+      "change": -42.06,
+      "change_pct": -5.32
     },
     "nasdaq": {
       "value": 24975.82,
@@ -58,17 +58,17 @@
       "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1459.42,
-      "change": -16.21,
-      "change_pct": -1.1
+      "value": 1462.1,
+      "change": -11.94,
+      "change_pct": -0.81
     }
   },
   "gold": {
-    "price_usd": 4055.7,
-    "price_krw": 5918969,
-    "change": 9.1,
-    "change_pct": 0.22
+    "price_usd": 4067.6,
+    "price_krw": 5947238,
+    "change": 21.0,
+    "change_pct": 0.52
   },
-  "updated": "2026-07-25 07:02",
+  "updated": "2026-07-26 06:54",
   "error": null
 }
