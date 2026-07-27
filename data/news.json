@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "14년 만에 새벽배송 열린다는데… 마트는 왜 웃지 못하나[Why]",
-      "url": "https://n.news.naver.com/mnews/article/366/0001182031"
+      "title": "한화오션, 칠레서 차세대 잠수함 수주 ‘정조준’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004645689"
     },
     {
-      "title": "“강남 집 양도세, 200억 공제받아…장특공 손봐야”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003540276"
+      "title": "단일 레버리지 보완책 시행 앞두고…거래대금 10조 아래로 '뚝'",
+      "url": "https://n.news.naver.com/mnews/article/001/0016217536"
     },
     {
-      "title": "\"K김치 본토의 맛 통했다\"…풀무원, 美 상반기 매출 12.3% 껑충",
-      "url": "https://n.news.naver.com/mnews/article/018/0006336954"
+      "title": "국토장관 \"비아파트 공급 활성화…필요하면 그린벨트 해제\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001375756"
     },
     {
-      "title": "안강식당·동주염전 '백년소상공인'에…정부, 300개사 추가",
-      "url": "https://n.news.naver.com/mnews/article/014/0005552864"
+      "title": "[단독] 양도세 실거주 공제 10억대로 제한",
+      "url": "https://n.news.naver.com/mnews/article/023/0003989975"
     },
     {
-      "title": "해외주식 팔았다고 끝 아니다…RIA 세제 혜택, ‘결제일’ 확인해야",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989650"
+      "title": "코인거래소 고팍스, 새 대표에 김나영 전 AWS코리아 금융사업개발 총괄",
+      "url": "https://n.news.naver.com/mnews/article/277/0005794992"
     },
     {
-      "title": "美빅테크에 K반도체 장기공급 계약…“피크아웃 우려 완화 기대”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003736648"
+      "title": "두산에너빌리티, 2분기 영업이익 15.9%↑…가스터빈·원전 앞세워 '수주 7조원' 돌파",
+      "url": "https://n.news.naver.com/mnews/article/138/0002235627"
     },
     {
-      "title": "박홍근 “교육교부금 20.79% 연동 깬다”…학령인구 감소 반영해 개편 추진",
-      "url": "https://n.news.naver.com/mnews/article/025/0003540142"
+      "title": "\"해킹 23시간 지났는데 원인 못 찾아\"…위믹스, 또 보안 논란",
+      "url": "https://n.news.naver.com/mnews/article/015/0005314278"
     },
     {
-      "title": "단일종목 레버리지도 ‘물타기’?…개미, 증시 급락날 집중매수 [이런국장 저런주식]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004645393"
+      "title": "에어부산, 2분기 매출 2353억·영업손실 355억…“고유가, 환율 부담↑”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002675744"
     },
     {
-      "title": "우리銀, 하반기 'AI·데이터' 기반영업 가속…\"경쟁은행과 격차 줄일 것\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005794598"
+      "title": "미 WSJ \"SK하이닉스 ADR 프리미엄, AI 거래 과열 신호\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000889113"
     },
     {
-      "title": "현대차그룹, 美 실리콘밸리 혁신거점 15년…미래 인재까지 선점한다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009079153"
+      "title": "LG전자, 국내 첫 엔비디아 인증 획득…AI 데이터센터 시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/079/0004172238"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7096.89,
+      "value": 6755.75,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 790.28,
+      "value": 748.22,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 24932.08,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "usdkrw": {
-      "value": 1459.42,
-      "change": -14.62,
-      "change_pct": -0.99
+      "value": 1465.79,
+      "change": -8.25,
+      "change_pct": -0.56
     }
   },
   "gold": {
-    "price_usd": 4070.8,
-    "price_krw": 5941007,
+    "price_usd": 4078.6,
+    "price_krw": 5978371,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-07-27 06:58",
+  "updated": "2026-07-28 07:04",
   "error": null
 }
