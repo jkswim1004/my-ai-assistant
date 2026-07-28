@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "한화오션, 칠레서 차세대 잠수함 수주 ‘정조준’",
-      "url": "https://n.news.naver.com/mnews/article/011/0004645689"
+      "title": "‘저PBR’ 기업 11월부터 공개…코스피 하위 25%·코스닥 10%",
+      "url": "https://n.news.naver.com/mnews/article/081/0003665594"
     },
     {
-      "title": "단일 레버리지 보완책 시행 앞두고…거래대금 10조 아래로 '뚝'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016217536"
+      "title": "\"주식 시장 이게 맞나?\" 통곡의 개미들…코스피 -10% 대폭락",
+      "url": "https://n.news.naver.com/mnews/article/008/0005392165"
     },
     {
-      "title": "국토장관 \"비아파트 공급 활성화…필요하면 그린벨트 해제\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001375756"
+      "title": "\"K-뷰티, 브라질 인기\"…중기부, '중기 진출' 지원",
+      "url": "https://n.news.naver.com/mnews/article/003/0014091682"
     },
     {
-      "title": "[단독] 양도세 실거주 공제 10억대로 제한",
-      "url": "https://n.news.naver.com/mnews/article/023/0003989975"
+      "title": "삼전닉스 2배 투자, '개인별 20% 한도' 검토한다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006338052"
     },
     {
-      "title": "코인거래소 고팍스, 새 대표에 김나영 전 AWS코리아 금융사업개발 총괄",
-      "url": "https://n.news.naver.com/mnews/article/277/0005794992"
+      "title": "\"삼전닉스 따라 널뛰는 日 증시\"…닛케이 \"리먼 사태 이후 최대 변동성\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005554255"
     },
     {
-      "title": "두산에너빌리티, 2분기 영업이익 15.9%↑…가스터빈·원전 앞세워 '수주 7조원' 돌파",
-      "url": "https://n.news.naver.com/mnews/article/138/0002235627"
+      "title": "국민 10명 중 4명 땅 가졌다…60대 비중 최고·세대당 면적은 줄어",
+      "url": "https://n.news.naver.com/mnews/article/029/0003039471"
     },
     {
-      "title": "\"해킹 23시간 지났는데 원인 못 찾아\"…위믹스, 또 보안 논란",
-      "url": "https://n.news.naver.com/mnews/article/015/0005314278"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001375905"
     },
     {
-      "title": "에어부산, 2분기 매출 2353억·영업손실 355억…“고유가, 환율 부담↑”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002675744"
+      "title": "\"BNK·JB 합병 시도 중단하라\" 부산 시민사회, 행동주의펀드 직격",
+      "url": "https://n.news.naver.com/mnews/article/079/0004172847"
     },
     {
-      "title": "미 WSJ \"SK하이닉스 ADR 프리미엄, AI 거래 과열 신호\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000889113"
+      "title": "값싸다고 무턱대고 샀다가 낭패…공기청정기 호환필터 고르는 법",
+      "url": "https://n.news.naver.com/mnews/article/022/0004146492"
     },
     {
-      "title": "LG전자, 국내 첫 엔비디아 인증 획득…AI 데이터센터 시장 공략",
-      "url": "https://n.news.naver.com/mnews/article/079/0004172238"
+      "title": "한화시스템 \"오스탈 평가손 360억...가상자산 코인 펀드는 96억 플러스\"[컨콜]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005553991"
     }
   ],
   "stocks": {
@@ -48,27 +48,27 @@
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 748.22,
+      "value": 764.86,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24932.08,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 24876.91,
+      "change": -55.17,
+      "change_pct": -0.22
     },
     "usdkrw": {
-      "value": 1465.79,
-      "change": -8.25,
-      "change_pct": -0.56
+      "value": 1453.46,
+      "change": -4.55,
+      "change_pct": -0.31
     }
   },
   "gold": {
-    "price_usd": 4078.6,
-    "price_krw": 5978371,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4028.8,
+    "price_krw": 5855699,
+    "change": -45.7,
+    "change_pct": -1.12
   },
-  "updated": "2026-07-28 07:04",
+  "updated": "2026-07-29 07:03",
   "error": null
 }
