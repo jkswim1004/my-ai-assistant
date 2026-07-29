@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "‘저PBR’ 기업 11월부터 공개…코스피 하위 25%·코스닥 10%",
-      "url": "https://n.news.naver.com/mnews/article/081/0003665594"
+      "title": "SK하이닉스 \"내년 공급·가격 협상 순조롭게 진행\" [컨콜]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005554396"
     },
     {
-      "title": "\"주식 시장 이게 맞나?\" 통곡의 개미들…코스피 -10% 대폭락",
-      "url": "https://n.news.naver.com/mnews/article/008/0005392165"
+      "title": "삼성물산, 2분기 영업익 1조 달성..전년 대비 37%↑",
+      "url": "https://n.news.naver.com/mnews/article/008/0005392850"
     },
     {
-      "title": "\"K-뷰티, 브라질 인기\"…중기부, '중기 진출' 지원",
-      "url": "https://n.news.naver.com/mnews/article/003/0014091682"
+      "title": "당국 \"단일종목 레버리지 개인투자 한도 설정…즉시 추진\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001376546"
     },
     {
-      "title": "삼전닉스 2배 투자, '개인별 20% 한도' 검토한다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006338052"
+      "title": "5월 출생아 증가율 13.6%...넉 달 연속 역대 최고",
+      "url": "https://n.news.naver.com/mnews/article/052/0002386085"
     },
     {
-      "title": "\"삼전닉스 따라 널뛰는 日 증시\"…닛케이 \"리먼 사태 이후 최대 변동성\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005554255"
+      "title": "농식품부, 대한산란계협회 비영리법인 설립 허가 취소",
+      "url": "https://n.news.naver.com/mnews/article/001/0016221705"
     },
     {
-      "title": "국민 10명 중 4명 땅 가졌다…60대 비중 최고·세대당 면적은 줄어",
-      "url": "https://n.news.naver.com/mnews/article/029/0003039471"
+      "title": "'지하철급' 급행버스, 전국 38곳서 달린다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005315348"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001375905"
+      "title": "LG생활건강, 2분기 영업익 1028억원… 전년比 87.5%↑",
+      "url": "https://n.news.naver.com/mnews/article/366/0001182883"
     },
     {
-      "title": "\"BNK·JB 합병 시도 중단하라\" 부산 시민사회, 행동주의펀드 직격",
-      "url": "https://n.news.naver.com/mnews/article/079/0004172847"
+      "title": "서울시 기후동행카드, 8월 종료…9월부터 '모두의카드'로",
+      "url": "https://n.news.naver.com/mnews/article/008/0005393102"
     },
     {
-      "title": "값싸다고 무턱대고 샀다가 낭패…공기청정기 호환필터 고르는 법",
-      "url": "https://n.news.naver.com/mnews/article/022/0004146492"
+      "title": "韓 20억 차익땐 양도세 7900만원…美英 대비 부담 적어",
+      "url": "https://n.news.naver.com/mnews/article/018/0006339553"
     },
     {
-      "title": "한화시스템 \"오스탈 평가손 360억...가상자산 코인 펀드는 96억 플러스\"[컨콜]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005553991"
+      "title": "코스피·코스닥 8%대 ‘급락’…이틀 연속 동반 서킷브레이커",
+      "url": "https://n.news.naver.com/mnews/article/028/0002816233"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6755.75,
+      "value": 6023.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 764.86,
+      "value": 705.85,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24876.91,
-      "change": -55.17,
-      "change_pct": -0.22
+      "value": 24442.94,
+      "change": -433.97,
+      "change_pct": -1.74
     },
     "usdkrw": {
-      "value": 1453.46,
-      "change": -4.55,
-      "change_pct": -0.31
+      "value": 1442.96,
+      "change": -21.48,
+      "change_pct": -1.47
     }
   },
   "gold": {
-    "price_usd": 4028.8,
-    "price_krw": 5855699,
-    "change": -45.7,
-    "change_pct": -1.12
+    "price_usd": 4126.0,
+    "price_krw": 5953652,
+    "change": 89.7,
+    "change_pct": 2.22
   },
-  "updated": "2026-07-29 07:03",
+  "updated": "2026-07-30 06:59",
   "error": null
 }
