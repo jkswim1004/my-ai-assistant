@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "SK하이닉스 \"내년 공급·가격 협상 순조롭게 진행\" [컨콜]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005554396"
+      "title": "삼전닉스 레버리지 규제 강화…\"개인 투자액 20% 이내 제한 검토\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005315410"
     },
     {
-      "title": "삼성물산, 2분기 영업익 1조 달성..전년 대비 37%↑",
-      "url": "https://n.news.naver.com/mnews/article/008/0005392850"
+      "title": "반도체·AI주 급등…뉴욕증시 상승 마감",
+      "url": "https://n.news.naver.com/mnews/article/374/0000524756"
     },
     {
-      "title": "당국 \"단일종목 레버리지 개인투자 한도 설정…즉시 추진\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001376546"
+      "title": "배재규 한투운용 대표 “단일종목 레버리지, 상폐보다는 자연 소멸 최선”",
+      "url": "https://n.news.naver.com/mnews/article/648/0000049381"
     },
     {
-      "title": "5월 출생아 증가율 13.6%...넉 달 연속 역대 최고",
-      "url": "https://n.news.naver.com/mnews/article/052/0002386085"
+      "title": "아모레퍼시픽 2분기 영업익 53%↑…국내·외 동시 성장",
+      "url": "https://n.news.naver.com/mnews/article/417/0001153756"
     },
     {
-      "title": "농식품부, 대한산란계협회 비영리법인 설립 허가 취소",
-      "url": "https://n.news.naver.com/mnews/article/001/0016221705"
+      "title": "배터리 3사, 2분기 일제히 흑자 전환… 캐즘 본격화 이후 처음",
+      "url": "https://n.news.naver.com/mnews/article/023/0003990578"
     },
     {
-      "title": "'지하철급' 급행버스, 전국 38곳서 달린다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005315348"
+      "title": "한은 \"프로젝트 아고라, 실제 운영 환경에서도 안정적 가동\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005797005"
     },
     {
-      "title": "LG생활건강, 2분기 영업익 1028억원… 전년比 87.5%↑",
-      "url": "https://n.news.naver.com/mnews/article/366/0001182883"
+      "title": "美 연준 매파적 동결…한은, 기준금리 인상 속도 내나",
+      "url": "https://n.news.naver.com/mnews/article/001/0016223059"
     },
     {
-      "title": "서울시 기후동행카드, 8월 종료…9월부터 '모두의카드'로",
-      "url": "https://n.news.naver.com/mnews/article/008/0005393102"
+      "title": "포스코DX, 2분기 영업이익 42% 감소…전분기 대비는 170% 반등",
+      "url": "https://n.news.naver.com/mnews/article/009/0005714388"
     },
     {
-      "title": "韓 20억 차익땐 양도세 7900만원…美英 대비 부담 적어",
-      "url": "https://n.news.naver.com/mnews/article/018/0006339553"
+      "title": "LG디스플레이, '국민성장펀드' 지원 기업 선정…3조원 규모 투자 속도",
+      "url": "https://n.news.naver.com/mnews/article/092/0002432576"
     },
     {
-      "title": "코스피·코스닥 8%대 ‘급락’…이틀 연속 동반 서킷브레이커",
-      "url": "https://n.news.naver.com/mnews/article/028/0002816233"
+      "title": "삼성전자, 2Q 영업익 89.5조 '역대 최대'...DX는 사상 첫 적자",
+      "url": "https://n.news.naver.com/mnews/article/092/0002432459"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6023.66,
+      "value": 5663.24,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 705.85,
+      "value": 662.68,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 24442.94,
-      "change": -433.97,
-      "change_pct": -1.74
+      "value": 25122.18,
+      "change": 679.24,
+      "change_pct": 2.78
     },
     "usdkrw": {
-      "value": 1442.96,
-      "change": -21.48,
-      "change_pct": -1.47
+      "value": 1422.4,
+      "change": -30.76,
+      "change_pct": -2.12
     }
   },
   "gold": {
-    "price_usd": 4126.0,
-    "price_krw": 5953652,
-    "change": 89.7,
-    "change_pct": 2.22
+    "price_usd": 4162.8,
+    "price_krw": 5921166,
+    "change": 128.1,
+    "change_pct": 3.17
   },
-  "updated": "2026-07-30 06:59",
+  "updated": "2026-07-31 07:04",
   "error": null
 }
