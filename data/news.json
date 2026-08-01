@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "'개인정보 유출' 쿠팡에 1인당 10만원 배상 결정…수용 여부 주목",
-      "url": "https://n.news.naver.com/mnews/article/421/0009090349"
+      "title": "7월 수출 989억달러로 전년比 62.8% 증가…역대 2위 [종합]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005316262"
     },
     {
-      "title": "6월까지 국세수입 223조 원…1년 전보다 33조 더 걷혀",
-      "url": "https://n.news.naver.com/mnews/article/056/0012228967"
+      "title": "SSG닷컴, 여름 상품 최대 60% 할인…3일부터 '쇼핑 익스프레스'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009092000"
     },
     {
-      "title": "두산, SK실트론 2.3조에 인수... 반도체 사업 몸집 키운다",
-      "url": "https://n.news.naver.com/mnews/article/023/0003990748"
+      "title": "미국 해군력 재건과 한미 조선협력의 전략적 과제",
+      "url": "https://n.news.naver.com/mnews/article/053/0000060364"
     },
     {
-      "title": "‘불닭’ 인기, 한국 여행으로…문체부·삼양식품, 방한 관광 홍보 맞손",
-      "url": "https://n.news.naver.com/mnews/article/016/0002677997"
+      "title": "“열대야도 아닌데 잠이 안온다”…7월 최악의 변동성, 8월은 괜찮을까?",
+      "url": "https://n.news.naver.com/mnews/article/009/0005715292"
     },
     {
-      "title": "SK하이닉스 29.95% 사상 첫 상한가…171만 8000원(상보)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009090549"
+      "title": "'AI 노스트라다무스'의 추락…시타델 나서자 시장은 안도",
+      "url": "https://n.news.naver.com/mnews/article/008/0005394269"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000891135"
+      "url": "https://n.news.naver.com/mnews/article/437/0000504037"
     },
     {
-      "title": "단일종목 레버리지 상품 규제 첫날, 거래대금 ‘뚝’…12조원대서 3조원대로 급감",
-      "url": "https://n.news.naver.com/mnews/article/023/0003990740"
+      "title": "중기부 수장공백 '한달'…산하기관도 줄줄이 지연",
+      "url": "https://n.news.naver.com/mnews/article/003/0014102727"
     },
     {
-      "title": "최태원, SK하이닉스 주식 48억 규모 장내매수…\"책임경영 차원\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001376831"
+      "title": "롯데마트, 베트남 17호점 박장에…\"산업도시 공략 속도\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005394321"
     },
     {
-      "title": "LG AI연구원, 국내 최대 7500억개 파라미터 'K-엑사원 2.0' 공개",
-      "url": "https://n.news.naver.com/mnews/article/277/0005797218"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012229180"
     },
     {
-      "title": "HD현대, 2분기 영업익 '4조1246억'…전년比 262.2%↑",
-      "url": "https://n.news.naver.com/mnews/article/018/0006341263"
+      "title": "반도체 뛰어든 두산, AI 집중하는 SK…'슈퍼사이클' 속 실트론 주고 받았다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000945624"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6595.45,
+      "change": 1001.89,
+      "change_pct": 17.91
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 719.76,
+      "change": 74.98,
+      "change_pct": 11.63
     },
     "nasdaq": {
       "value": 25373.85,
@@ -58,17 +58,17 @@
       "change_pct": 1.0
     },
     "usdkrw": {
-      "value": 1442.07,
-      "change": -0.21,
-      "change_pct": -0.01
+      "value": 1436.6,
+      "change": 16.0,
+      "change_pct": 1.13
     }
   },
   "gold": {
-    "price_usd": 4098.6,
-    "price_krw": 5910468,
-    "change": -1.5,
-    "change_pct": -0.04
+    "price_usd": 4049.1,
+    "price_krw": 5816937,
+    "change": -51.0,
+    "change_pct": -1.24
   },
-  "updated": "2026-08-01 07:03",
+  "updated": "2026-08-02 06:53",
   "error": null
 }
