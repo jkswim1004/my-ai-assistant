@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "코스피, 역대급 폭등 직후 5% 급락…코스닥은 상승세",
-      "url": "https://n.news.naver.com/mnews/article/056/0012230235"
+      "title": "쿠팡Inc, 2Q 영업손실 8350억…상장 후 최대 규모 적자",
+      "url": "https://n.news.naver.com/mnews/article/011/0004648586"
     },
     {
-      "title": "월세 세액공제, 연 1200만원으로 확대…배우자 공제 기준도 완화",
-      "url": "https://n.news.naver.com/mnews/article/028/0002816938"
+      "title": "“산업용 전기요금 지역별로 4단계 차등화”… 비수도권 인하·수도권 유지 유력",
+      "url": "https://n.news.naver.com/mnews/article/022/0004148364"
     },
     {
-      "title": "'투자' 넘어 '생산'도 세제 지원…국내생산세액공제 첫 도입",
-      "url": "https://n.news.naver.com/mnews/article/079/0004175038"
+      "title": "예탁금 3000만원으로 오르자…단일종목 레버리지 거래 '뚝'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005317321"
     },
     {
-      "title": "35억 똘똘한 한 채부터 ‘핀셋 증세’",
-      "url": "https://n.news.naver.com/mnews/article/081/0003667180"
+      "title": "롯데하이마트, 2분기 총매출 7339억…하반기 반등 속도(종합)",
+      "url": "https://n.news.naver.com/mnews/article/003/0014108017"
     },
     {
-      "title": "전기차·하이브리드 날개 단 기아…7월 판매 13.4%↑",
-      "url": "https://n.news.naver.com/mnews/article/018/0006343163"
+      "title": "AMD 2분기 실적 발표…스페이스X도 첫 성적표 공개",
+      "url": "https://n.news.naver.com/mnews/article/018/0006344671"
     },
     {
-      "title": "정용진 \"일상 속 문화 공간\"…신세계 '프리즈 서울' 파트너",
-      "url": "https://n.news.naver.com/mnews/article/018/0006342945"
+      "title": "“정부, 주가 누르기 기업에 사실상 면죄부”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003462310"
     },
     {
-      "title": "한화M&S 출범 '김동선號' 닻 올렸다…11조 사업군 독립경영 시험대",
-      "url": "https://n.news.naver.com/mnews/article/003/0014106086"
+      "title": "인천공항, 타슈켄트 신공항 개발 6.9조 수주",
+      "url": "https://n.news.naver.com/mnews/article/015/0005317342"
     },
     {
-      "title": "美 대이란 군사공격 철회에 국제유가 4% 하락",
-      "url": "https://n.news.naver.com/mnews/article/014/0005556288"
+      "title": "스페이스X, 상장 후 첫 분기 실적 발표 예정…월가, 매출 38.2억 달러 전망[실적프리뷰]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006344478"
     },
     {
-      "title": "뉴욕 증시, 중동 긴장완화 기대에 상승 마감···다우 1.32%↑ 사상 최고 경신",
-      "url": "https://n.news.naver.com/mnews/article/003/0014106071"
+      "title": "SK하이닉스, HBF 첫 표준 공개…AI 메모리 생태계 확대",
+      "url": "https://n.news.naver.com/mnews/article/421/0009095395"
     },
     {
-      "title": "'반포자이' 국평 보유세 1810만→2764만원…비거주 땐 3318만원",
-      "url": "https://n.news.naver.com/mnews/article/003/0014105832"
+      "title": "주병기 \"영세 소상공인 배달앱 수수료 낮게…법률상 가능\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000892322"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6595.45,
+      "value": 6257.45,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 719.76,
+      "value": 737.35,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25913.9,
-      "change": 540.05,
-      "change_pct": 2.13
+      "value": 26584.99,
+      "change": 671.09,
+      "change_pct": 2.59
     },
     "usdkrw": {
-      "value": 1428.67,
-      "change": 8.07,
-      "change_pct": 0.57
+      "value": 1429.28,
+      "change": -6.42,
+      "change_pct": -0.45
     }
   },
   "gold": {
-    "price_usd": 4110.9,
-    "price_krw": 5873119,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4134.2,
+    "price_krw": 5908929,
+    "change": 100.5,
+    "change_pct": 2.49
   },
-  "updated": "2026-08-04 07:07",
+  "updated": "2026-08-05 07:09",
   "error": null
 }
