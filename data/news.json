@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "쿠팡Inc, 2Q 영업손실 8350억…상장 후 최대 규모 적자",
-      "url": "https://n.news.naver.com/mnews/article/011/0004648586"
+      "title": "돌아온 외국인 관광객, 성장률 0.15%P 높였다…부가가치 창출은 숙제",
+      "url": "https://n.news.naver.com/mnews/article/025/0003542512"
     },
     {
-      "title": "“산업용 전기요금 지역별로 4단계 차등화”… 비수도권 인하·수도권 유지 유력",
-      "url": "https://n.news.naver.com/mnews/article/022/0004148364"
+      "title": "“2년 벌어 2분기 만에 까먹었다”…쿠팡, 상반기 1.2조 적자",
+      "url": "https://n.news.naver.com/mnews/article/029/0003040717"
     },
     {
-      "title": "예탁금 3000만원으로 오르자…단일종목 레버리지 거래 '뚝'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005317321"
+      "title": "상장 후 첫 성적표 받은 스페이스X…2분기 매출 11조원 ‘깜짝’",
+      "url": "https://n.news.naver.com/mnews/article/016/0002679571"
     },
     {
-      "title": "롯데하이마트, 2분기 총매출 7339억…하반기 반등 속도(종합)",
-      "url": "https://n.news.naver.com/mnews/article/003/0014108017"
+      "title": "홈플러스, 2000억 실탄 장전⋯7일 가오픈",
+      "url": "https://n.news.naver.com/mnews/article/031/0001047470"
     },
     {
-      "title": "AMD 2분기 실적 발표…스페이스X도 첫 성적표 공개",
-      "url": "https://n.news.naver.com/mnews/article/018/0006344671"
+      "title": "고령층 취업자 1000만명 돌파…\"73.6세까지 일하고 싶어요\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005395941"
     },
     {
-      "title": "“정부, 주가 누르기 기업에 사실상 면죄부”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003462310"
+      "title": "AI 가속기 위에 쌓는다...삼성전자, zHBM 공개 \"최대 8배 높은 성능\"",
+      "url": "https://n.news.naver.com/mnews/article/437/0000504646"
     },
     {
-      "title": "인천공항, 타슈켄트 신공항 개발 6.9조 수주",
-      "url": "https://n.news.naver.com/mnews/article/015/0005317342"
+      "title": "삼성전자·하이닉스, 주주환원 확대 재확인…“조만간 공개”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006345406"
     },
     {
-      "title": "스페이스X, 상장 후 첫 분기 실적 발표 예정…월가, 매출 38.2억 달러 전망[실적프리뷰]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006344478"
+      "title": "홍콩 ELS 사태 재발 방지… 손실 구간 10%P 전 ‘경보’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004148729"
     },
     {
-      "title": "SK하이닉스, HBF 첫 표준 공개…AI 메모리 생태계 확대",
-      "url": "https://n.news.naver.com/mnews/article/421/0009095395"
+      "title": "삼성호암상 상금 5억원으로 증액…기술 인재 예우 강화",
+      "url": "https://n.news.naver.com/mnews/article/277/0005798967"
     },
     {
-      "title": "주병기 \"영세 소상공인 배달앱 수수료 낮게…법률상 가능\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000892322"
+      "title": "서정진, 현장 경영 행보… “글로벌 직판 강화”",
+      "url": "https://n.news.naver.com/mnews/article/022/0004148798"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6257.45,
+      "value": 6358.95,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 737.35,
+      "value": 780.72,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26584.99,
-      "change": 671.09,
-      "change_pct": 2.59
+      "value": 26363.44,
+      "change": -221.55,
+      "change_pct": -0.83
     },
     "usdkrw": {
-      "value": 1429.28,
-      "change": -6.42,
+      "value": 1422.04,
+      "change": -6.46,
       "change_pct": -0.45
     }
   },
   "gold": {
-    "price_usd": 4134.2,
-    "price_krw": 5908929,
-    "change": 100.5,
-    "change_pct": 2.49
+    "price_usd": 4309.5,
+    "price_krw": 6128281,
+    "change": 214.1,
+    "change_pct": 5.23
   },
-  "updated": "2026-08-05 07:09",
+  "updated": "2026-08-06 07:11",
   "error": null
 }
