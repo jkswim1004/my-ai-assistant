@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "산업장관 “주 52시간제 손봐야…일하려는 의지 막아선 안 돼”",
-      "url": "https://n.news.naver.com/mnews/article/422/0000893024"
+      "title": "LG, 'K-엑사원 2.0' 체험사이트 공개…14일까지 무료 운영",
+      "url": "https://n.news.naver.com/mnews/article/001/0016239236"
     },
     {
-      "title": "삼닉 레버리지 쏠림완화 속 증시 투자열기까지 식었다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005717722"
+      "title": "공급 후보지 떠오른 용산어린이정원… 吳 “절대 동의 못한다”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001865398"
     },
     {
-      "title": "전세사기 피해주택 매입 '1만호' 넘어…누적 피해자도 4만명",
-      "url": "https://n.news.naver.com/mnews/article/079/0004176376"
+      "title": "\"응원하고 싶어서 왔어요\"…홈플러스 재개장에 고객 줄 섰다 [현장+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005318460"
     },
     {
-      "title": "홈플러스, 오늘부터 영업재개…운명의 한 달 시작됐다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005800074"
+      "title": "서울시 “최근 3년간 정비사업서 주택수 36.4% 순증”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649559"
     },
     {
-      "title": "중고차 판매 수수료 등 포함 총액 표시해야",
-      "url": "https://n.news.naver.com/mnews/article/020/0003739247"
+      "title": "코웨이, 상반기 영업익 5041억…반기 사상최대 실적 경신",
+      "url": "https://n.news.naver.com/mnews/article/421/0009103005"
     },
     {
-      "title": "엔화 살리기 미국…“변동성 과도” 원화도 콕 집었다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003542594"
+      "title": "김영훈 노동장관 \"중견기업이 진짜 성장 핵심\"…청년채용 확대 당부",
+      "url": "https://n.news.naver.com/mnews/article/629/0000522656"
     },
     {
-      "title": "실적 vs 유가 '줄다리기'…뉴욕증시 동반 하락[월스트리트in]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006346525"
+      "title": "롯데케미칼, 2분기 영업이익 1101억원...“흑자 기조 유지”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649618"
     },
     {
-      "title": "“빚투 얼마나 끔찍한지 전혀 몰라”…레버리지 사상 최대규모, 월가 황제 ‘경고’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005717850"
+      "title": "코오롱FnC, 2분기 영업익 158억…전년比 110.7% 증가",
+      "url": "https://n.news.naver.com/mnews/article/421/0009103059"
     },
     {
-      "title": "\"상품 특징 요약해줘\"...쿠팡, AI로 쇼핑 지원 강화",
-      "url": "https://n.news.naver.com/mnews/article/008/0005396904"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001378989"
     },
     {
-      "title": "삼성전자, ‘FMS 어워드’서 V낸드·AI 메모리로 2개 부문 수상",
-      "url": "https://n.news.naver.com/mnews/article/009/0005717324"
+      "title": "‘단 11주’에 SK하닉 시초 하한가… 가격 왜곡 중심 선 프리마켓",
+      "url": "https://n.news.naver.com/mnews/article/005/0001865429"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6281.18,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 802.29,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26348.35,
-      "change": -15.09,
-      "change_pct": -0.06
+      "value": 26690.62,
+      "change": 342.27,
+      "change_pct": 1.3
     },
     "usdkrw": {
-      "value": 1420.78,
-      "change": -0.38,
-      "change_pct": -0.03
+      "value": 1407.45,
+      "change": -13.71,
+      "change_pct": -0.96
     }
   },
   "gold": {
-    "price_usd": 4291.5,
-    "price_krw": 6097277,
-    "change": 45.7,
-    "change_pct": 1.08
+    "price_usd": 4401.3,
+    "price_krw": 6194609,
+    "change": 159.3,
+    "change_pct": 3.76
   },
-  "updated": "2026-08-07 10:00",
+  "updated": "2026-08-08 06:37",
   "error": null
 }
