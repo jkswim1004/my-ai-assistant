@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "돌아온 외국인 관광객, 성장률 0.15%P 높였다…부가가치 창출은 숙제",
-      "url": "https://n.news.naver.com/mnews/article/025/0003542512"
+      "title": "산업장관 “주 52시간제 손봐야…일하려는 의지 막아선 안 돼”",
+      "url": "https://n.news.naver.com/mnews/article/422/0000893024"
     },
     {
-      "title": "“2년 벌어 2분기 만에 까먹었다”…쿠팡, 상반기 1.2조 적자",
-      "url": "https://n.news.naver.com/mnews/article/029/0003040717"
+      "title": "삼닉 레버리지 쏠림완화 속 증시 투자열기까지 식었다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717722"
     },
     {
-      "title": "상장 후 첫 성적표 받은 스페이스X…2분기 매출 11조원 ‘깜짝’",
-      "url": "https://n.news.naver.com/mnews/article/016/0002679571"
+      "title": "전세사기 피해주택 매입 '1만호' 넘어…누적 피해자도 4만명",
+      "url": "https://n.news.naver.com/mnews/article/079/0004176376"
     },
     {
-      "title": "홈플러스, 2000억 실탄 장전⋯7일 가오픈",
-      "url": "https://n.news.naver.com/mnews/article/031/0001047470"
+      "title": "홈플러스, 오늘부터 영업재개…운명의 한 달 시작됐다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005800074"
     },
     {
-      "title": "고령층 취업자 1000만명 돌파…\"73.6세까지 일하고 싶어요\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005395941"
+      "title": "중고차 판매 수수료 등 포함 총액 표시해야",
+      "url": "https://n.news.naver.com/mnews/article/020/0003739247"
     },
     {
-      "title": "AI 가속기 위에 쌓는다...삼성전자, zHBM 공개 \"최대 8배 높은 성능\"",
-      "url": "https://n.news.naver.com/mnews/article/437/0000504646"
+      "title": "엔화 살리기 미국…“변동성 과도” 원화도 콕 집었다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003542594"
     },
     {
-      "title": "삼성전자·하이닉스, 주주환원 확대 재확인…“조만간 공개”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006345406"
+      "title": "실적 vs 유가 '줄다리기'…뉴욕증시 동반 하락[월스트리트in]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006346525"
     },
     {
-      "title": "홍콩 ELS 사태 재발 방지… 손실 구간 10%P 전 ‘경보’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004148729"
+      "title": "“빚투 얼마나 끔찍한지 전혀 몰라”…레버리지 사상 최대규모, 월가 황제 ‘경고’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717850"
     },
     {
-      "title": "삼성호암상 상금 5억원으로 증액…기술 인재 예우 강화",
-      "url": "https://n.news.naver.com/mnews/article/277/0005798967"
+      "title": "\"상품 특징 요약해줘\"...쿠팡, AI로 쇼핑 지원 강화",
+      "url": "https://n.news.naver.com/mnews/article/008/0005396904"
     },
     {
-      "title": "서정진, 현장 경영 행보… “글로벌 직판 강화”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004148798"
+      "title": "삼성전자, ‘FMS 어워드’서 V낸드·AI 메모리로 2개 부문 수상",
+      "url": "https://n.news.naver.com/mnews/article/009/0005717324"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6358.95,
+      "value": 6281.18,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 780.72,
+      "value": 802.29,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26363.44,
-      "change": -221.55,
-      "change_pct": -0.83
+      "value": 26348.35,
+      "change": -15.09,
+      "change_pct": -0.06
     },
     "usdkrw": {
-      "value": 1422.04,
-      "change": -6.46,
-      "change_pct": -0.45
+      "value": 1420.78,
+      "change": -0.38,
+      "change_pct": -0.03
     }
   },
   "gold": {
-    "price_usd": 4309.5,
-    "price_krw": 6128281,
-    "change": 214.1,
-    "change_pct": 5.23
+    "price_usd": 4291.5,
+    "price_krw": 6097277,
+    "change": 45.7,
+    "change_pct": 1.08
   },
-  "updated": "2026-08-06 07:11",
+  "updated": "2026-08-07 10:00",
   "error": null
 }
