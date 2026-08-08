@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "LG, 'K-엑사원 2.0' 체험사이트 공개…14일까지 무료 운영",
-      "url": "https://n.news.naver.com/mnews/article/001/0016239236"
+      "title": "기록적 폭염에 농축산물 피해 우려...현장관리 강화",
+      "url": "https://n.news.naver.com/mnews/article/052/0002390605"
     },
     {
-      "title": "공급 후보지 떠오른 용산어린이정원… 吳 “절대 동의 못한다”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001865398"
+      "title": "엔비디아, 루빈 울트라 HBM 줄인다…비용 절감 카드 꺼냈다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649777"
     },
     {
-      "title": "\"응원하고 싶어서 왔어요\"…홈플러스 재개장에 고객 줄 섰다 [현장+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005318460"
+      "title": "중국 관영지 \"미국 폴리실리콘 규제, 자충수 될 것\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002390373"
     },
     {
-      "title": "서울시 “최근 3년간 정비사업서 주택수 36.4% 순증”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004649559"
+      "title": "실수요 피해 차단 나선 금융당국…가계대출 총량 확대 검토",
+      "url": "https://n.news.naver.com/mnews/article/421/0009103772"
     },
     {
-      "title": "코웨이, 상반기 영업익 5041억…반기 사상최대 실적 경신",
-      "url": "https://n.news.naver.com/mnews/article/421/0009103005"
+      "title": "전국 기름값 12주째 하락...휘발유·경유 1,800원대",
+      "url": "https://n.news.naver.com/mnews/article/052/0002390516"
     },
     {
-      "title": "김영훈 노동장관 \"중견기업이 진짜 성장 핵심\"…청년채용 확대 당부",
-      "url": "https://n.news.naver.com/mnews/article/629/0000522656"
+      "title": "단일종목 규제 묶인 ‘레버리지 개미’, 지수·인버스로 갔다 [이런국장 저런주식]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004649757"
     },
     {
-      "title": "롯데케미칼, 2분기 영업이익 1101억원...“흑자 기조 유지”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004649618"
+      "title": "SK하이닉스, 中 충칭공장 지분 판다?…“확정된 바는 없다”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003543109"
     },
     {
-      "title": "코오롱FnC, 2분기 영업익 158억…전년比 110.7% 증가",
-      "url": "https://n.news.naver.com/mnews/article/421/0009103059"
+      "title": "\"생맥주 한 잔 130원 더?\"…김은혜, 주세 인상 막는 법안 발의",
+      "url": "https://n.news.naver.com/mnews/article/053/0000060521"
+    },
+    {
+      "title": "“롤러코스피 지쳤다” 예금 35.5조 몰렸는데, 금리 떨어진 이유",
+      "url": "https://n.news.naver.com/mnews/article/025/0003543062"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001378989"
-    },
-    {
-      "title": "‘단 11주’에 SK하닉 시초 하한가… 가격 왜곡 중심 선 프리마켓",
-      "url": "https://n.news.naver.com/mnews/article/005/0001865429"
+      "url": "https://n.news.naver.com/mnews/article/056/0012233825"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6258.77,
+      "change": -37.61,
+      "change_pct": -0.6
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 798.81,
+      "change": -2.86,
+      "change_pct": -0.36
     },
     "nasdaq": {
       "value": 26690.62,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4401.3,
-    "price_krw": 6194609,
-    "change": 159.3,
-    "change_pct": 3.76
+    "price_usd": 4340.7,
+    "price_krw": 6109318,
+    "change": 98.7,
+    "change_pct": 2.33
   },
-  "updated": "2026-08-08 06:37",
+  "updated": "2026-08-09 06:27",
   "error": null
 }
