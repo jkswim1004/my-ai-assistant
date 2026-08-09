@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "기록적 폭염에 농축산물 피해 우려...현장관리 강화",
-      "url": "https://n.news.naver.com/mnews/article/052/0002390605"
+      "title": "“시청 무전기 대리 구매하면 차액 드려요”…소상공인 노린 신종피싱 급증",
+      "url": "https://n.news.naver.com/mnews/article/032/0003463090"
     },
     {
-      "title": "엔비디아, 루빈 울트라 HBM 줄인다…비용 절감 카드 꺼냈다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004649777"
+      "title": "13일 전후 공급대책… 도심복합 등 2만가구+α 신규공급 검토",
+      "url": "https://n.news.naver.com/mnews/article/005/0001865769"
     },
     {
-      "title": "중국 관영지 \"미국 폴리실리콘 규제, 자충수 될 것\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002390373"
-    },
-    {
-      "title": "실수요 피해 차단 나선 금융당국…가계대출 총량 확대 검토",
-      "url": "https://n.news.naver.com/mnews/article/421/0009103772"
-    },
-    {
-      "title": "전국 기름값 12주째 하락...휘발유·경유 1,800원대",
-      "url": "https://n.news.naver.com/mnews/article/052/0002390516"
-    },
-    {
-      "title": "단일종목 규제 묶인 ‘레버리지 개미’, 지수·인버스로 갔다 [이런국장 저런주식]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004649757"
-    },
-    {
-      "title": "SK하이닉스, 中 충칭공장 지분 판다?…“확정된 바는 없다”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003543109"
-    },
-    {
-      "title": "\"생맥주 한 잔 130원 더?\"…김은혜, 주세 인상 막는 법안 발의",
-      "url": "https://n.news.naver.com/mnews/article/053/0000060521"
-    },
-    {
-      "title": "“롤러코스피 지쳤다” 예금 35.5조 몰렸는데, 금리 떨어진 이유",
-      "url": "https://n.news.naver.com/mnews/article/025/0003543062"
+      "title": "역머니무브에 … 4%대 저축銀 예금 실종",
+      "url": "https://n.news.naver.com/mnews/article/009/0005718620"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012233825"
+      "url": "https://n.news.naver.com/mnews/article/056/0012234159"
+    },
+    {
+      "title": "블룸버그 \"베선트 美재무, 장기채 금리 상승 방어의지 시장에 시사\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000526414"
+    },
+    {
+      "title": "“AI 시대 창업 꿈꾼다” 韓 12% 美 57%",
+      "url": "https://n.news.naver.com/mnews/article/023/0003992136"
+    },
+    {
+      "title": "5대 은행 가계대출 목표 1조 초과…은행권 총량 관리 '비상'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009103787"
+    },
+    {
+      "title": "AI가 주문 예측하고 로봇이 상품 '척척'…신선식품 승부수 던진 롯데마트",
+      "url": "https://n.news.naver.com/mnews/article/015/0005318782"
+    },
+    {
+      "title": "\"23년 만에 마주한 바다\"…현대차그룹 PV5 WAV 영상 1000만뷰 달성",
+      "url": "https://n.news.naver.com/mnews/article/008/0005397359"
+    },
+    {
+      "title": "버핏 떠난 버크셔, 3년만에 주식 순매수",
+      "url": "https://n.news.naver.com/mnews/article/009/0005718548"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 1.3
     },
     "usdkrw": {
-      "value": 1407.45,
-      "change": -13.71,
-      "change_pct": -0.96
+      "value": 1407.78,
+      "change": -14.52,
+      "change_pct": -1.02
     }
   },
   "gold": {
-    "price_usd": 4340.7,
-    "price_krw": 6109318,
-    "change": 98.7,
-    "change_pct": 2.33
+    "price_usd": 4399.7,
+    "price_krw": 6193809,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-09 06:27",
+  "updated": "2026-08-10 06:29",
   "error": null
 }
