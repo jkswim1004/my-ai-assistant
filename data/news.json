@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "대전 노후계획도시 정비 본궤도…기본계획 심의 착수",
-      "url": "https://n.news.naver.com/mnews/article/656/0000183707"
+      "title": "\"140조원 몰렸다\"…인텔, AI 투자 위해 첫 유증",
+      "url": "https://n.news.naver.com/mnews/article/374/0000526821"
     },
     {
-      "title": "\"중남미 시장 공략\"…BBQ, 멕시코 첫 매장 오픈",
-      "url": "https://n.news.naver.com/mnews/article/277/0005800750"
+      "title": "코스피 식자, 코스닥 펄펄… 850선 넘었다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005398078"
     },
     {
-      "title": "코스피 6300선 턱밑 마감…코스닥은 7% 가까이 급등, 또 매수 사이드카 [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002681845"
+      "title": "한화, 오스탈USA 인수땐 美 핵잠 공급망 참여…전투함 생산기반도 확보",
+      "url": "https://n.news.naver.com/mnews/article/011/0004650708"
     },
     {
-      "title": "“국장, 현기증나요”…서학개미, 6월부터 다시 미장으로",
-      "url": "https://n.news.naver.com/mnews/article/021/0002810188"
+      "title": "하나금융, 국가유공자 묘비 2000기 보수한다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005719479"
     },
     {
-      "title": "이란, 호르무즈 재개에 배상·미군 철수 요구…다우 선물 110p↓",
-      "url": "https://n.news.naver.com/mnews/article/003/0014117459"
+      "title": "\"반도체 실적 올해가 정점\"…키움證, 삼전·SK하닉 목표가 또 낮췄다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009107573"
     },
     {
-      "title": "신창재 \"머니게임 된 생보산업, 수수료 분급제가 정상화 계기될 것\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005800798"
+      "title": "오세훈, 서울역 옆 서계·청파 방문…“멸실 빼도 1695가구 순증”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004650533"
     },
     {
-      "title": "“형만한 아우 있었네”…59㎡ 상승세 84㎡ 웃돌아",
-      "url": "https://n.news.naver.com/mnews/article/009/0005718874"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/023/0003992440"
     },
     {
-      "title": "형태 바꾸는 '무빙 가구' 인기…한샘, 기능성 소파 3종 출시",
-      "url": "https://n.news.naver.com/mnews/article/057/0001962901"
+      "title": "원룸·오피스텔 '깜깜이 관리비' 막는다‥공인중개사 설명 의무화",
+      "url": "https://n.news.naver.com/mnews/article/214/0001517174"
     },
     {
-      "title": "‘국회 방문’ NYSE 사장 \"자본시장 발전, 제도· 예측가능성이 결정\"",
-      "url": "https://n.news.naver.com/mnews/article/029/0003041625"
+      "title": "명품·식품 통했다…신기록 쓴 신세계",
+      "url": "https://n.news.naver.com/mnews/article/025/0003543769"
     },
     {
-      "title": "“성과급 받은 주식 바로 못 판다고?”…하이닉스 노조 단톡방 사흘새 3500명",
-      "url": "https://n.news.naver.com/mnews/article/009/0005718659"
+      "title": "나스닥 0.6%↓, 이틀째 하락…이란 불확실성에 기술주 매도[뉴욕마감]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009108920"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6258.77,
+      "value": 6299.66,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 798.81,
+      "value": 854.47,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26605.36,
-      "change": -85.26,
-      "change_pct": -0.32
+      "value": 26445.45,
+      "change": -159.91,
+      "change_pct": -0.6
     },
     "usdkrw": {
-      "value": 1417.67,
-      "change": -4.63,
-      "change_pct": -0.33
+      "value": 1412.49,
+      "change": 5.49,
+      "change_pct": 0.39
     }
   },
   "gold": {
-    "price_usd": 4448.6,
-    "price_krw": 6306646,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4427.8,
+    "price_krw": 6254222,
+    "change": 66.0,
+    "change_pct": 1.51
   },
-  "updated": "2026-08-11 06:39",
+  "updated": "2026-08-12 06:43",
   "error": null
 }
