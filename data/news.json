@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"140조원 몰렸다\"…인텔, AI 투자 위해 첫 유증",
-      "url": "https://n.news.naver.com/mnews/article/374/0000526821"
+      "title": "정부 \"7월 취업자수 증가세 이어가기 위해 총력 대응\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016246025"
     },
     {
-      "title": "코스피 식자, 코스닥 펄펄… 850선 넘었다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005398078"
+      "title": "\"삼전 200조+닉스 100조\"…국장 판도 뒤집을 300조원 주주환원 레이스",
+      "url": "https://n.news.naver.com/mnews/article/277/0005802048"
     },
     {
-      "title": "한화, 오스탈USA 인수땐 美 핵잠 공급망 참여…전투함 생산기반도 확보",
-      "url": "https://n.news.naver.com/mnews/article/011/0004650708"
+      "title": "미래에셋증권, 업계 최초 2분기 연속 순이익 '1조원' 돌파",
+      "url": "https://n.news.naver.com/mnews/article/277/0005802310"
     },
     {
-      "title": "하나금융, 국가유공자 묘비 2000기 보수한다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005719479"
+      "title": "취업자 10만명 늘 때, 청년은 19만명 줄었다",
+      "url": "https://n.news.naver.com/mnews/article/029/0003042108"
     },
     {
-      "title": "\"반도체 실적 올해가 정점\"…키움證, 삼전·SK하닉 목표가 또 낮췄다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009107573"
+      "title": "애경산업, 2분기 외형 성장에도 수익성 악화…영업익 59% '뚝'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005320115"
     },
     {
-      "title": "오세훈, 서울역 옆 서계·청파 방문…“멸실 빼도 1695가구 순증”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004650533"
+      "title": "한성숙 총리 \"창업벤처 규제 혁신위 신설‥규제 개선 속도\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001517459"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/023/0003992440"
+      "title": "국세청, 서울청 조사4국 등에 고액체납자 전담팀 만든다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014122436"
     },
     {
-      "title": "원룸·오피스텔 '깜깜이 관리비' 막는다‥공인중개사 설명 의무화",
-      "url": "https://n.news.naver.com/mnews/article/214/0001517174"
+      "title": "대한항공-아시아나 합병, 이사회·주주총회 결의…“‘원 팀’ 협업 체계 강화”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002682972"
     },
     {
-      "title": "명품·식품 통했다…신기록 쓴 신세계",
-      "url": "https://n.news.naver.com/mnews/article/025/0003543769"
+      "title": "현대百, 추석 선물세트 예약 판매…최대 25% 할인",
+      "url": "https://n.news.naver.com/mnews/article/421/0009111195"
     },
     {
-      "title": "나스닥 0.6%↓, 이틀째 하락…이란 불확실성에 기술주 매도[뉴욕마감]",
-      "url": "https://n.news.naver.com/mnews/article/421/0009108920"
+      "title": "美 7월 소비자물가 전년 대비 3.4%↑ ‘예상 부합’…근원물가도 둔화",
+      "url": "https://n.news.naver.com/mnews/article/366/0001185886"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6299.66,
+      "value": 6345.53,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 854.47,
+      "value": 857.84,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26445.45,
-      "change": -159.91,
-      "change_pct": -0.6
+      "value": 26588.49,
+      "change": 143.04,
+      "change_pct": 0.54
     },
     "usdkrw": {
-      "value": 1412.49,
-      "change": 5.49,
-      "change_pct": 0.39
+      "value": 1416.72,
+      "change": -0.59,
+      "change_pct": -0.04
     }
   },
   "gold": {
-    "price_usd": 4427.8,
-    "price_krw": 6254222,
-    "change": 66.0,
-    "change_pct": 1.51
+    "price_usd": 4469.0,
+    "price_krw": 6331321,
+    "change": 86.0,
+    "change_pct": 1.96
   },
-  "updated": "2026-08-12 06:43",
+  "updated": "2026-08-13 06:42",
   "error": null
 }
