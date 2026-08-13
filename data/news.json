@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "정부 \"7월 취업자수 증가세 이어가기 위해 총력 대응\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016246025"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/025/0003544158"
     },
     {
-      "title": "\"삼전 200조+닉스 100조\"…국장 판도 뒤집을 300조원 주주환원 레이스",
-      "url": "https://n.news.naver.com/mnews/article/277/0005802048"
+      "title": "해수부·부산·경남 등 동남권 해양수도권 육성 맞손",
+      "url": "https://n.news.naver.com/mnews/article/008/0005399943"
     },
     {
-      "title": "미래에셋증권, 업계 최초 2분기 연속 순이익 '1조원' 돌파",
-      "url": "https://n.news.naver.com/mnews/article/277/0005802310"
+      "title": "DB손보, 상반기 순익 9796억원…2분기 보험손익 110% 급증",
+      "url": "https://n.news.naver.com/mnews/article/003/0014126381"
     },
     {
-      "title": "취업자 10만명 늘 때, 청년은 19만명 줄었다",
-      "url": "https://n.news.naver.com/mnews/article/029/0003042108"
+      "title": "\"삼전·닉스 얼마나 오를까\"…3거래일째 반등, 외국인들 몰렸다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005561475"
     },
     {
-      "title": "애경산업, 2분기 외형 성장에도 수익성 악화…영업익 59% '뚝'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005320115"
+      "title": "국세청, KB국민은행 특별세무조사 착수…올해 연말까지",
+      "url": "https://n.news.naver.com/mnews/article/448/0000633290"
     },
     {
-      "title": "한성숙 총리 \"창업벤처 규제 혁신위 신설‥규제 개선 속도\"",
-      "url": "https://n.news.naver.com/mnews/article/214/0001517459"
+      "title": "올해 가계대출 증가율 목표 1.5%→3% 올린다…청년·신혼부부 핀셋 지원도",
+      "url": "https://n.news.naver.com/mnews/article/215/0001262243"
     },
     {
-      "title": "국세청, 서울청 조사4국 등에 고액체납자 전담팀 만든다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014122436"
+      "title": "기회의 문 넓어진 '모두의 창업'… 두 배 늘린 1만명 뽑는다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005561379"
     },
     {
-      "title": "대한항공-아시아나 합병, 이사회·주주총회 결의…“‘원 팀’ 협업 체계 강화”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002682972"
+      "title": "\"주택 신속공급 의지 드러내…병목 요인 손보고 금융 물꼬 터줘\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005320650"
     },
     {
-      "title": "현대百, 추석 선물세트 예약 판매…최대 25% 할인",
-      "url": "https://n.news.naver.com/mnews/article/421/0009111195"
+      "title": "[단독] KDB생명 인수 우선협상대상자에 한국투자금융지주",
+      "url": "https://n.news.naver.com/mnews/article/015/0005320632"
     },
     {
-      "title": "美 7월 소비자물가 전년 대비 3.4%↑ ‘예상 부합’…근원물가도 둔화",
-      "url": "https://n.news.naver.com/mnews/article/366/0001185886"
+      "title": "부동산서비스업 2분기 체감경기 '냉랭'…회복 기대감도 낮아",
+      "url": "https://n.news.naver.com/mnews/article/003/0014126972"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6345.53,
+      "value": 6579.04,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 857.84,
+      "value": 858.91,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26588.49,
-      "change": 143.04,
-      "change_pct": 0.54
+      "value": 26803.03,
+      "change": 214.54,
+      "change_pct": 0.81
     },
     "usdkrw": {
-      "value": 1416.72,
-      "change": -0.59,
-      "change_pct": -0.04
+      "value": 1418.27,
+      "change": 6.09,
+      "change_pct": 0.43
     }
   },
   "gold": {
-    "price_usd": 4469.0,
-    "price_krw": 6331321,
-    "change": 86.0,
-    "change_pct": 1.96
+    "price_usd": 4407.1,
+    "price_krw": 6250457,
+    "change": -1.8,
+    "change_pct": -0.04
   },
-  "updated": "2026-08-13 06:42",
+  "updated": "2026-08-14 06:42",
   "error": null
 }
