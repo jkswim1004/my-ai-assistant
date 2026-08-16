@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "충청권 기름값 내림세…대전 휘발유 ℓ당 1843원",
-      "url": "https://n.news.naver.com/mnews/article/656/0000184114"
+      "title": "“청년은 빌라에만 살라는 거냐” 비판 나오지 않으려면···‘적정 시세 비교’로 신뢰 회복이 관건",
+      "url": "https://n.news.naver.com/mnews/article/032/0003464576"
     },
     {
-      "title": "“대출 숨통 트였다는데”…지금 집 사면 웃을까, 울까[주형연의 에구MONEY]",
-      "url": "https://n.news.naver.com/mnews/article/029/0003042476"
+      "title": "LG전자, 브라질 新공장 가동…글로벌 사우스 전략 박차",
+      "url": "https://n.news.naver.com/mnews/article/014/0005562122"
     },
     {
-      "title": "SK이노·테라파워, 차세대 원전 협력 확대…AI 데이터센터 공략",
-      "url": "https://n.news.naver.com/mnews/article/277/0005803422"
+      "title": "‘코스닥 천하’ 일주일 만에 흔들…외국인은 코스피로 [이런국장 저런주식]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004652218"
     },
     {
-      "title": "상반기 보수 1위 두산 박정원 455억…주가 급등에 375억 수령",
-      "url": "https://n.news.naver.com/mnews/article/001/0016252620"
+      "title": "\"제발 평일 오전에 가세요\"…미국 MZ들 '성지' 된 한국 매장 [현장+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005321327"
     },
     {
-      "title": "고점론 퍼지는데…\"삼전닉스 저평가\" 보고서 등장에 '들썩' [종목+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005321245"
+      "title": "월급 받는 일자리, 코로나 이후 첫 4개월 연속 감소...“AI 등으로 인한 저채용 사회 신호”",
+      "url": "https://n.news.naver.com/mnews/article/023/0003993232"
     },
     {
-      "title": "美 7월 소매판매 예상밖 감소 전환…이란전쟁·아마존 할인 종료 여파",
-      "url": "https://n.news.naver.com/mnews/article/008/0005400491"
+      "title": "포스코인터, 미국·멕시코에도 해외 독립운동 사적지 안내판",
+      "url": "https://n.news.naver.com/mnews/article/001/0016253567"
     },
     {
-      "title": "삼성전자, 상반기 R&D·시설투자 55조…메모리 가격은 3배로",
-      "url": "https://n.news.naver.com/mnews/article/023/0003993065"
+      "title": "“대한항공·아시아나 통합 후  새 노선·시간대 운항 늘 것”",
+      "url": "https://n.news.naver.com/mnews/article/082/0001394096"
     },
     {
-      "title": "여한구 통상교섭본부장 전격 경질…산업부 \"통상 현안에 흔들림 없이 대응\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005400567"
+      "title": "한전·가스公, 이자 2.7조… ‘전기료 인상’ 압박",
+      "url": "https://n.news.naver.com/mnews/article/005/0001867184"
     },
     {
-      "title": "‘용산공원 주택 공급’ 김윤덕 발언에 서울시 “미래 자산 훼손 안 돼”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001866955"
+      "title": "함영주 하나금융 회장 상반기 보수 19억…다른 금융 회장은 6~9억",
+      "url": "https://n.news.naver.com/mnews/article/028/0002818744"
     },
     {
-      "title": "주식 열풍에 LG전자 주주 100만 돌파…삼전은 800만 육박",
-      "url": "https://n.news.naver.com/mnews/article/079/0004179039"
+      "title": "“2차 공공기관 이전, 서울에 남는 건 제로”",
+      "url": "https://n.news.naver.com/mnews/article/082/0001394081"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.28
     },
     "usdkrw": {
-      "value": 1412.0,
-      "change": -4.85,
-      "change_pct": -0.34
+      "value": 1416.48,
+      "change": -0.37,
+      "change_pct": -0.03
     }
   },
   "gold": {
-    "price_usd": 4380.4,
-    "price_krw": 6185124,
-    "change": 16.8,
-    "change_pct": 0.39
+    "price_usd": 4437.3,
+    "price_krw": 6285346,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-08-16 06:18",
+  "updated": "2026-08-17 06:17",
   "error": null
 }
