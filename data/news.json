@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "“청년은 빌라에만 살라는 거냐” 비판 나오지 않으려면···‘적정 시세 비교’로 신뢰 회복이 관건",
-      "url": "https://n.news.naver.com/mnews/article/032/0003464576"
+      "title": "“단타 치다 계좌 녹았는데”…‘삼전닉스’ ETF, 증권사만 893억 벌었다 [숫자 뒤의 진실]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004151594"
     },
     {
-      "title": "LG전자, 브라질 新공장 가동…글로벌 사우스 전략 박차",
-      "url": "https://n.news.naver.com/mnews/article/014/0005562122"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000896653"
     },
     {
-      "title": "‘코스닥 천하’ 일주일 만에 흔들…외국인은 코스피로 [이런국장 저런주식]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004652218"
+      "title": "서울시, 청년 부동산 중개보수·이사비 최대 40만원 지원",
+      "url": "https://n.news.naver.com/mnews/article/421/0009117852"
     },
     {
-      "title": "\"제발 평일 오전에 가세요\"…미국 MZ들 '성지' 된 한국 매장 [현장+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005321327"
+      "title": "4대銀, 경남 집중호우에 긴급 금융지원…구호텐트·급식차량 파견(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009117749"
     },
     {
-      "title": "월급 받는 일자리, 코로나 이후 첫 4개월 연속 감소...“AI 등으로 인한 저채용 사회 신호”",
-      "url": "https://n.news.naver.com/mnews/article/023/0003993232"
+      "title": "경총 \"영업이익 성과배분, 노동쟁의 대상 아냐\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005803708"
     },
     {
-      "title": "포스코인터, 미국·멕시코에도 해외 독립운동 사적지 안내판",
-      "url": "https://n.news.naver.com/mnews/article/001/0016253567"
+      "title": "HD현대일렉트릭, 국내 최초 420㎸ 친환경 고압차단기 개발…“유럽 공략 나선다”",
+      "url": "https://n.news.naver.com/mnews/article/023/0003993356"
     },
     {
-      "title": "“대한항공·아시아나 통합 후  새 노선·시간대 운항 늘 것”",
-      "url": "https://n.news.naver.com/mnews/article/082/0001394096"
+      "title": "10만원 이상 안경테 “더 팔아라”…판매목표 강제한 다비치안경 14.8억 과징금",
+      "url": "https://n.news.naver.com/mnews/article/016/0002684661"
     },
     {
-      "title": "한전·가스公, 이자 2.7조… ‘전기료 인상’ 압박",
-      "url": "https://n.news.naver.com/mnews/article/005/0001867184"
+      "title": "\"시설복구·경영안정 도와\" 중기부, 폭우 피해 전통시장 지원",
+      "url": "https://n.news.naver.com/mnews/article/014/0005562404"
     },
     {
-      "title": "함영주 하나금융 회장 상반기 보수 19억…다른 금융 회장은 6~9억",
-      "url": "https://n.news.naver.com/mnews/article/028/0002818744"
+      "title": "젠슨 황 장녀, 18일 방한…LG와 로봇 협력 속도낸다",
+      "url": "https://n.news.naver.com/mnews/article/015/0005321656"
     },
     {
-      "title": "“2차 공공기관 이전, 서울에 남는 건 제로”",
-      "url": "https://n.news.naver.com/mnews/article/082/0001394081"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002394120"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.38
     },
     "nasdaq": {
-      "value": 26729.16,
-      "change": -73.87,
-      "change_pct": -0.28
+      "value": 26644.91,
+      "change": -84.25,
+      "change_pct": -0.32
     },
     "usdkrw": {
-      "value": 1416.48,
-      "change": -0.37,
-      "change_pct": -0.03
+      "value": 1415.18,
+      "change": -1.67,
+      "change_pct": -0.12
     }
   },
   "gold": {
-    "price_usd": 4437.3,
-    "price_krw": 6285346,
+    "price_usd": 4473.1,
+    "price_krw": 6330241,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-08-17 06:17",
+  "updated": "2026-08-18 06:23",
   "error": null
 }
