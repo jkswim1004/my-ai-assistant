@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“단타 치다 계좌 녹았는데”…‘삼전닉스’ ETF, 증권사만 893억 벌었다 [숫자 뒤의 진실]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004151594"
+      "title": "기후장관 \"가스발전 늘어날 것\"…반도체 위한 LNG발전 확대 용인",
+      "url": "https://n.news.naver.com/mnews/article/001/0016257031"
+    },
+    {
+      "title": "현대차 노조, 10년 만에 전면 파업한다",
+      "url": "https://n.news.naver.com/mnews/article/023/0003993597"
+    },
+    {
+      "title": "EV5, 독일 전문가 평가서 모델 Y 제쳤지만…판매량은 역부족",
+      "url": "https://n.news.naver.com/mnews/article/028/0002819012"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000896653"
+      "url": "https://n.news.naver.com/mnews/article/055/0001381329"
     },
     {
-      "title": "서울시, 청년 부동산 중개보수·이사비 최대 40만원 지원",
-      "url": "https://n.news.naver.com/mnews/article/421/0009117852"
+      "title": "AI가 걷어찬 청년 ‘경력 사다리’…4년간 일자리 27만개 증발",
+      "url": "https://n.news.naver.com/mnews/article/029/0003042828"
     },
     {
-      "title": "4대銀, 경남 집중호우에 긴급 금융지원…구호텐트·급식차량 파견(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009117749"
+      "title": "우리금융, 동양·ABL생명 통합 본격화 외[이코노 브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004151890"
     },
     {
-      "title": "경총 \"영업이익 성과배분, 노동쟁의 대상 아냐\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005803708"
+      "title": "부산서 홈플러스 완전 정상화 촉구…\"정치권 회생방안 찾아야\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016256332"
     },
     {
-      "title": "HD현대일렉트릭, 국내 최초 420㎸ 친환경 고압차단기 개발…“유럽 공략 나선다”",
-      "url": "https://n.news.naver.com/mnews/article/023/0003993356"
+      "title": "안방서 유럽 미술 걸작 즐긴다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004151901"
     },
     {
-      "title": "10만원 이상 안경테 “더 팔아라”…판매목표 강제한 다비치안경 14.8억 과징금",
-      "url": "https://n.news.naver.com/mnews/article/016/0002684661"
+      "title": "LG 데이터팩토리 찾은 매디슨 황…\"로보틱스 협업 확대\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005322056"
     },
     {
-      "title": "\"시설복구·경영안정 도와\" 중기부, 폭우 피해 전통시장 지원",
-      "url": "https://n.news.naver.com/mnews/article/014/0005562404"
-    },
-    {
-      "title": "젠슨 황 장녀, 18일 방한…LG와 로봇 협력 속도낸다",
-      "url": "https://n.news.naver.com/mnews/article/015/0005321656"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002394120"
+      "title": "국토부, 3.2조 들여 수색~광명 지하 고속전용 지름길 건설",
+      "url": "https://n.news.naver.com/mnews/article/018/0006353379"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6977.94,
-      "change": 164.6,
-      "change_pct": 2.42
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 864.65,
-      "change": 3.28,
-      "change_pct": 0.38
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26644.91,
-      "change": -84.25,
-      "change_pct": -0.32
+      "value": 26289.71,
+      "change": -355.2,
+      "change_pct": -1.33
     },
     "usdkrw": {
-      "value": 1415.18,
-      "change": -1.67,
-      "change_pct": -0.12
+      "value": 1412.26,
+      "change": -3.11,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 4473.1,
-    "price_krw": 6330241,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4389.5,
+    "price_krw": 6199115,
+    "change": -28.3,
+    "change_pct": -0.64
   },
-  "updated": "2026-08-18 06:23",
+  "updated": "2026-08-19 06:21",
   "error": null
 }
