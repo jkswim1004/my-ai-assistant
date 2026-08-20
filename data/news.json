@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "6년만에 확 바뀌었다…현대차, '디 올 뉴 투싼' 디자인 최초 공개",
-      "url": "https://n.news.naver.com/mnews/article/008/0005401681"
+      "title": "SK하이닉스 40조 규모 ‘역대급 주주환원’…“재평가 출발점”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002686084"
     },
     {
-      "title": "현대차그룹 원하청 노동자 공동파업…\"납품가 후려치기 중단·원하청 교섭 성사\"",
-      "url": "https://n.news.naver.com/mnews/article/002/0002452670"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000507114"
     },
     {
-      "title": "美 압박에 복잡해진 대미투자 셈법… 韓 '15% 관세' 사수 미지수",
-      "url": "https://n.news.naver.com/mnews/article/014/0005563146"
+      "title": "원전 19기 더 지어야, 3대 메가프로젝트 돌린다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003545762"
     },
     {
-      "title": "원·달러 환율 1,300원대로…11개월 만에 최저",
-      "url": "https://n.news.naver.com/mnews/article/088/0001024289"
+      "title": "“훼손 부지 활용” “역사의 죄인”… 김윤덕·오세훈 ‘용산공원 평행선’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004152418"
     },
     {
-      "title": "KDI, 올 성장률 전망 3.2%로 상향",
-      "url": "https://n.news.naver.com/mnews/article/032/0003465220"
+      "title": "미, 장기채 금리 낮추려 2배 바이백…단기채 늘어나는 ‘밑돌 빼서 윗돌 괴기’",
+      "url": "https://n.news.naver.com/mnews/article/028/0002819331"
     },
     {
-      "title": "농협, 경남 집중호우 피해복구 총력…최대 500억원 긴급 지원",
-      "url": "https://n.news.naver.com/mnews/article/001/0016258875"
+      "title": "세계 최초 독립적으로 열리는 코치도어…1열 180도로 돌리면 마주 앉는다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004653588"
     },
     {
-      "title": "'대출 절벽' 완화 신호탄 되나…농협은행, 변동형 주담대 재개",
-      "url": "https://n.news.naver.com/mnews/article/654/0000195935"
+      "title": "공정위, '대산 1호 프로젝트' 기업결합 조건부 승인…\"5년간 가격 제한\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005402416"
     },
     {
-      "title": "더 플라자 호텔 리모델링…2029년 7성급으로 탈바꿈",
-      "url": "https://n.news.naver.com/mnews/article/009/0005723152"
+      "title": "100세 이상 8604명 시대…장수 비결은 ‘절제된 식생활’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004152367"
     },
     {
-      "title": "불장이었던 상반기 ‘국내 상장사’ 고르게 실적 개선",
-      "url": "https://n.news.naver.com/mnews/article/082/0001394586"
+      "title": "창밖으로 고개 안 내밀어도 됩니다…벽까지 그은 ‘수직 주차선’ 혁신 [교통이 통하다]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004152208"
     },
     {
-      "title": "\"삼성·LG 안 따집니다\"…가전업계, 집중호우 지역서 피해 복구 서비스",
-      "url": "https://n.news.naver.com/mnews/article/277/0005804746"
+      "title": "부동산 대책 후속 법안 등 73건 국회 본회의 통과…패스트트랙 기간 축소 국회법 개정안도",
+      "url": "https://n.news.naver.com/mnews/article/003/0014139327"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6869.83,
+      "value": 6471.17,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 834.2,
+      "value": 824.46,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26331.09,
-      "change": 41.38,
-      "change_pct": 0.16
+      "value": 26067.17,
+      "change": -263.92,
+      "change_pct": -1.0
     },
     "usdkrw": {
-      "value": 1386.22,
-      "change": -28.51,
-      "change_pct": -2.02
+      "value": 1393.98,
+      "change": -19.6,
+      "change_pct": -1.39
     }
   },
   "gold": {
-    "price_usd": 4580.7,
-    "price_krw": 6349858,
-    "change": 214.7,
-    "change_pct": 4.92
+    "price_usd": 4575.1,
+    "price_krw": 6377598,
+    "change": 85.7,
+    "change_pct": 1.91
   },
-  "updated": "2026-08-20 06:22",
+  "updated": "2026-08-21 06:25",
   "error": null
 }
