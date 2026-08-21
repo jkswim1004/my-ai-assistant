@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "SK하이닉스 40조 규모 ‘역대급 주주환원’…“재평가 출발점”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002686084"
+      "title": "진에어·에어부산·에어서울 합병…내년 3월 ‘통합 진에어’ 출범",
+      "url": "https://n.news.naver.com/mnews/article/016/0002686868"
+    },
+    {
+      "title": "LGU+ 'Simply. U+', 레드닷 디자인 어워드 본상",
+      "url": "https://n.news.naver.com/mnews/article/001/0016262874"
+    },
+    {
+      "title": "뉴욕증시, 국채금리 상승·월마트 실적 부진에 동반 하락 마감",
+      "url": "https://n.news.naver.com/mnews/article/366/0001187448"
+    },
+    {
+      "title": "\"용산공원 말고 국회부터 밀자\"…성난 민심에 떠오른 제안",
+      "url": "https://n.news.naver.com/mnews/article/015/0005323219"
+    },
+    {
+      "title": "‘바이백 약발’ 하루 만에 끝…베선트 “재정건전화책 내놓겠다”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003545945"
+    },
+    {
+      "title": "하닉 역대급 주주환원에 시장 환호… 삼전이 릴레이 이어가나",
+      "url": "https://n.news.naver.com/mnews/article/005/0001868134"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000507114"
+      "url": "https://n.news.naver.com/mnews/article/422/0000897800"
     },
     {
-      "title": "원전 19기 더 지어야, 3대 메가프로젝트 돌린다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003545762"
+      "title": "비트코인 불 뿜었다…두달 만에 1억원 돌파",
+      "url": "https://n.news.naver.com/mnews/article/015/0005323348"
     },
     {
-      "title": "“훼손 부지 활용” “역사의 죄인”… 김윤덕·오세훈 ‘용산공원 평행선’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004152418"
+      "title": "제네시스, 美 판매량 45만대 돌파…\"SUV로 현지 수요 공략\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005564633"
     },
     {
-      "title": "미, 장기채 금리 낮추려 2배 바이백…단기채 늘어나는 ‘밑돌 빼서 윗돌 괴기’",
-      "url": "https://n.news.naver.com/mnews/article/028/0002819331"
-    },
-    {
-      "title": "세계 최초 독립적으로 열리는 코치도어…1열 180도로 돌리면 마주 앉는다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004653588"
-    },
-    {
-      "title": "공정위, '대산 1호 프로젝트' 기업결합 조건부 승인…\"5년간 가격 제한\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005402416"
-    },
-    {
-      "title": "100세 이상 8604명 시대…장수 비결은 ‘절제된 식생활’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004152367"
-    },
-    {
-      "title": "창밖으로 고개 안 내밀어도 됩니다…벽까지 그은 ‘수직 주차선’ 혁신 [교통이 통하다]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004152208"
-    },
-    {
-      "title": "부동산 대책 후속 법안 등 73건 국회 본회의 통과…패스트트랙 기간 축소 국회법 개정안도",
-      "url": "https://n.news.naver.com/mnews/article/003/0014139327"
+      "title": "‘보유’보다 ‘거주’…절세 방안 혼란 커져",
+      "url": "https://n.news.naver.com/mnews/article/024/0000107708"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6471.17,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 824.46,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26067.17,
-      "change": -263.92,
-      "change_pct": -1.0
+      "value": 26180.46,
+      "change": 113.29,
+      "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1393.98,
-      "change": -19.6,
-      "change_pct": -1.39
+      "value": 1385.98,
+      "change": -3.42,
+      "change_pct": -0.25
     }
   },
   "gold": {
-    "price_usd": 4575.1,
-    "price_krw": 6377598,
-    "change": 85.7,
-    "change_pct": 1.91
+    "price_usd": 4661.6,
+    "price_krw": 6460884,
+    "change": 145.3,
+    "change_pct": 3.22
   },
-  "updated": "2026-08-21 06:25",
+  "updated": "2026-08-22 06:21",
   "error": null
 }
