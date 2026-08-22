@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "진에어·에어부산·에어서울 합병…내년 3월 ‘통합 진에어’ 출범",
-      "url": "https://n.news.naver.com/mnews/article/016/0002686868"
+      "title": "‘한 지붕 두 보상’…두 쪽 난 삼성, DX 노조 거리로",
+      "url": "https://n.news.naver.com/mnews/article/025/0003545957"
     },
     {
-      "title": "LGU+ 'Simply. U+', 레드닷 디자인 어워드 본상",
-      "url": "https://n.news.naver.com/mnews/article/001/0016262874"
+      "title": "암, 주사 한방으로 예방한다…어떻게 가능해?",
+      "url": "https://n.news.naver.com/mnews/article/374/0000528796"
     },
     {
-      "title": "뉴욕증시, 국채금리 상승·월마트 실적 부진에 동반 하락 마감",
-      "url": "https://n.news.naver.com/mnews/article/366/0001187448"
-    },
-    {
-      "title": "\"용산공원 말고 국회부터 밀자\"…성난 민심에 떠오른 제안",
-      "url": "https://n.news.naver.com/mnews/article/015/0005323219"
-    },
-    {
-      "title": "‘바이백 약발’ 하루 만에 끝…베선트 “재정건전화책 내놓겠다”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003545945"
-    },
-    {
-      "title": "하닉 역대급 주주환원에 시장 환호… 삼전이 릴레이 이어가나",
-      "url": "https://n.news.naver.com/mnews/article/005/0001868134"
+      "title": "'클로드' 만든 앤트로픽, 자체 칩 개발 나선다…구글 출신 전문가 영입",
+      "url": "https://n.news.naver.com/mnews/article/448/0000635083"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000897800"
+      "url": "https://n.news.naver.com/mnews/article/214/0001519420"
     },
     {
-      "title": "비트코인 불 뿜었다…두달 만에 1억원 돌파",
-      "url": "https://n.news.naver.com/mnews/article/015/0005323348"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012242184"
     },
     {
-      "title": "제네시스, 美 판매량 45만대 돌파…\"SUV로 현지 수요 공략\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005564633"
+      "title": "현대차, 10년만에 전면파업… 울산 등 생산라인 모두 멈춰",
+      "url": "https://n.news.naver.com/mnews/article/005/0001868278"
     },
     {
-      "title": "‘보유’보다 ‘거주’…절세 방안 혼란 커져",
-      "url": "https://n.news.naver.com/mnews/article/024/0000107708"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002396808"
+    },
+    {
+      "title": "'AI 반도체 슈퍼위크'…코스피 '주주환원 약발' 계속되나",
+      "url": "https://n.news.naver.com/mnews/article/001/0016265034"
+    },
+    {
+      "title": "앤트로픽, ‘몸값 2조달러’ 목표로 IPO 추진···역대 최대 노린다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003465723"
+    },
+    {
+      "title": "2금융권 중금리대출, 금융사 총량에서 전액 제외",
+      "url": "https://n.news.naver.com/mnews/article/011/0004654007"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6912.95,
+      "change": 60.37,
+      "change_pct": 0.88
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 801.94,
+      "change": -38.95,
+      "change_pct": -4.63
     },
     "nasdaq": {
       "value": 26180.46,
@@ -58,17 +58,17 @@
       "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1385.98,
-      "change": -3.42,
-      "change_pct": -0.25
+      "value": 1383.9,
+      "change": -6.89,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4661.6,
-    "price_krw": 6460884,
-    "change": 145.3,
-    "change_pct": 3.22
+    "price_usd": 4624.1,
+    "price_krw": 6399292,
+    "change": 107.8,
+    "change_pct": 2.39
   },
-  "updated": "2026-08-22 06:21",
+  "updated": "2026-08-23 06:19",
   "error": null
 }
