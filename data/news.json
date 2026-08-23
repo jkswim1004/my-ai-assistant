@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "해수부, 추석 맞이 비축 수산물 '역대 최대' 2만t 방출",
-      "url": "https://n.news.naver.com/mnews/article/001/0016265304"
+      "title": "현대차 파업에 벌써 '2.3조' 날아갔다…24일 협상서 극적 타결할까",
+      "url": "https://n.news.naver.com/mnews/article/008/0005403350"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002396816"
+      "url": "https://n.news.naver.com/mnews/article/052/0002397092"
     },
     {
-      "title": "공공기관 이전 다음주 국무회의 심의 가능성…금융당국 반발 고조",
-      "url": "https://n.news.naver.com/mnews/article/079/0004181263"
+      "title": "1위끼리 뭉쳤다…시몬스, 포스코·고려제강과 협력 ‘업계 최초’",
+      "url": "https://n.news.naver.com/mnews/article/082/0001395055"
     },
     {
-      "title": "“연말까지 더 내린다”…1300원대 진입한 환율, 전망도 줄하향",
-      "url": "https://n.news.naver.com/mnews/article/029/0003043621"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001519454"
-    },
-    {
-      "title": "현대차 노조, 내일 부분파업 유보‥임협 교섭 재개 예정",
-      "url": "https://n.news.naver.com/mnews/article/214/0001519482"
-    },
-    {
-      "title": "올해 상반기 국내은행 이자이익 32조원 '역대 최대'",
-      "url": "https://n.news.naver.com/mnews/article/079/0004181284"
+      "title": "금감원, 5년간 481명 떠났다…올해 퇴직자 절반이 20~40대",
+      "url": "https://n.news.naver.com/mnews/article/029/0003043660"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000898475"
+      "url": "https://n.news.naver.com/mnews/article/422/0000898528"
     },
     {
-      "title": "앤트로픽, '기업가치 2조 달러' IPO 추진…스페이스X 기록 깰까",
-      "url": "https://n.news.naver.com/mnews/article/057/0001964956"
+      "title": "메모리값 폭등에…엔비디아도 AI 서버 가격 15% 이상 올린다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003465803"
     },
     {
-      "title": "에이전트 AI시대…\"국가 안보, 보유에서 운용으로 바꿔야\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006356320"
+      "title": "서울시, 모아타운 ‘쾌속통합’…2031년까지 4만호 착공 목표",
+      "url": "https://n.news.naver.com/mnews/article/016/0002687140"
+    },
+    {
+      "title": "‘스페이스X 주식 왜 샀을까’ 아직도 밤잠 설치는데…앤트로픽 IPO에 또 들썩 [투자360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002687166"
+    },
+    {
+      "title": "한화, 경남 수해복구·취약계층 지원에 30억 원 기부",
+      "url": "https://n.news.naver.com/mnews/article/021/0002813168"
+    },
+    {
+      "title": "1300원대 내려온 원·달러 환율…저점 더 낮출까[주간외환전망]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006356264"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.43
     },
     "usdkrw": {
-      "value": 1383.9,
-      "change": -6.89,
-      "change_pct": -0.5
+      "value": 1385.89,
+      "change": -4.9,
+      "change_pct": -0.35
     }
   },
   "gold": {
     "price_usd": 4680.6,
-    "price_krw": 6477482,
+    "price_krw": 6486796,
     "change": 0.0,
     "change_pct": 0.0
   },
-  "updated": "2026-08-23 15:41",
+  "updated": "2026-08-24 06:19",
   "error": null
 }
