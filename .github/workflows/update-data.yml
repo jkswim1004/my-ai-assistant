@@ -59,6 +59,7 @@ jobs:
             echo "변경된 데이터 파일이 없습니다."
           else
             git commit -m "chore: 데이터 자동 갱신 $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
             git push
           fi
 
