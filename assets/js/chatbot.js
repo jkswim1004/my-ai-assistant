@@ -111,7 +111,7 @@
   function tokenize(text) {
     /* 한글 형태소 분리는 브라우저에서 어려우므로
        2글자 이상 연속 문자 추출 방식을 사용 */
-    const tokens = text.match(/[가-힣a-zA-Z0-9]{2,}/g) || [];
+    const tokens = text.match(/[가-힣a-zA-Z0-9]{2,}|[/]/g) || [];
     /* 흔한 불용어 제거 */
     const stopwords = new Set(["있나요", "있을", "있는", "무엇", "어떻게", "인가요", "하나요", "되나요", "인지", "이란"]);
     return tokens.filter(function (t) { return !stopwords.has(t); });
