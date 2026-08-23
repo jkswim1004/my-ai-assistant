@@ -110,8 +110,9 @@
    */
   function tokenize(text) {
     /* 한글 형태소 분리는 브라우저에서 어려우므로
-       2글자 이상 연속 문자 추출 방식을 사용 */
-    const tokens = text.match(/[가-힣a-zA-Z0-9]{2,}|[/]/g) || [];
+       2글자 이상 연속 문자 추출 방식을 사용.
+       특수문자 '/' 단독 및 '/' 포함 단어 매칭을 위해 정규식 수정 */
+    const tokens = text.match(/[가-힣a-zA-Z0-9/]{2,}|[/]/g) || [];
     /* 흔한 불용어 제거 */
     const stopwords = new Set(["있나요", "있을", "있는", "무엇", "어떻게", "인가요", "하나요", "되나요", "인지", "이란"]);
     return tokens.filter(function (t) { return !stopwords.has(t); });
@@ -123,6 +124,17 @@
    * @returns {{ item, score }[]}  점수 내림차순 정렬
    */
   function searchFAQ(query) {
+    const trimmed = query.trim().toLowerCase();
+
+    /* 1. 정확히 일치하는 질문이 있는지 확인 (대소문자 구분 없이, 양끝 공백 제거 후) */
+    const exactMatch = faqData.find(function (item) {
+      return item.q.trim().toLowerCase() === trimmed;
+    });
+
+    if (exactMatch) {
+      return [{ item: exactMatch, score: SCORE_GOOD }];
+    }
+
     const tokens = tokenize(query);
     if (tokens.length === 0) return [];
 
