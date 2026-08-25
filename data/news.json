@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "소비심리 4개월 만에 꺾여…경기·생활형편 전망 동반 '위축'",
-      "url": "https://n.news.naver.com/mnews/article/119/0003124836"
+      "title": "65세이상 10명 중 9명이 연금 받는다..절반이 월 50만원 안돼",
+      "url": "https://n.news.naver.com/mnews/article/014/0005566025"
     },
     {
-      "title": "삼성전자 110조 풀었는데…시장은 벌써 ‘내년’을 본다",
-      "url": "https://n.news.naver.com/mnews/article/031/0001051827"
+      "title": "흑자 돌아선 포스코 리튬, 증설 속도…\"생산량 올라갈 일만 남아\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006357709"
     },
     {
-      "title": "LS일렉트릭, 미국 빅테크 데이터센터에 2309억 전력설비 공급",
-      "url": "https://n.news.naver.com/mnews/article/215/0001263357"
+      "title": "하이닉스 노조 “현금·주식 혼합 싫다”…협상 원점",
+      "url": "https://n.news.naver.com/mnews/article/025/0003546726"
     },
     {
-      "title": "'4000원 김밥' 한 줄 팔면 겨우 500원 남는데...\"비싸\" 손님 발길도 뚝",
-      "url": "https://n.news.naver.com/mnews/article/008/0005403864"
+      "title": "홈플러스 입점업체 \"매출 정산금 미지급·보증금 반환 불확실성 해소를\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009131912"
     },
     {
-      "title": "“美, 3년내 부채 위기”",
-      "url": "https://n.news.naver.com/mnews/article/023/0003994441"
+      "title": "“자사주 소각에 창사 이래 첫 배당까지”… 주가 부진에 주주환원 나선 게임업계",
+      "url": "https://n.news.naver.com/mnews/article/366/0001188248"
     },
     {
-      "title": "위고비·마운자로 몰래 들여오다 적발…2년 새 1,000배 이상 증가",
-      "url": "https://n.news.naver.com/mnews/article/057/0001965116"
+      "title": "에스원 “야간·주말 학교 안전 맡겨주세요”",
+      "url": "https://n.news.naver.com/mnews/article/032/0003466388"
     },
     {
-      "title": "이억원 “이주비대출 LTV 기준, 조합원 분양가”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001188026"
+      "title": "국토장관 \"2차 공공기관 이전, 공론화 거쳐 10~11월 추진\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006357687"
     },
     {
-      "title": "1분기 임금근로 일자리 29만개↑…20대는 고용 부진",
-      "url": "https://n.news.naver.com/mnews/article/422/0000898782"
+      "title": "비트코인, 석 달 만에 다시 뛰어 8만 달러 재진입",
+      "url": "https://n.news.naver.com/mnews/article/660/0000115842"
     },
     {
-      "title": "LG전자, 에티오피아 청년 자립 10년…누적 졸업생 679명",
-      "url": "https://n.news.naver.com/mnews/article/031/0001051778"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012244379"
     },
     {
-      "title": "‘삼전 8% 급락’에 코스피 하락 마감…삼성 관련주도 줄줄이 하락",
-      "url": "https://n.news.naver.com/mnews/article/032/0003466061"
+      "title": "소주 원료 주정 직거래 2%→10%…“가격·품질 경쟁 촉진”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006357625"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6912.95,
+      "value": 6696.96,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 801.94,
+      "value": 813.33,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25980.19,
-      "change": -200.27,
-      "change_pct": -0.76
+      "value": 26151.3,
+      "change": 171.11,
+      "change_pct": 0.66
     },
     "usdkrw": {
-      "value": 1383.12,
-      "change": -7.67,
-      "change_pct": -0.55
+      "value": 1380.0,
+      "change": -4.98,
+      "change_pct": -0.36
     }
   },
   "gold": {
-    "price_usd": 4710.0,
-    "price_krw": 6514495,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4715.9,
+    "price_krw": 6507941,
+    "change": 75.1,
+    "change_pct": 1.62
   },
-  "updated": "2026-08-25 06:26",
+  "updated": "2026-08-26 06:25",
   "error": null
 }
