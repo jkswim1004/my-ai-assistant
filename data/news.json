@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "65세이상 10명 중 9명이 연금 받는다..절반이 월 50만원 안돼",
-      "url": "https://n.news.naver.com/mnews/article/014/0005566025"
+      "title": "주담대 금리 2년8개월 만에 최고…고정형보다 싼 '변동형' 몰렸다",
+      "url": "https://n.news.naver.com/mnews/article/586/0000136800"
     },
     {
-      "title": "흑자 돌아선 포스코 리튬, 증설 속도…\"생산량 올라갈 일만 남아\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006357709"
+      "title": "베트남 산업장관 만난 정원주 회장 \"원전·에너지 인프라확충 기여할것\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005807931"
     },
     {
-      "title": "하이닉스 노조 “현금·주식 혼합 싫다”…협상 원점",
-      "url": "https://n.news.naver.com/mnews/article/025/0003546726"
+      "title": "산업용 전기요금 지역차등제…남부권 kWh당 최대 18원 인하",
+      "url": "https://n.news.naver.com/mnews/article/025/0003546896"
     },
     {
-      "title": "홈플러스 입점업체 \"매출 정산금 미지급·보증금 반환 불확실성 해소를\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009131912"
+      "title": "국토장관, 서울시에 “‘용산 불가론’만 고수해선 안 돼”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002688876"
     },
     {
-      "title": "“자사주 소각에 창사 이래 첫 배당까지”… 주가 부진에 주주환원 나선 게임업계",
-      "url": "https://n.news.naver.com/mnews/article/366/0001188248"
+      "title": "\"추석에 집콕 대신 이곳\"…호텔신라, 국악과 만찬 즐기는 패키지 선봬",
+      "url": "https://n.news.naver.com/mnews/article/015/0005325313"
     },
     {
-      "title": "에스원 “야간·주말 학교 안전 맡겨주세요”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003466388"
+      "title": "서울시, 모아주택 초기사업비 첫 융자…조합당 최대 20억",
+      "url": "https://n.news.naver.com/mnews/article/008/0005405345"
     },
     {
-      "title": "국토장관 \"2차 공공기관 이전, 공론화 거쳐 10~11월 추진\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006357687"
+      "title": "李 대통령-이재용 또 만난다…메가프로젝트·대미투자 지원 사격 요청",
+      "url": "https://n.news.naver.com/mnews/article/421/0009134024"
     },
     {
-      "title": "비트코인, 석 달 만에 다시 뛰어 8만 달러 재진입",
-      "url": "https://n.news.naver.com/mnews/article/660/0000115842"
+      "title": "생보사 ‘본업’ 부진에도… 투자 대박에 상반기 보험사 순익 9조 넘어",
+      "url": "https://n.news.naver.com/mnews/article/023/0003995173"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012244379"
+      "title": "현대차, 2030년까지 신차 100종… 美관세·中공세 정면 돌파",
+      "url": "https://n.news.naver.com/mnews/article/081/0003673967"
     },
     {
-      "title": "소주 원료 주정 직거래 2%→10%…“가격·품질 경쟁 촉진”",
-      "url": "https://n.news.naver.com/mnews/article/018/0006357625"
+      "title": "SK이노베이션, SKIET 흡수합병 …\"기존 주주 보호정책 필요\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006358665"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6696.96,
+      "value": 6976.37,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 813.33,
+      "value": 830.2,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26151.3,
-      "change": 171.11,
-      "change_pct": 0.66
+      "value": 26130.2,
+      "change": -21.1,
+      "change_pct": -0.08
     },
     "usdkrw": {
-      "value": 1380.0,
-      "change": -4.98,
-      "change_pct": -0.36
+      "value": 1382.08,
+      "change": 0.59,
+      "change_pct": 0.04
     }
   },
   "gold": {
-    "price_usd": 4715.9,
-    "price_krw": 6507941,
-    "change": 75.1,
-    "change_pct": 1.62
+    "price_usd": 4669.5,
+    "price_krw": 6453622,
+    "change": 31.4,
+    "change_pct": 0.68
   },
-  "updated": "2026-08-26 06:25",
+  "updated": "2026-08-27 09:27",
   "error": null
 }
