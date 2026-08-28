@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "주담대 금리 2년8개월 만에 최고…고정형보다 싼 '변동형' 몰렸다",
-      "url": "https://n.news.naver.com/mnews/article/586/0000136800"
+      "title": "SK하이닉스, 美인디애나 HBM 공장 첫 삽…2029년 양산 돌입(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009137015"
     },
     {
-      "title": "베트남 산업장관 만난 정원주 회장 \"원전·에너지 인프라확충 기여할것\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005807931"
+      "title": "첨단기술 연구개발부터 구매까지 '논스톱 공공조달'",
+      "url": "https://n.news.naver.com/mnews/article/014/0005567654"
     },
     {
-      "title": "산업용 전기요금 지역차등제…남부권 kWh당 최대 18원 인하",
-      "url": "https://n.news.naver.com/mnews/article/025/0003546896"
+      "title": "삼성전자, '디지털고객경험지수' 종합가전 4년 연속 1위",
+      "url": "https://n.news.naver.com/mnews/article/215/0001263969"
     },
     {
-      "title": "국토장관, 서울시에 “‘용산 불가론’만 고수해선 안 돼”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002688876"
+      "title": "구윤철 \"민생이 경제의 핵심…코로나 때 장기연체 소상공인 채무조정\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005808547"
     },
     {
-      "title": "\"추석에 집콕 대신 이곳\"…호텔신라, 국악과 만찬 즐기는 패키지 선봬",
-      "url": "https://n.news.naver.com/mnews/article/015/0005325313"
+      "title": "네팔 홍수에 고립된 한국인 9명…“대피하겠다” 연락 뒤 끊겼다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005726920"
     },
     {
-      "title": "서울시, 모아주택 초기사업비 첫 융자…조합당 최대 20억",
-      "url": "https://n.news.naver.com/mnews/article/008/0005405345"
+      "title": "코스맥스, 인니 첫 '화장품학과' 만든다…연구개발 인재 육성",
+      "url": "https://n.news.naver.com/mnews/article/003/0014153786"
     },
     {
-      "title": "李 대통령-이재용 또 만난다…메가프로젝트·대미투자 지원 사격 요청",
-      "url": "https://n.news.naver.com/mnews/article/421/0009134024"
+      "title": "글로벌 대형 은행들, 스테이블코인 같이 발행한다",
+      "url": "https://n.news.naver.com/mnews/article/421/0009135274"
     },
     {
-      "title": "생보사 ‘본업’ 부진에도… 투자 대박에 상반기 보험사 순익 9조 넘어",
-      "url": "https://n.news.naver.com/mnews/article/023/0003995173"
+      "title": "우리금융저축은행, 토스와 손잡고 소상공인 대출 문턱 낮춘다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000950695"
     },
     {
-      "title": "현대차, 2030년까지 신차 100종… 美관세·中공세 정면 돌파",
-      "url": "https://n.news.naver.com/mnews/article/081/0003673967"
+      "title": "저축은행·상호금융 상반기 순익 개선…연체율은 동반 상승",
+      "url": "https://n.news.naver.com/mnews/article/119/0003126372"
     },
     {
-      "title": "SK이노베이션, SKIET 흡수합병 …\"기존 주주 보호정책 필요\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006358665"
+      "title": "“달러 싸졌네?” 외화예금 몰렸다",
+      "url": "https://n.news.naver.com/mnews/article/050/0000110215"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6976.37,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 6831.38,
+      "change": -80.99,
+      "change_pct": -1.17
     },
     "kosdaq": {
-      "value": 830.2,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 840.07,
+      "change": 2.42,
+      "change_pct": 0.29
     },
     "nasdaq": {
-      "value": 26130.2,
-      "change": -21.1,
-      "change_pct": -0.08
+      "value": 26541.35,
+      "change": 411.15,
+      "change_pct": 1.57
     },
     "usdkrw": {
-      "value": 1382.08,
-      "change": 0.59,
-      "change_pct": 0.04
+      "value": 1376.28,
+      "change": -7.21,
+      "change_pct": -0.52
     }
   },
   "gold": {
-    "price_usd": 4669.5,
-    "price_krw": 6453622,
-    "change": 31.4,
-    "change_pct": 0.68
+    "price_usd": 4635.6,
+    "price_krw": 6379883,
+    "change": 25.9,
+    "change_pct": 0.56
   },
-  "updated": "2026-08-27 09:27",
+  "updated": "2026-08-28 14:06",
   "error": null
 }
