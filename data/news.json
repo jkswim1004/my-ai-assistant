@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "상반기 코스피 급등에 국민연금 수익률 27% 넘어…적립금 1800조 돌파",
-      "url": "https://n.news.naver.com/mnews/article/437/0000508325"
-    },
-    {
-      "title": "비틀스부터 스마트링까지…주말 팝업 풍성[위클리 쇼핑]",
-      "url": "https://n.news.naver.com/mnews/article/003/0014155815"
-    },
-    {
-      "title": "현금 3000만원 장벽 통했지만…소 잃고 외양간 고친 레버리지, 과제는?",
-      "url": "https://n.news.naver.com/mnews/article/008/0005406028"
-    },
-    {
-      "title": "\"청년 희망월급 350만 원, 실제 230만 원\"…정부가 월급 갭 채운다",
-      "url": "https://n.news.naver.com/mnews/article/079/0004183608"
-    },
-    {
-      "title": "국민 10명 중 8명 “12차 전기본에 신규 원전 반영해야”…SMR 필요성도 87%",
-      "url": "https://n.news.naver.com/mnews/article/011/0004656304"
-    },
-    {
-      "title": "\"SK하이닉스가 7000개 일자리 만든대\"…인구 4.5만 美도시 ‘들썩’",
-      "url": "https://n.news.naver.com/mnews/article/018/0006359362"
-    },
-    {
-      "title": "잭슨홀 회의 연준 의장 연설 앞두고 보합세[뉴욕증시]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005567958"
-    },
-    {
-      "title": "비만약 시장 정조준한 삼성바이오로직스…3조원 베팅 승부수",
-      "url": "https://n.news.naver.com/mnews/article/421/0009137540"
+      "title": "정부 2차 대응팀, 네팔 도착…두산 박정원 회장도 수색 지원 나선다",
+      "url": "https://n.news.naver.com/mnews/article/469/0000950905"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000529906"
+      "url": "https://n.news.naver.com/mnews/article/052/0002399807"
     },
     {
-      "title": "소상공인 코로나 빚 탕감해준다…장기연체 6.3조 달해",
-      "url": "https://n.news.naver.com/mnews/article/020/0003744193"
+      "title": "토스, 개인사업자 대출 문턱 낮춘다…우리금융저축은행에 '소호스코어' 적용",
+      "url": "https://n.news.naver.com/mnews/article/119/0003126811"
+    },
+    {
+      "title": "5000만원 이하·7년 이상 채권 소각·조정… 20년 넘은 빚은 일괄 소각",
+      "url": "https://n.news.naver.com/mnews/article/022/0004154613"
+    },
+    {
+      "title": "용산 막히고 탄천은 난색…주택공급 '땅 찾기'부터 난항[비즈토크<상>]",
+      "url": "https://n.news.naver.com/mnews/article/629/0000528678"
+    },
+    {
+      "title": "“어제 삼전 374원 실망하셨어요?”...석달뒤엔 ‘이만큼’받는다",
+      "url": "https://n.news.naver.com/mnews/article/009/0005727497"
+    },
+    {
+      "title": "CPTPP 가입논의 다시 운 띄운 정부, 이번엔 결론 낼까",
+      "url": "https://n.news.naver.com/mnews/article/374/0000530045"
+    },
+    {
+      "title": "\"월요일 국장 어쩌나\" 개미들 촉각…中 D램 '깜짝 실적'",
+      "url": "https://n.news.naver.com/mnews/article/215/0001264107"
+    },
+    {
+      "title": "15주째 내린 기름값… 제주 휘발유는 아직 1,890원대",
+      "url": "https://n.news.naver.com/mnews/article/661/0000082384"
+    },
+    {
+      "title": "어뮤즈, 미국 노드스트롬 85개점·타겟 611개점 진출",
+      "url": "https://n.news.naver.com/mnews/article/421/0009139536"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6788.88,
+      "change": -123.49,
+      "change_pct": -1.79
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 838.41,
+      "change": 0.76,
+      "change_pct": 0.09
     },
     "nasdaq": {
       "value": 26402.42,
@@ -58,17 +58,17 @@
       "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1375.67,
-      "change": -7.82,
-      "change_pct": -0.57
+      "value": 1371.5,
+      "change": -8.95,
+      "change_pct": -0.65
     }
   },
   "gold": {
-    "price_usd": 4504.1,
-    "price_krw": 6196155,
-    "change": -105.6,
-    "change_pct": -2.29
+    "price_usd": 4478.1,
+    "price_krw": 6141714,
+    "change": -131.6,
+    "change_pct": -2.85
   },
-  "updated": "2026-08-29 12:04",
+  "updated": "2026-08-30 07:59",
   "error": null
 }
