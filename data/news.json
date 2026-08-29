@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "SK하이닉스, 美인디애나 HBM 공장 첫 삽…2029년 양산 돌입(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009137015"
+      "title": "상반기 코스피 급등에 국민연금 수익률 27% 넘어…적립금 1800조 돌파",
+      "url": "https://n.news.naver.com/mnews/article/437/0000508325"
     },
     {
-      "title": "첨단기술 연구개발부터 구매까지 '논스톱 공공조달'",
-      "url": "https://n.news.naver.com/mnews/article/014/0005567654"
+      "title": "비틀스부터 스마트링까지…주말 팝업 풍성[위클리 쇼핑]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014155815"
     },
     {
-      "title": "삼성전자, '디지털고객경험지수' 종합가전 4년 연속 1위",
-      "url": "https://n.news.naver.com/mnews/article/215/0001263969"
+      "title": "현금 3000만원 장벽 통했지만…소 잃고 외양간 고친 레버리지, 과제는?",
+      "url": "https://n.news.naver.com/mnews/article/008/0005406028"
     },
     {
-      "title": "구윤철 \"민생이 경제의 핵심…코로나 때 장기연체 소상공인 채무조정\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005808547"
+      "title": "\"청년 희망월급 350만 원, 실제 230만 원\"…정부가 월급 갭 채운다",
+      "url": "https://n.news.naver.com/mnews/article/079/0004183608"
     },
     {
-      "title": "네팔 홍수에 고립된 한국인 9명…“대피하겠다” 연락 뒤 끊겼다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005726920"
+      "title": "국민 10명 중 8명 “12차 전기본에 신규 원전 반영해야”…SMR 필요성도 87%",
+      "url": "https://n.news.naver.com/mnews/article/011/0004656304"
     },
     {
-      "title": "코스맥스, 인니 첫 '화장품학과' 만든다…연구개발 인재 육성",
-      "url": "https://n.news.naver.com/mnews/article/003/0014153786"
+      "title": "\"SK하이닉스가 7000개 일자리 만든대\"…인구 4.5만 美도시 ‘들썩’",
+      "url": "https://n.news.naver.com/mnews/article/018/0006359362"
     },
     {
-      "title": "글로벌 대형 은행들, 스테이블코인 같이 발행한다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009135274"
+      "title": "잭슨홀 회의 연준 의장 연설 앞두고 보합세[뉴욕증시]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005567958"
     },
     {
-      "title": "우리금융저축은행, 토스와 손잡고 소상공인 대출 문턱 낮춘다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000950695"
+      "title": "비만약 시장 정조준한 삼성바이오로직스…3조원 베팅 승부수",
+      "url": "https://n.news.naver.com/mnews/article/421/0009137540"
     },
     {
-      "title": "저축은행·상호금융 상반기 순익 개선…연체율은 동반 상승",
-      "url": "https://n.news.naver.com/mnews/article/119/0003126372"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/374/0000529906"
     },
     {
-      "title": "“달러 싸졌네?” 외화예금 몰렸다",
-      "url": "https://n.news.naver.com/mnews/article/050/0000110215"
+      "title": "소상공인 코로나 빚 탕감해준다…장기연체 6.3조 달해",
+      "url": "https://n.news.naver.com/mnews/article/020/0003744193"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6831.38,
-      "change": -80.99,
-      "change_pct": -1.17
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 840.07,
-      "change": 2.42,
-      "change_pct": 0.29
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26541.35,
-      "change": 411.15,
-      "change_pct": 1.57
+      "value": 26402.42,
+      "change": -138.93,
+      "change_pct": -0.52
     },
     "usdkrw": {
-      "value": 1376.28,
-      "change": -7.21,
-      "change_pct": -0.52
+      "value": 1375.67,
+      "change": -7.82,
+      "change_pct": -0.57
     }
   },
   "gold": {
-    "price_usd": 4635.6,
-    "price_krw": 6379883,
-    "change": 25.9,
-    "change_pct": 0.56
+    "price_usd": 4504.1,
+    "price_krw": 6196155,
+    "change": -105.6,
+    "change_pct": -2.29
   },
-  "updated": "2026-08-28 14:06",
+  "updated": "2026-08-29 12:04",
   "error": null
 }
