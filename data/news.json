@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000901472"
+      "title": "이형일 \"거주 중심 주택시장이 정부 방향…합리적 요구면 반영\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000530761"
     },
     {
-      "title": "삼성전기, 美 빅테크와 MLCC 1조 계약",
-      "url": "https://n.news.naver.com/mnews/article/015/0005327329"
+      "title": "글로벌 국채금리 '연쇄 쇼크'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005328142"
     },
     {
-      "title": "글로벌 21개 은행 컨소시엄, 내년 달러 스테이블 코인 발행...골드만삭스·BofA 등 참여",
-      "url": "https://n.news.naver.com/mnews/article/052/0002401514"
+      "title": "금융당국, 금양 허위매출 회계 반영 적발…대표이사 고발",
+      "url": "https://n.news.naver.com/mnews/article/008/0005408656"
     },
     {
-      "title": "고려아연 \"사실 왜곡·업무방해\"…영풍·MBK 고소",
-      "url": "https://n.news.naver.com/mnews/article/050/0000110354"
+      "title": "8월 소비자 물가 상승률 3.1%…\"지난해 SKT 요금 할인 기저효과\"(상보)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005810560"
     },
     {
-      "title": "치폴레, 아시아 최초 한국 상륙…'강남점' 2일 오픈",
-      "url": "https://n.news.naver.com/mnews/article/448/0000636812"
+      "title": "대형 유통업체 판매 대금 지급 60→35일로 단축키로",
+      "url": "https://n.news.naver.com/mnews/article/014/0005569879"
     },
     {
-      "title": "중동 긴장·유가 급등에 채권 매도세까지…뉴욕증시 일제히 하락",
-      "url": "https://n.news.naver.com/mnews/article/056/0012249145"
+      "title": "두산, 오늘도 헬기 수색...남동발전은 수색견 투입",
+      "url": "https://n.news.naver.com/mnews/article/052/0002401841"
     },
     {
-      "title": "CES는 알고 IFA는 몰라? 하나만 알고 둘을 모르면 안되는 이유",
-      "url": "https://n.news.naver.com/mnews/article/079/0004184934"
+      "title": "배경훈 부총리, G20 혁신 장관회의 참석해 ‘AI 3강’ 전략 소개",
+      "url": "https://n.news.naver.com/mnews/article/366/0001189777"
     },
     {
-      "title": "'9억 축소 철회·150% 상한 유지' 등 세법 개정 정부안 확정…주가누르기는 빠져",
-      "url": "https://n.news.naver.com/mnews/article/277/0005810307"
+      "title": "3년물 금리 4% 육박… 기업들 '차환 공포' [요동치는 채권시장]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005570255"
     },
     {
-      "title": "공정위 '빈손 철수' 일주일 만에 쿠팡 현장조사…가처분 심문 하루 전 10년 치 자료 요구(종합)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005810336"
+      "title": "법원, 홈플러스 회생계획안 인가…변제 수행시 회생 종료",
+      "url": "https://n.news.naver.com/mnews/article/437/0000509127"
     },
     {
-      "title": "3·4인 가족 맞춤 공간으로 채운 GS건설 '목동윤슬자이'[르포]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005810209"
+      "title": "정용진 회장의 '럭셔리 승부수'…청담에 국내 첫 '아만 서울' 들어선다",
+      "url": "https://n.news.naver.com/mnews/article/437/0000509115"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6820.02,
+      "value": 6835.8,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 834.29,
+      "value": 821.25,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26099.77,
-      "change": -271.12,
-      "change_pct": -1.03
+      "value": 26217.83,
+      "change": 118.06,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1374.3,
-      "change": 7.68,
-      "change_pct": 0.56
+      "value": 1358.95,
+      "change": -7.67,
+      "change_pct": -0.56
     }
   },
   "gold": {
-    "price_usd": 4374.2,
-    "price_krw": 6011463,
-    "change": -56.9,
-    "change_pct": -1.28
+    "price_usd": 4430.1,
+    "price_krw": 6020284,
+    "change": 82.1,
+    "change_pct": 1.89
   },
-  "updated": "2026-09-02 08:00",
+  "updated": "2026-09-03 07:58",
   "error": null
 }
