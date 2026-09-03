@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "이형일 \"거주 중심 주택시장이 정부 방향…합리적 요구면 반영\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000530761"
+      "title": "LH, 택지·주택건설과 주거복지·자산비축 두 공사로 쪼갠다",
+      "url": "https://n.news.naver.com/mnews/article/001/0016287750"
     },
     {
-      "title": "글로벌 국채금리 '연쇄 쇼크'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005328142"
+      "title": "“스타벅스보다 비싸게”…투썸, ‘스초생’으로 美 프리미엄 카페 시장 공략",
+      "url": "https://n.news.naver.com/mnews/article/011/0004658294"
     },
     {
-      "title": "금융당국, 금양 허위매출 회계 반영 적발…대표이사 고발",
-      "url": "https://n.news.naver.com/mnews/article/008/0005408656"
+      "title": "울자기 손에 물 안 묻히는 삶…진짜 현실로 만들어준다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003549075"
     },
     {
-      "title": "8월 소비자 물가 상승률 3.1%…\"지난해 SKT 요금 할인 기저효과\"(상보)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005810560"
+      "title": "외환보유액 순위 ‘돌연’ 비공개…한은 “불리해 숨기려던 것 아냐“",
+      "url": "https://n.news.naver.com/mnews/article/215/0001264709"
     },
     {
-      "title": "대형 유통업체 판매 대금 지급 60→35일로 단축키로",
-      "url": "https://n.news.naver.com/mnews/article/014/0005569879"
+      "title": "인천공항, ACI 선정 5년 연속 '고객경험 최고등급 5단계 인증'",
+      "url": "https://n.news.naver.com/mnews/article/003/0014167145"
     },
     {
-      "title": "두산, 오늘도 헬기 수색...남동발전은 수색견 투입",
-      "url": "https://n.news.naver.com/mnews/article/052/0002401841"
+      "title": "韓 국채금리도 4.4%로 뜀박질, 이자부담 늘고 기업투자 위축 우려",
+      "url": "https://n.news.naver.com/mnews/article/020/0003745358"
     },
     {
-      "title": "배경훈 부총리, G20 혁신 장관회의 참석해 ‘AI 3강’ 전략 소개",
-      "url": "https://n.news.naver.com/mnews/article/366/0001189777"
+      "title": "중기부, ‘中企혁신 4대전략’ 수출 1800억달러 도약",
+      "url": "https://n.news.naver.com/mnews/article/029/0003046016"
     },
     {
-      "title": "3년물 금리 4% 육박… 기업들 '차환 공포' [요동치는 채권시장]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005570255"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/448/0000637333"
     },
     {
-      "title": "법원, 홈플러스 회생계획안 인가…변제 수행시 회생 종료",
-      "url": "https://n.news.naver.com/mnews/article/437/0000509127"
+      "title": "유령업체로 실적 뻥튀기해 입찰‥'산불카르텔' 10개 업체 세무조사",
+      "url": "https://n.news.naver.com/mnews/article/214/0001521871"
     },
     {
-      "title": "정용진 회장의 '럭셔리 승부수'…청담에 국내 첫 '아만 서울' 들어선다",
-      "url": "https://n.news.naver.com/mnews/article/437/0000509115"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/057/0001967129"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6835.8,
+      "value": 6562.72,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 821.25,
+      "value": 803.98,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26217.83,
-      "change": 118.06,
-      "change_pct": 0.45
+      "value": 26584.06,
+      "change": 366.23,
+      "change_pct": 1.4
     },
     "usdkrw": {
-      "value": 1358.95,
-      "change": -7.67,
-      "change_pct": -0.56
+      "value": 1356.21,
+      "change": -16.65,
+      "change_pct": -1.21
     }
   },
   "gold": {
-    "price_usd": 4430.1,
-    "price_krw": 6020284,
-    "change": 82.1,
-    "change_pct": 1.89
+    "price_usd": 4520.1,
+    "price_krw": 6130204,
+    "change": 153.8,
+    "change_pct": 3.52
   },
-  "updated": "2026-09-03 07:58",
+  "updated": "2026-09-04 07:58",
   "error": null
 }
