@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "LH, 택지·주택건설과 주거복지·자산비축 두 공사로 쪼갠다",
-      "url": "https://n.news.naver.com/mnews/article/001/0016287750"
+      "title": "정용진 회장 \"한미 합치면 더 큰 시너지 낼 것\"",
+      "url": "https://n.news.naver.com/mnews/article/082/0001396915"
     },
     {
-      "title": "“스타벅스보다 비싸게”…투썸, ‘스초생’으로 美 프리미엄 카페 시장 공략",
-      "url": "https://n.news.naver.com/mnews/article/011/0004658294"
+      "title": "中企 AI 인재 1600명 키운다…취업 인턴십 기간 12개월로 연장",
+      "url": "https://n.news.naver.com/mnews/article/421/0009150330"
     },
     {
-      "title": "울자기 손에 물 안 묻히는 삶…진짜 현실로 만들어준다",
-      "url": "https://n.news.naver.com/mnews/article/025/0003549075"
+      "title": "7월 경상수지 420.8억 달러…두 달째 400억 달러 웃돌아",
+      "url": "https://n.news.naver.com/mnews/article/003/0014168606"
     },
     {
-      "title": "외환보유액 순위 ‘돌연’ 비공개…한은 “불리해 숨기려던 것 아냐“",
-      "url": "https://n.news.naver.com/mnews/article/215/0001264709"
+      "title": "발전5사 통합 한국발전 청사진…임원 20→6명·재생본부 4곳 '신설'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009151298"
     },
     {
-      "title": "인천공항, ACI 선정 5년 연속 '고객경험 최고등급 5단계 인증'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014167145"
+      "title": "월러가 돌린 금리 전망…뉴욕증시 1%대 상승·국채금리 하락",
+      "url": "https://n.news.naver.com/mnews/article/014/0005570941"
     },
     {
-      "title": "韓 국채금리도 4.4%로 뜀박질, 이자부담 늘고 기업투자 위축 우려",
-      "url": "https://n.news.naver.com/mnews/article/020/0003745358"
+      "title": "제주-호텔리조트업 원하청 상생협력 협약 체결…12.2억 투입",
+      "url": "https://n.news.naver.com/mnews/article/421/0009152148"
     },
     {
-      "title": "중기부, ‘中企혁신 4대전략’ 수출 1800억달러 도약",
-      "url": "https://n.news.naver.com/mnews/article/029/0003046016"
+      "title": "정부 공공기관 이전 계획에 금융권 반발 확산...금감원 직원 1720명, 李대통령에 탄원",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996693"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/448/0000637333"
+      "title": "조각투자 넘어 주식·채권까지 허용…토큰증권 발행 기준은",
+      "url": "https://n.news.naver.com/mnews/article/277/0005811905"
     },
     {
-      "title": "유령업체로 실적 뻥튀기해 입찰‥'산불카르텔' 10개 업체 세무조사",
-      "url": "https://n.news.naver.com/mnews/article/214/0001521871"
+      "title": "가스공사, 美 석유협회와 '글로벌 수소 표준 공동 개발' 한다",
+      "url": "https://n.news.naver.com/mnews/article/277/0005812119"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/057/0001967129"
+      "title": "LG전자, IFA 혁신상 '베스트 브랜드'…올레드·오디오 7개 제품 수상",
+      "url": "https://n.news.naver.com/mnews/article/421/0009152281"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6562.72,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 803.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26584.06,
-      "change": 366.23,
-      "change_pct": 1.4
+      "value": 26506.99,
+      "change": -77.07,
+      "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1356.21,
-      "change": -16.65,
-      "change_pct": -1.21
+      "value": 1345.99,
+      "change": -12.4,
+      "change_pct": -0.91
     }
   },
   "gold": {
-    "price_usd": 4520.1,
-    "price_krw": 6130204,
-    "change": 153.8,
-    "change_pct": 3.52
+    "price_usd": 4477.2,
+    "price_krw": 6026266,
+    "change": -14.5,
+    "change_pct": -0.32
   },
-  "updated": "2026-09-04 07:58",
+  "updated": "2026-09-05 07:46",
   "error": null
 }
