@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "LG전자 “카톡으로 집과 대화”…IFA서 밝힌 AI 전략은 [IFA 2026]",
-      "url": "https://n.news.naver.com/mnews/article/025/0003549272"
+      "title": "반도체 호황 올라선 韓, 수출 역대 최대 실적 달성… “사상 첫 1조 달러 가시권”",
+      "url": "https://n.news.naver.com/mnews/article/023/0003996876"
     },
     {
-      "title": "쇳물부터 美서 직접 만든다… 현대제철-포스코 전기로 제철소 '첫 삽'",
-      "url": "https://n.news.naver.com/mnews/article/469/0000952246"
+      "title": "美 물가·중동 정세에 쏠린 눈…\"삼전닉스 자사주가 하단 지지\" [주간전망]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005329048"
     },
     {
-      "title": "환율, 이번주 1300원 중반대 박스권…美물가에 촉각[주간외환전망]",
-      "url": "https://n.news.naver.com/mnews/article/018/0006364304"
+      "title": "“주담대·AI 투자 모두 타격”...미국이 ‘바이백’ 나선 이유 [뉴스 쉽게보기]",
+      "url": "https://n.news.naver.com/mnews/article/009/0005730868"
     },
     {
-      "title": "삼전 DX노조, 이재용 회장 자택 앞 집회 예고…\"보상 격차 해소\"",
-      "url": "https://n.news.naver.com/mnews/article/422/0000903028"
+      "title": "SK와 울산상의, 11일부터 '울산포럼' 개최…AI 전환 논한다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005409911"
     },
     {
-      "title": "로봇에 정부 자금 쏟아진다…수혜 기업은? [주末머니]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005812317"
+      "title": "하나금융, 소진공·소공연과 '착한계란 물가안정화' 손잡는다",
+      "url": "https://n.news.naver.com/mnews/article/079/0004186274"
     },
     {
-      "title": "獨 디지털장관·베를린 시장 LG전자 방문… “투어 마지막 장식한 완벽한 부스”[IFA 2026]",
-      "url": "https://n.news.naver.com/mnews/article/366/0001190495"
+      "title": "사망신고 ‘다음날’부터…사망자 명의 금융거래 자동 차단한다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003549350"
     },
     {
-      "title": "“불꽃 보러 서울 왔어요”…130억 쏟아붓는 한화 불꽃축제에 전국서 몰려",
-      "url": "https://n.news.naver.com/mnews/article/366/0001190554"
+      "title": "\"집값 안 꺾이면 2030년 강북·금천·도봉 제외 서울 전역 종부세\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000903223"
     },
     {
-      "title": "스마트폰-전기차-집을 AI로 연결한 샤오미... 소비자 '록인' 노린다",
-      "url": "https://n.news.naver.com/mnews/article/469/0000952283"
+      "title": "빌트인·B2B 앞세운 LG전자 “유럽 가전 시장 1위 되겠다”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003549442"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002403227"
+      "title": "GS건설·LGU+ 등, 모듈러 데이터센터 표준모델 공동개발 맞손",
+      "url": "https://n.news.naver.com/mnews/article/001/0016292165"
     },
     {
-      "title": "9월 초 수출누계 7000억달러 돌파…李대통령 “놀라운 성장세”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001190546"
+      "title": "추석 차례상 비용 30만원대…작년보다 더 올랐다",
+      "url": "https://n.news.naver.com/mnews/article/057/0001967520"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -0.29
     },
     "usdkrw": {
-      "value": 1351.1,
-      "change": -4.31,
-      "change_pct": -0.32
+      "value": 1345.51,
+      "change": -9.9,
+      "change_pct": -0.73
     }
   },
   "gold": {
-    "price_usd": 4429.8,
-    "price_krw": 5985102,
-    "change": -61.9,
-    "change_pct": -1.38
+    "price_usd": 4476.6,
+    "price_krw": 6023310,
+    "change": 46.8,
+    "change_pct": 1.06
   },
-  "updated": "2026-09-06 07:38",
+  "updated": "2026-09-07 07:41",
   "error": null
 }
