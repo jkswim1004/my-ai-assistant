@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "주담대 막차 타는 토스뱅크…규제 속 대출 여력 관건",
-      "url": "https://n.news.naver.com/mnews/article/119/0003130519"
+      "title": "홍라희, 삼성전자 지분 0.11% 이재용 회장에 매각…1.9조 장외거래",
+      "url": "https://n.news.naver.com/mnews/article/011/0004660254"
     },
     {
-      "title": "유가 100달러 눈앞…연휴 끝낸 월가, '인플레 공포' 안고 문 연다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006365863"
+      "title": "전국 약사들 발끈…\"환자 안전 내팽개친 약 배송 확대 철회\"(종합)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009160494"
     },
     {
-      "title": "“국민소득 4만달러 유력”…돌파 땐 인구 5000만 이상 국가 중 6번째",
-      "url": "https://n.news.naver.com/mnews/article/025/0003550038"
+      "title": "금감원, 보험사 KPI ‘단기 실적’서 ‘장기 성과’로 손본다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006366306"
     },
     {
-      "title": "포스코 노조 창사 이래 첫 부분파업 시작…150명 참여 전망",
-      "url": "https://n.news.naver.com/mnews/article/079/0004187333"
+      "title": "SK하이닉스 곽노정 \"AI 시대, 고객 시선에서 새 가능성 찾아야\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009159515"
     },
     {
-      "title": "“우리도 순천만처럼…” 수백억 국가정원 경쟁 [심층기획-지차체는 ‘국가정원’ 경쟁]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004157535"
+      "title": "삼성전자 노조위원장, 장인 회사와 조끼 계약…“개인 이익 없어”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004660089"
     },
     {
-      "title": "'영끌족' 버티기 한계?…주담대 연체 3년반 만에 2.2배로",
-      "url": "https://n.news.naver.com/mnews/article/055/0001386564"
+      "title": "삼성證 ‘9년 숙원’ 풀었다…발행어음 8번째 사업자로",
+      "url": "https://n.news.naver.com/mnews/article/011/0004660223"
     },
     {
-      "title": "SK하이닉스, 2028년 D램 공정에 High NA EUV 적용",
-      "url": "https://n.news.naver.com/mnews/article/014/0005572894"
+      "title": "오케스트로, WSCE 2026서 6109억원 규모 천안·아산 AI 도시 청사진 공개",
+      "url": "https://n.news.naver.com/mnews/article/081/0003678394"
     },
     {
-      "title": "6억 성과급 받는데, 주거비 챙기려 서류까지 위조?…삼전 직원들 부정수급 논란",
-      "url": "https://n.news.naver.com/mnews/article/009/0005732238"
+      "title": "삼성전자 초기업노조, '반도체 노조'로 바꾼다…다음달 6일 총회",
+      "url": "https://n.news.naver.com/mnews/article/422/0000904282"
     },
     {
-      "title": "이성훈 LH 사장 “3년간 서울 매입임대 2만가구 공급… 부천대장지구급”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001191107"
+      "title": "58년 ‘무파업’ 깨진 포스코… 포항·광양제철소 2개 공정 멈췄다",
+      "url": "https://n.news.naver.com/mnews/article/366/0001191175"
     },
     {
-      "title": "최태원, 한·일 경제 공동체 또 강조… “하나로 뭉치면 세계 4위 경제권”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001191078"
+      "title": "신용정보법 위반 동양생명에 … 금융위원회, 70억대 과징금",
+      "url": "https://n.news.naver.com/mnews/article/009/0005732888"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6995.39,
+      "value": 6954.52,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 822.19,
+      "value": 811.88,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26421.41,
-      "change": -85.58,
-      "change_pct": -0.32
+      "value": 26253.34,
+      "change": -168.07,
+      "change_pct": -0.64
     },
     "usdkrw": {
-      "value": 1340.72,
-      "change": -2.85,
-      "change_pct": -0.21
+      "value": 1339.37,
+      "change": -4.2,
+      "change_pct": -0.31
     }
   },
   "gold": {
-    "price_usd": 4397.5,
-    "price_krw": 5895816,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4445.6,
+    "price_krw": 5954303,
+    "change": 51.7,
+    "change_pct": 1.18
   },
-  "updated": "2026-09-09 08:11",
+  "updated": "2026-09-10 07:55",
   "error": null
 }
