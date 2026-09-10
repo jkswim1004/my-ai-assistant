@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "홍라희, 삼성전자 지분 0.11% 이재용 회장에 매각…1.9조 장외거래",
-      "url": "https://n.news.naver.com/mnews/article/011/0004660254"
+      "title": "미래기금 140개 사업 뜯어보니…성과관리·104조 여유자금 쟁점",
+      "url": "https://n.news.naver.com/mnews/article/021/0002817888"
     },
     {
-      "title": "전국 약사들 발끈…\"환자 안전 내팽개친 약 배송 확대 철회\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009160494"
+      "title": "홈쇼핑 12개사 재승인 통과…현대홈쇼핑 784.98점 '1위'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006367137"
     },
     {
-      "title": "금감원, 보험사 KPI ‘단기 실적’서 ‘장기 성과’로 손본다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006366306"
+      "title": "인형뽑기 인형 10개 중 6개가 '유해물질 초과'...매장 관리도 부실",
+      "url": "https://n.news.naver.com/mnews/article/052/0002405225"
     },
     {
-      "title": "SK하이닉스 곽노정 \"AI 시대, 고객 시선에서 새 가능성 찾아야\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009159515"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000904662"
     },
     {
-      "title": "삼성전자 노조위원장, 장인 회사와 조끼 계약…“개인 이익 없어”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004660089"
+      "title": "김정관, 프랑스서 美로 직행…1천억달러 대미투자 '막판 협상'",
+      "url": "https://n.news.naver.com/mnews/article/088/0001027903"
     },
     {
-      "title": "삼성證 ‘9년 숙원’ 풀었다…발행어음 8번째 사업자로",
-      "url": "https://n.news.naver.com/mnews/article/011/0004660223"
+      "title": "강남3구 동반 하락 … 강북은 '불장'",
+      "url": "https://n.news.naver.com/mnews/article/009/0005733481"
     },
     {
-      "title": "오케스트로, WSCE 2026서 6109억원 규모 천안·아산 AI 도시 청사진 공개",
-      "url": "https://n.news.naver.com/mnews/article/081/0003678394"
+      "title": "SK하이닉스 노사, 임단협 수정안 마련…현금 성과급 40→50%",
+      "url": "https://n.news.naver.com/mnews/article/001/0016301863"
     },
     {
-      "title": "삼성전자 초기업노조, '반도체 노조'로 바꾼다…다음달 6일 총회",
-      "url": "https://n.news.naver.com/mnews/article/422/0000904282"
+      "title": "기아, 유럽 상용차 박람회서 대형 목적기반모빌리티 PV7 공개",
+      "url": "https://n.news.naver.com/mnews/article/001/0016301509"
     },
     {
-      "title": "58년 ‘무파업’ 깨진 포스코… 포항·광양제철소 2개 공정 멈췄다",
-      "url": "https://n.news.naver.com/mnews/article/366/0001191175"
+      "title": "무신사 뷰티, 홍대에 첫 단독 매장 개점…1만2천개 상품 선봬",
+      "url": "https://n.news.naver.com/mnews/article/001/0016301945"
     },
     {
-      "title": "신용정보법 위반 동양생명에 … 금융위원회, 70억대 과징금",
-      "url": "https://n.news.naver.com/mnews/article/009/0005732888"
+      "title": "삼전닉스 급등락 반복에…韓증시 변동성 주요국 1위",
+      "url": "https://n.news.naver.com/mnews/article/015/0005331060"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6954.52,
+      "value": 7051.64,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 811.88,
+      "value": 830.37,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26253.34,
-      "change": -168.07,
-      "change_pct": -0.64
+      "value": 26081.72,
+      "change": -171.62,
+      "change_pct": -0.65
     },
     "usdkrw": {
-      "value": 1339.37,
-      "change": -4.2,
-      "change_pct": -0.31
+      "value": 1349.17,
+      "change": 9.96,
+      "change_pct": 0.74
     }
   },
   "gold": {
-    "price_usd": 4445.6,
-    "price_krw": 5954303,
-    "change": 51.7,
-    "change_pct": 1.18
+    "price_usd": 4356.2,
+    "price_krw": 5877254,
+    "change": -59.8,
+    "change_pct": -1.35
   },
-  "updated": "2026-09-10 07:55",
+  "updated": "2026-09-11 07:56",
   "error": null
 }
