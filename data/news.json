@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "전례없는 162조 미래대응기금…KDI “독립적 평가 체계·국회 통제 필요”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003679437"
-    },
-    {
-      "title": "산업부, 영국에 대러 LNG 수입 제재 '韓 예외' 요청",
-      "url": "https://n.news.naver.com/mnews/article/421/0009165707"
+      "title": "주유소 기름값 17주째 하락…국제유가 상승, 9월 말부터 반영될 듯",
+      "url": "https://n.news.naver.com/mnews/article/055/0001387764"
     },
     {
       "title": "국제유가, 호르무즈 협상 기대에 2%대 하락‥여전히 100달러대",
       "url": "https://n.news.naver.com/mnews/article/214/0001523524"
     },
     {
-      "title": "7만7000달러대로 미끄러진 비트코인…美 FOMC 분수령",
-      "url": "https://n.news.naver.com/mnews/article/008/0005412601"
+      "title": "뉴욕증시, 유가 하락·CPI 안도감에 5일 만에 반등",
+      "url": "https://n.news.naver.com/mnews/article/052/0002406043"
     },
     {
-      "title": "PBR 낮은 기업에 '딱지' 붙는다...11월 2일 첫 발표",
-      "url": "https://n.news.naver.com/mnews/article/648/0000050703"
+      "title": "래리 엘리슨 오라클 창업자, 최대 10조원어치 주식 매각 계획",
+      "url": "https://n.news.naver.com/mnews/article/014/0005574734"
     },
     {
-      "title": "증시 활황에 2분기 운용사 순익 83% 늘었는데…10곳 중 4곳은 적자",
-      "url": "https://n.news.naver.com/mnews/article/023/0003997860"
+      "title": "농식품부 송미령 장관, 추석 성수품 공급·유통 점검",
+      "url": "https://n.news.naver.com/mnews/article/001/0016305986"
     },
     {
-      "title": "美30년물 국채 금리, 2007년 이후 최고…유가 급등에 연일 상승",
-      "url": "https://n.news.naver.com/mnews/article/003/0014183684"
+      "title": "\"달러 없이도 원화스테이블코인으로 무역결제…실증 나선다\"",
+      "url": "https://n.news.naver.com/mnews/article/018/0006368055"
     },
     {
-      "title": "포스코 '48시간 부분파업' 오전 7시 종료…시민들 \"여기서 끝내야\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009164211"
+      "title": "공모주 받았더니 하루 만에 '잭팟'…179% 폭등에 '들썩들썩'",
+      "url": "https://n.news.naver.com/mnews/article/015/0005331507"
     },
     {
-      "title": "원·달러 환율, 10.4원 오른 1349.6원",
-      "url": "https://n.news.naver.com/mnews/article/366/0001191720"
+      "title": "\"또 파랗네\" 힘 빠지는 개미…'살까, 팔까, 버틸까' 슈퍼위크 온다",
+      "url": "https://n.news.naver.com/mnews/article/215/0001265709"
     },
     {
-      "title": "김윤덕 국토장관 “日 ‘잃어버린 30년’ 비슷하게 갈 가능성 있어”",
-      "url": "https://n.news.naver.com/mnews/article/081/0003679486"
+      "title": "박스권 증시에 '파킹형' ETF로 일주일간 1.5조 유입",
+      "url": "https://n.news.naver.com/mnews/article/001/0016305745"
+    },
+    {
+      "title": "한 통에 5000원 뛰었다…'강남 분유' 압타밀 16% 인상",
+      "url": "https://n.news.naver.com/mnews/hotissue/article/015/0005331630?type=series&cid=2003132"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6909.91,
+      "change": -124.01,
+      "change_pct": -1.76
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 820.64,
+      "change": -16.28,
+      "change_pct": -1.95
     },
     "nasdaq": {
       "value": 26333.04,
-      "change": 251.31,
+      "change": 251.32,
       "change_pct": 0.96
     },
     "usdkrw": {
       "value": 1341.05,
-      "change": 1.88,
-      "change_pct": 0.14
+      "change": -7.12,
+      "change_pct": -0.53
     }
   },
   "gold": {
-    "price_usd": 4390.0,
-    "price_krw": 5887209,
-    "change": 25.5,
-    "change_pct": 0.58
+    "price_usd": 4366.2,
+    "price_krw": 5855292,
+    "change": 1.7,
+    "change_pct": 0.04
   },
-  "updated": "2026-09-12 07:57",
+  "updated": "2026-09-13 07:50",
   "error": null
 }
