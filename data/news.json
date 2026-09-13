@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "주유소 기름값 17주째 하락…국제유가 상승, 9월 말부터 반영될 듯",
-      "url": "https://n.news.naver.com/mnews/article/055/0001387764"
+      "title": "17년 ‘비거주 1주택자’ 이형일 “거주기간 인정받기 어려울 것”",
+      "url": "https://n.news.naver.com/mnews/article/028/0002822817"
     },
     {
-      "title": "국제유가, 호르무즈 협상 기대에 2%대 하락‥여전히 100달러대",
-      "url": "https://n.news.naver.com/mnews/article/214/0001523524"
+      "title": "\"금리 흔들려도 AI 성장 유효\"…코스피 7000선 안착할까 [주간전망]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005331639"
     },
     {
-      "title": "뉴욕증시, 유가 하락·CPI 안도감에 5일 만에 반등",
-      "url": "https://n.news.naver.com/mnews/article/052/0002406043"
+      "title": "김정관 \"대미투자 이번주 타결 시도…2천억달러 한도 유지\"",
+      "url": "https://n.news.naver.com/mnews/article/374/0000532619"
     },
     {
-      "title": "래리 엘리슨 오라클 창업자, 최대 10조원어치 주식 매각 계획",
-      "url": "https://n.news.naver.com/mnews/article/014/0005574734"
+      "title": "롯데, 카이스트와 공동 R&D센터 준공… 신동빈 \"실패 두려워하지 말라\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000953737"
     },
     {
-      "title": "농식품부 송미령 장관, 추석 성수품 공급·유통 점검",
-      "url": "https://n.news.naver.com/mnews/article/001/0016305986"
+      "title": "“자율주행차 빠르게 되지만, 어정쩡 레벨2++ 싫었다”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003551050"
     },
     {
-      "title": "\"달러 없이도 원화스테이블코인으로 무역결제…실증 나선다\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006368055"
+      "title": "북극항로 운항 선박 로테르담 도착…李 “역사적 첫 길 축하”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003550931"
     },
     {
-      "title": "공모주 받았더니 하루 만에 '잭팟'…179% 폭등에 '들썩들썩'",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331507"
+      "title": "기저귀 찬 ‘아기’가 연 4000만원 벌었다…고액 금융소득 ‘금수저’ 1600명 돌파",
+      "url": "https://n.news.naver.com/mnews/article/029/0003047677"
     },
     {
-      "title": "\"또 파랗네\" 힘 빠지는 개미…'살까, 팔까, 버틸까' 슈퍼위크 온다",
-      "url": "https://n.news.naver.com/mnews/article/215/0001265709"
+      "title": "HD현대, 가스텍 2026 참가…\"조선 미래 청사진 제시\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005412878"
     },
     {
-      "title": "박스권 증시에 '파킹형' ETF로 일주일간 1.5조 유입",
-      "url": "https://n.news.naver.com/mnews/article/001/0016305745"
+      "title": "KRX 오늘 애프터마켓 개장…'종목 수vs수수료' 퇴근길 거래 경쟁",
+      "url": "https://n.news.naver.com/mnews/article/421/0009167595"
     },
     {
-      "title": "한 통에 5000원 뛰었다…'강남 분유' 압타밀 16% 인상",
-      "url": "https://n.news.naver.com/mnews/hotissue/article/015/0005331630?type=series&cid=2003132"
+      "title": "환율 1340원대 급락…삼성전자·SK하이닉스 이익 전망도 꺾였다 [투자360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002696402"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.96
     },
     "usdkrw": {
-      "value": 1341.05,
-      "change": -7.12,
-      "change_pct": -0.53
+      "value": 1342.97,
+      "change": -5.2,
+      "change_pct": -0.39
     }
   },
   "gold": {
-    "price_usd": 4366.2,
-    "price_krw": 5855292,
-    "change": 1.7,
-    "change_pct": 0.04
+    "price_usd": 4376.5,
+    "price_krw": 5877508,
+    "change": 10.3,
+    "change_pct": 0.24
   },
-  "updated": "2026-09-13 07:50",
+  "updated": "2026-09-14 07:52",
   "error": null
 }
