@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "17년 ‘비거주 1주택자’ 이형일 “거주기간 인정받기 어려울 것”",
-      "url": "https://n.news.naver.com/mnews/article/028/0002822817"
+      "title": "나란히 선 한미 차세대 여성 리더, 미래차 동맹 체결",
+      "url": "https://n.news.naver.com/mnews/article/018/0006369321"
     },
     {
-      "title": "\"금리 흔들려도 AI 성장 유효\"…코스피 7000선 안착할까 [주간전망]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005331639"
+      "title": "삼성·LG, 추석 맞아 협력사 물품대금 조기 지급",
+      "url": "https://n.news.naver.com/mnews/article/056/0012256752"
     },
     {
-      "title": "김정관 \"대미투자 이번주 타결 시도…2천억달러 한도 유지\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000532619"
+      "title": "이마트, 추석 선물세트 본판매 돌입…\"10만원 이하 선물세트 인기\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005816187"
     },
     {
-      "title": "롯데, 카이스트와 공동 R&D센터 준공… 신동빈 \"실패 두려워하지 말라\"",
-      "url": "https://n.news.naver.com/mnews/article/469/0000953737"
+      "title": "\"국내 1등이 무슨 의미 있나\"…이재근, '리딩 KB' 새판 짠다",
+      "url": "https://n.news.naver.com/mnews/article/008/0005413520"
     },
     {
-      "title": "“자율주행차 빠르게 되지만, 어정쩡 레벨2++ 싫었다”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003551050"
+      "title": "생산적금융 1560조로 확대…수은·수협·삼성증권도 합류",
+      "url": "https://n.news.naver.com/mnews/article/016/0002697202"
     },
     {
-      "title": "북극항로 운항 선박 로테르담 도착…李 “역사적 첫 길 축하”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003550931"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001523973"
     },
     {
-      "title": "기저귀 찬 ‘아기’가 연 4000만원 벌었다…고액 금융소득 ‘금수저’ 1600명 돌파",
-      "url": "https://n.news.naver.com/mnews/article/029/0003047677"
+      "title": "美국채 10년물 금리 ‘심리적 저항선’ 5% 터치...2023년 이후 처음",
+      "url": "https://n.news.naver.com/mnews/article/011/0004661802"
     },
     {
-      "title": "HD현대, 가스텍 2026 참가…\"조선 미래 청사진 제시\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005412878"
+      "title": "중동 위기에도 원유 도입 9.8%↑…정유업계, 수급 안정 지켰다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006368714"
     },
     {
-      "title": "KRX 오늘 애프터마켓 개장…'종목 수vs수수료' 퇴근길 거래 경쟁",
-      "url": "https://n.news.naver.com/mnews/article/421/0009167595"
+      "title": "AI 감속론에 국채금리까지 ‘비상’…美 증시 동반 하락",
+      "url": "https://n.news.naver.com/mnews/article/119/0003132614"
     },
     {
-      "title": "환율 1340원대 급락…삼성전자·SK하이닉스 이익 전망도 꺾였다 [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002696402"
+      "title": "\"퇴근길 주식 거래\" 애프터마켓 첫날 앱 켰더니...잇단 전산장애",
+      "url": "https://n.news.naver.com/mnews/article/008/0005413587"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6909.91,
-      "change": -124.01,
-      "change_pct": -1.76
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 820.64,
-      "change": -16.28,
-      "change_pct": -1.95
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26333.04,
-      "change": 251.32,
-      "change_pct": 0.96
+      "value": 26186.41,
+      "change": -146.62,
+      "change_pct": -0.56
     },
     "usdkrw": {
-      "value": 1342.97,
-      "change": -5.2,
-      "change_pct": -0.39
+      "value": 1346.57,
+      "change": 1.93,
+      "change_pct": 0.14
     }
   },
   "gold": {
-    "price_usd": 4376.5,
-    "price_krw": 5877508,
-    "change": 10.3,
-    "change_pct": 0.24
+    "price_usd": 4330.7,
+    "price_krw": 5831590,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-14 07:52",
+  "updated": "2026-09-15 08:40",
   "error": null
 }
