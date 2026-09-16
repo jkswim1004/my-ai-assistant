@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "원화 강세에 수출입물가↓…교역조건 상승률 역대 최대",
-      "url": "https://n.news.naver.com/mnews/article/422/0000906193"
+      "title": "SK하이닉스 임단협 '극적 타결'…성과급 현금 비중 50%로 상향",
+      "url": "https://n.news.naver.com/mnews/article/015/0005332852"
     },
     {
-      "title": "중국·체코 향하는 하늘길 넓어진다…연내 취항 앞둬",
-      "url": "https://n.news.naver.com/mnews/article/003/0014192912"
+      "title": "HD건설기계, 홍콩서 중대형 굴착기 45대 수주",
+      "url": "https://n.news.naver.com/mnews/article/008/0005414531"
     },
     {
-      "title": "연준 결정 코앞…트럼프 고강도 ‘금리 인하’ 압박 왜?",
-      "url": "https://n.news.naver.com/mnews/article/056/0012257260"
+      "title": "신세계그룹, 2027년 신입사원 공개채용…10개 계열사 참여",
+      "url": "https://n.news.naver.com/mnews/article/016/0002698461"
     },
     {
-      "title": "롯데카드, MBK 등에 382억 배당…작년보다 62% 늘어",
-      "url": "https://n.news.naver.com/mnews/article/009/0005735750"
+      "title": "AI 속도 조절하자더니...오픈AI, 추가 투자유치 검토",
+      "url": "https://n.news.naver.com/mnews/article/011/0004662576"
     },
     {
-      "title": "국가IR 행사 '코리아 프리미엄 위크' 3주간 열린다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005816542"
+      "title": "난 중산층인 줄 알았는데…4가구 중 3가구는 ‘가짜’였다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006370646"
     },
     {
-      "title": "14억 vs 5억… 같은 국평인데 3배 차이나는 '고무줄 건축비' [부동산 아토즈]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005576315"
+      "title": "미국 요구 수용 어렵나…대미 투자 최종 합의 일정 돌연 연기",
+      "url": "https://n.news.naver.com/mnews/article/055/0001388816"
     },
     {
-      "title": "“송전탑 최대 2214기 감축해 선로 지중화…‘햇빛소득’ 가구별 최대 연 300만원 기대”",
-      "url": "https://n.news.naver.com/mnews/article/032/0003470619"
+      "title": "3370만명 정보 유출됐는데…쿠팡, ‘1인당 10만원’ 배상안 거부",
+      "url": "https://n.news.naver.com/mnews/article/025/0003551806"
     },
     {
-      "title": "현대엔지니어링·카자흐 국영기업, 대형 가스처리시설 사업 이행 합의",
-      "url": "https://n.news.naver.com/mnews/article/081/0003680637"
+      "title": "비트코인, 美 클래리티 법안 부결에 7만5000달러대 하락",
+      "url": "https://n.news.naver.com/mnews/article/366/0001192635"
     },
     {
-      "title": "이찬진 “금융지주 자회사 CEO 승계 절차 미흡”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004159385"
+      "title": "K팝 IP 글로벌 확장…카카오엔터, 디즈니코리아와 파트너십",
+      "url": "https://n.news.naver.com/mnews/article/029/0003048395"
     },
     {
-      "title": "주담대 변동금리 ‘숨고르기’…넉 달 연속 오르던 코픽스 동결",
-      "url": "https://n.news.naver.com/mnews/article/009/0005735505"
+      "title": "“SK하이닉스, 인텔과 美서 메모리 생산 검토”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003748828"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6684.37,
+      "value": 6627.26,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 806.79,
+      "value": 812.41,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25981.57,
-      "change": -204.84,
-      "change_pct": -0.78
+      "value": 25978.42,
+      "change": -3.15,
+      "change_pct": -0.01
     },
     "usdkrw": {
-      "value": 1363.48,
-      "change": 17.87,
-      "change_pct": 1.33
+      "value": 1377.17,
+      "change": 13.6,
+      "change_pct": 1.0
     }
   },
   "gold": {
-    "price_usd": 4326.6,
-    "price_krw": 5899232,
-    "change": -25.3,
-    "change_pct": -0.58
+    "price_usd": 4309.4,
+    "price_krw": 5934776,
+    "change": -23.4,
+    "change_pct": -0.54
   },
-  "updated": "2026-09-16 08:23",
+  "updated": "2026-09-17 08:32",
   "error": null
 }
