@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "한섬, 3년간 매년 100억 자사주 매입·소각…배당 재원도 늘린다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005737354"
+      "title": "“여보, 주담대 금리 8%까지 오를수도 있데”…가계부담 커지는 한국, 어쩌나",
+      "url": "https://n.news.naver.com/mnews/article/009/0005737561"
     },
     {
-      "title": "SK그룹 부회장 3인, 하이닉스로…연말 사장단 인사에 'AI 태풍' 불까",
-      "url": "https://n.news.naver.com/mnews/article/003/0014199682"
+      "title": "‘레고 닌자고’ 15주년 축하하는 글로벌 아티스트 ‘퓨추라’와 한국 팬들",
+      "url": "https://n.news.naver.com/mnews/article/003/0014201292"
     },
     {
-      "title": "\"땡큐 젠슨황\"…美 금리인상 충격 이겨낸 코스피, 2%대 상승",
-      "url": "https://n.news.naver.com/mnews/article/008/0005415903"
+      "title": "일본 금리 올렸는데 '급락'하자…포착된 심상찮은 신호",
+      "url": "https://n.news.naver.com/mnews/article/215/0001266563"
     },
     {
-      "title": "세단에 SUV 한 스푼…볼보 ES90, 조용히 꽉 채웠다 [시승로그]",
-      "url": "https://n.news.naver.com/mnews/article/138/0002241889"
+      "title": "추석 연휴 길어지니 국내여행도 늘었다…리조트 이동 증가폭 2.7배",
+      "url": "https://n.news.naver.com/mnews/article/014/0005578207"
     },
     {
-      "title": "유류세 인하 조치 2개월 연장…11월 말까지",
-      "url": "https://n.news.naver.com/mnews/article/660/0000117447"
+      "title": "삼전 초기업노조, '반도체 중심' 노조로 전환…DX와 선 그었다",
+      "url": "https://n.news.naver.com/mnews/article/079/0004191203"
     },
     {
-      "title": "구윤철 “추석 고속도로 기름값 100원↓…석유 최고가격 오후 발표”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004663211"
+      "title": "추석 고속道 기름값 100원 인하…일반 주유소 “문 닫으란 거냐”",
+      "url": "https://n.news.naver.com/mnews/article/025/0003552488"
     },
     {
-      "title": "한화시스템, AI 기반 우주상황인식체계 개발 착수",
-      "url": "https://n.news.naver.com/mnews/article/277/0005818206"
+      "title": "군산시 '농촌마을 공동체 한마당'…27개 마을 협력·성장 다짐",
+      "url": "https://n.news.naver.com/mnews/article/003/0014201260"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000533849"
+      "title": "이마트, 추석 제수용 간편식 최대 20% 할인",
+      "url": "https://n.news.naver.com/mnews/article/001/0016322957"
     },
     {
-      "title": "에스티팜, 913억원 규모 올리고 원료 수주…단일 계약 최대",
-      "url": "https://n.news.naver.com/mnews/article/648/0000050907"
+      "title": "문어 3888원·한우 25t 반값…추석 앞두고 유통가 할인전",
+      "url": "https://n.news.naver.com/mnews/article/022/0004160279"
     },
     {
-      "title": "가덕도신공항 협의체 출범…공사비 상승분 반영·연내 착공 논의",
-      "url": "https://n.news.naver.com/mnews/article/022/0004160185"
+      "title": "서학개미, 나흘간 1.8조 원 매수…'속슬'에 쏠려",
+      "url": "https://n.news.naver.com/mnews/article/448/0000640265"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 6894.23,
+      "change": 178.82,
+      "change_pct": 2.66
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 827.12,
+      "change": 4.94,
+      "change_pct": 0.6
     },
     "nasdaq": {
       "value": 26522.54,
@@ -58,17 +58,17 @@
       "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1385.95,
-      "change": 9.35,
-      "change_pct": 0.68
+      "value": 1385.0,
+      "change": 5.47,
+      "change_pct": 0.4
     }
   },
   "gold": {
-    "price_usd": 4415.9,
-    "price_krw": 6120216,
-    "change": 16.2,
-    "change_pct": 0.37
+    "price_usd": 4424.9,
+    "price_krw": 6128486,
+    "change": 25.2,
+    "change_pct": 0.57
   },
-  "updated": "2026-09-19 08:00",
+  "updated": "2026-09-20 07:39",
   "error": null
 }
