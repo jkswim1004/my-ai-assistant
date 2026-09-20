@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "“여보, 주담대 금리 8%까지 오를수도 있데”…가계부담 커지는 한국, 어쩌나",
-      "url": "https://n.news.naver.com/mnews/article/009/0005737561"
+      "title": "네오사피엔스·와이즈플래닛 추석 직전 코스닥 입성[공모주달력]",
+      "url": "https://n.news.naver.com/mnews/article/648/0000050926"
     },
     {
-      "title": "‘레고 닌자고’ 15주년 축하하는 글로벌 아티스트 ‘퓨추라’와 한국 팬들",
-      "url": "https://n.news.naver.com/mnews/article/003/0014201292"
+      "title": "금융위, 올해 행정 처분 소송 중 절반 패소...소송 금액은 12억 규모",
+      "url": "https://n.news.naver.com/mnews/article/366/0001193467"
     },
     {
-      "title": "일본 금리 올렸는데 '급락'하자…포착된 심상찮은 신호",
-      "url": "https://n.news.naver.com/mnews/article/215/0001266563"
+      "title": "경제인협회 \"반도체 공장 가동 앞두고 도로·용수 아직\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016324937"
     },
     {
-      "title": "추석 연휴 길어지니 국내여행도 늘었다…리조트 이동 증가폭 2.7배",
-      "url": "https://n.news.naver.com/mnews/article/014/0005578207"
+      "title": "서울시 '찾아가는 신속통합기획 전시'…건축모형으로 주민 이해↑",
+      "url": "https://n.news.naver.com/mnews/article/277/0005818944"
     },
     {
-      "title": "삼전 초기업노조, '반도체 중심' 노조로 전환…DX와 선 그었다",
-      "url": "https://n.news.naver.com/mnews/article/079/0004191203"
+      "title": "“적정환율 1300원대 초반…당분간 원화 강세가 유리”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004663792"
     },
     {
-      "title": "추석 고속道 기름값 100원 인하…일반 주유소 “문 닫으란 거냐”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003552488"
+      "title": "구자은 LS 회장 “AI 시대 변화 속도 즐기자” [리더의 나침반]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004160410"
     },
     {
-      "title": "군산시 '농촌마을 공동체 한마당'…27개 마을 협력·성장 다짐",
-      "url": "https://n.news.naver.com/mnews/article/003/0014201260"
+      "title": "투싼, 6년 만에 풀체인지…덩치 키우고 안전성 강화",
+      "url": "https://n.news.naver.com/mnews/article/011/0004663733"
     },
     {
-      "title": "이마트, 추석 제수용 간편식 최대 20% 할인",
-      "url": "https://n.news.naver.com/mnews/article/001/0016322957"
+      "title": "귀성 ‘24일 오전’ 귀경 ‘25일 오후’ 가장 붐빌 듯",
+      "url": "https://n.news.naver.com/mnews/article/025/0003552692"
     },
     {
-      "title": "문어 3888원·한우 25t 반값…추석 앞두고 유통가 할인전",
-      "url": "https://n.news.naver.com/mnews/article/022/0004160279"
+      "title": "외국인 철도 이용 급증…KTX 예매기간 2배 늘린다",
+      "url": "https://n.news.naver.com/mnews/article/665/0000008199"
     },
     {
-      "title": "서학개미, 나흘간 1.8조 원 매수…'속슬'에 쏠려",
-      "url": "https://n.news.naver.com/mnews/article/448/0000640265"
+      "title": "쿠팡, 석남동 물류센터 화재 주민 보상에 45억원 투입…추석 전 지급 추진",
+      "url": "https://n.news.naver.com/mnews/article/666/0000124187"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.39
     },
     "usdkrw": {
-      "value": 1385.0,
-      "change": 5.47,
-      "change_pct": 0.4
+      "value": 1385.54,
+      "change": 6.01,
+      "change_pct": 0.44
     }
   },
   "gold": {
-    "price_usd": 4424.9,
-    "price_krw": 6128486,
-    "change": 25.2,
-    "change_pct": 0.57
+    "price_usd": 4413.0,
+    "price_krw": 6114388,
+    "change": -11.9,
+    "change_pct": -0.27
   },
-  "updated": "2026-09-20 07:39",
+  "updated": "2026-09-21 07:58",
   "error": null
 }
