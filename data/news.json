@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성전자, 반도체 부문 성과급 세부안 이달 말 공개",
-      "url": "https://n.news.naver.com/mnews/article/422/0000909329"
+      "title": "시총 기준 강화로 코스닥서 8개 종목 퇴출…추가 상폐 우려도",
+      "url": "https://n.news.naver.com/mnews/article/015/0005336057"
     },
     {
-      "title": "'아틀라스 현대차 인턴 발령'…자동차 공장서 '일' 배운다",
-      "url": "https://n.news.naver.com/mnews/article/374/0000534755"
+      "title": "“집에서 지하철까지 바로 연결”... 아크메르 동탄, ‘제로미터’ 역세권 눈길",
+      "url": "https://n.news.naver.com/mnews/article/081/0003683456"
     },
     {
-      "title": "서울 아파트값 상승 신기록 코앞, 물량은 11% ‘뚝’[李 정부의 부동산 역설②]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003136285"
+      "title": "'기초연금의 역설'… 연금 올려도 형편 나은 노인만 소비 늘렸다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014213951"
     },
     {
-      "title": "법원, “공정위 현장조사 막아달라” 쿠팡 신청 기각",
-      "url": "https://n.news.naver.com/mnews/article/020/0003750520"
+      "title": "연준 추가 인상 우려에…美 30년물 국채금리 22년 만에 최고",
+      "url": "https://n.news.naver.com/mnews/article/277/0005820827"
     },
     {
-      "title": "강남은 떨어지는데 서울 집값은 85주째 올랐다…역대 최장 기록 ‘눈앞’ [부동산360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002701672"
+      "title": "서울 아파트는 신축보다 재건축…20년 초과, 매매가 상승폭 압도",
+      "url": "https://n.news.naver.com/mnews/article/055/0001391011"
     },
     {
-      "title": "'해외로 나가고 말지'...\"세금 걷겠다\" 860조 시장 술렁",
-      "url": "https://n.news.naver.com/mnews/article/215/0001267083"
+      "title": "예금으로 몰리는 돈…5대 은행, 정기예금 1012조 돌파",
+      "url": "https://n.news.naver.com/mnews/article/003/0014213967"
     },
     {
-      "title": "\"이렇게 비싸지 않은데\"…집값 과하게 오르는 이유 '담합'",
-      "url": "https://n.news.naver.com/mnews/article/055/0001390850"
+      "title": "첫 파업·추석에도 지킨 불꽃…포스코, 비상대응체계 가동",
+      "url": "https://n.news.naver.com/mnews/article/001/0016335509"
     },
     {
-      "title": "추석 이후 전국 분양 큰장…연말까지 4만8000가구 분양",
-      "url": "https://n.news.naver.com/mnews/article/277/0005820664"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002411245"
     },
     {
-      "title": "메리츠증권 9번째 발행어음 사업자 합류… 삼성증권 1000억 특판은 ‘완판’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004161468"
+      "title": "현대차, 미 車시장서 포드 제칠 듯…GM·도요타 이어 3위 전망",
+      "url": "https://n.news.naver.com/mnews/article/001/0016335514"
     },
     {
-      "title": "추석에도 24시간…삼성·SK하닉 반도체, 수출 최전선 지킨다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375426"
+      "title": "냉장고보다 비싼 '아이폰 듀오' 보험 가입비는 55만원…수리비는?[1일IT템]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005580905"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 7080.92,
-      "change": 0.0,
-      "change_pct": 0.0
+      "change": 63.01,
+      "change_pct": 0.9
     },
     "kosdaq": {
       "value": 844.48,
-      "change": 0.0,
-      "change_pct": 0.0
+      "change": 10.1,
+      "change_pct": 1.21
     },
     "nasdaq": {
-      "value": 26939.37,
-      "change": 3.33,
-      "change_pct": 0.01
+      "value": 27068.72,
+      "change": 129.35,
+      "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1367.59,
-      "change": 5.09,
-      "change_pct": 0.37
+      "value": 1355.28,
+      "change": -7.22,
+      "change_pct": -0.53
     }
   },
   "gold": {
-    "price_usd": 4308.3,
-    "price_krw": 5891987,
-    "change": -10.1,
-    "change_pct": -0.23
+    "price_usd": 4320.5,
+    "price_krw": 5855487,
+    "change": 22.5,
+    "change_pct": 0.52
   },
-  "updated": "2026-09-25 08:45",
+  "updated": "2026-09-26 08:49",
   "error": null
 }
