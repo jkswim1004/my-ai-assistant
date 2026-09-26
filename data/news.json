@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "시총 기준 강화로 코스닥서 8개 종목 퇴출…추가 상폐 우려도",
-      "url": "https://n.news.naver.com/mnews/article/015/0005336057"
+      "title": "162조원 미래기금·821조원 예산…나라살림 통제력 쟁점 [미리보는 국감-기획예산]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003136394"
     },
     {
-      "title": "“집에서 지하철까지 바로 연결”... 아크메르 동탄, ‘제로미터’ 역세권 눈길",
-      "url": "https://n.news.naver.com/mnews/article/081/0003683456"
+      "title": "명절 앞둔 원산지 표시위반 단속 적발 중 42%는 '김치·돼지고기'",
+      "url": "https://n.news.naver.com/mnews/article/055/0001391162"
     },
     {
-      "title": "'기초연금의 역설'… 연금 올려도 형편 나은 노인만 소비 늘렸다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014213951"
+      "title": "달러 팔고 엔화로…은행 돈 흐름 확 바뀌었다",
+      "url": "https://n.news.naver.com/mnews/article/374/0000534904"
     },
     {
-      "title": "연준 추가 인상 우려에…美 30년물 국채금리 22년 만에 최고",
-      "url": "https://n.news.naver.com/mnews/article/277/0005820827"
+      "title": "치솟은 유류할증료 동남아 직격…일본·중국 항공여객은 20%대↑",
+      "url": "https://n.news.naver.com/mnews/article/001/0016336732"
     },
     {
-      "title": "서울 아파트는 신축보다 재건축…20년 초과, 매매가 상승폭 압도",
-      "url": "https://n.news.naver.com/mnews/article/055/0001391011"
+      "title": "국내 주유소 기름값 19주째 하락",
+      "url": "https://n.news.naver.com/mnews/article/052/0002411288"
     },
     {
-      "title": "예금으로 몰리는 돈…5대 은행, 정기예금 1012조 돌파",
-      "url": "https://n.news.naver.com/mnews/article/003/0014213967"
+      "title": "\"10년 전 1억 주고 샀는데 지금 138억?…\" 최고 수익률 1위는",
+      "url": "https://n.news.naver.com/mnews/article/018/0006375724"
     },
     {
-      "title": "첫 파업·추석에도 지킨 불꽃…포스코, 비상대응체계 가동",
-      "url": "https://n.news.naver.com/mnews/article/001/0016335509"
+      "title": "은행 고정형 주담대, 아무리 싸게 빌려도 연 5%…월 200은 이자로 나간다[머니뭐니]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002701964"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002411245"
+      "title": "공동주택 하자심사 208일 빨라졌지만…판정률 79%→45%",
+      "url": "https://n.news.naver.com/mnews/article/656/0000187804"
     },
     {
-      "title": "현대차, 미 車시장서 포드 제칠 듯…GM·도요타 이어 3위 전망",
-      "url": "https://n.news.naver.com/mnews/article/001/0016335514"
+      "title": "[단독] 한국예탁결제원도 단일종목 레버리지 ETF 제안 안 했다",
+      "url": "https://n.news.naver.com/mnews/article/023/0004000449"
     },
     {
-      "title": "냉장고보다 비싼 '아이폰 듀오' 보험 가입비는 55만원…수리비는?[1일IT템]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005580905"
+      "title": "전동화 내실 다지는 독일車…프리미엄·헤리티지로 '반격 모색' [전기차 五國志⑤]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014214072"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.48
     },
     "usdkrw": {
-      "value": 1355.28,
-      "change": -7.22,
-      "change_pct": -0.53
+      "value": 1354.4,
+      "change": -12.96,
+      "change_pct": -0.95
     }
   },
   "gold": {
-    "price_usd": 4320.5,
-    "price_krw": 5855487,
-    "change": 22.5,
-    "change_pct": 0.52
+    "price_usd": 4321.2,
+    "price_krw": 5852633,
+    "change": 23.2,
+    "change_pct": 0.54
   },
-  "updated": "2026-09-26 08:49",
+  "updated": "2026-09-27 08:22",
   "error": null
 }
