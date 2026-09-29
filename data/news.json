@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "전국 20개 먹거리 축제 한데 묶는다…'K푸드 페스타' 개막",
-      "url": "https://n.news.naver.com/mnews/article/030/0003470028"
+      "title": "[속보] 은행 9시 30분 문연다…내년 4월부터 ‘영업시간 30분 단축’",
+      "url": "https://n.news.naver.com/mnews/article/025/0003554244"
     },
     {
-      "title": "한·멕시코, AI·항공우주로 협력 확대…최태원 “양국의 강점 모으자”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003553940"
+      "title": "5년내 두 번 담합 땐 시장서 퇴출",
+      "url": "https://n.news.naver.com/mnews/article/015/0005336781"
     },
     {
-      "title": "'성과급 놓칠라'…삼전·SK하이닉스 육아휴직 사용률 동반 하락",
-      "url": "https://n.news.naver.com/mnews/article/421/0009193306"
+      "title": "삼성전기, AI 호조에 영업이익률 10% 후반 찍나…실적 눈높이 높아진다",
+      "url": "https://n.news.naver.com/mnews/article/029/0003050087"
     },
     {
-      "title": "\"금도 비트코인도 아니었다\"…올해 재테크 수익률 1위는 코스피200",
-      "url": "https://n.news.naver.com/mnews/article/014/0005581298"
+      "title": "한은 넥타이 멘 이형일 “경제·통화정책 조화 모색”…신현송 “물가·금융안정이 전제”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002702533"
     },
     {
-      "title": "\"해외여행 가려고 모았는데 언제 다 쓰나?\"…대한항공 마일리지 3조 쌓였다",
-      "url": "https://n.news.naver.com/mnews/article/277/0005821125"
+      "title": "명륜진사갈비, 오너일가 대부업체에 3000억 저리대출…이종근 회장 檢고발",
+      "url": "https://n.news.naver.com/mnews/article/018/0006376302"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002411536"
+      "title": "CPTPP 가입시 GDP 0.38%↑…농림수산업은 연 8500억 감소",
+      "url": "https://n.news.naver.com/mnews/article/079/0004193345"
     },
     {
-      "title": "‘공구’로 3일 만에 억소리나게 벌었지만...정작 내는 세금은 ‘깜깜’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005740341"
+      "title": "\"LG전자, 하반기 AI데이터센터 공조 최대 3조원 수주\" 대신證",
+      "url": "https://n.news.naver.com/mnews/article/014/0005581943"
     },
     {
-      "title": "주담대 이자 아끼려다 7% 폭탄?…갈아타기 '뜻밖의 상황'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006375841"
+      "title": "삼성 6개사, 미국 헬릭스에 10억달러 투자…인공지능 인프라 협력",
+      "url": "https://n.news.naver.com/mnews/article/422/0000910647"
     },
     {
-      "title": "삼성전자 1000주면 배당 460만원?…주가 4000원 빠지면 세후론 손해 [숫자 뒤의 진실]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004162161"
+      "title": "에너지 수급 불안에 세계는 ‘수소’ 확대하는데 한국만 ‘축소’",
+      "url": "https://n.news.naver.com/mnews/article/005/0001875500"
     },
     {
-      "title": "이형일 부총리, 첫 경제현안간담회 개최…전기차·퇴직연금 논의",
-      "url": "https://n.news.naver.com/mnews/article/028/0002824845"
+      "title": "LG, 새 브랜드 캠페인 '스마일 프로젝트' 시작…미소로 고객 접점 확대",
+      "url": "https://n.news.naver.com/mnews/article/277/0005821412"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7080.92,
-      "change": 63.01,
-      "change_pct": 0.9
+      "value": 6868.14,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 844.48,
-      "change": 10.1,
-      "change_pct": 1.21
+      "value": 841.26,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27068.72,
-      "change": 129.35,
-      "change_pct": 0.48
+      "value": 26820.38,
+      "change": -248.34,
+      "change_pct": -0.92
     },
     "usdkrw": {
-      "value": 1354.89,
-      "change": -12.47,
-      "change_pct": -0.91
+      "value": 1359.38,
+      "change": 4.87,
+      "change_pct": 0.36
     }
   },
   "gold": {
-    "price_usd": 4298.8,
-    "price_krw": 5824400,
-    "change": -22.4,
-    "change_pct": -0.52
+    "price_usd": 4155.6,
+    "price_krw": 5649039,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-09-28 08:38",
+  "updated": "2026-09-29 09:48",
   "error": null
 }
