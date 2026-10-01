@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "해외 신약 도입해 미국 FDA 허가·상업화 추진한 HLB",
-      "url": "https://n.news.naver.com/mnews/article/037/0000038903"
+      "title": "생산·소비·투자 3개월 만에 '트리플 감소'…자동차 생산 24.8%↓(상보)",
+      "url": "https://n.news.naver.com/mnews/article/421/0009199443"
     },
     {
-      "title": "내년 HBM 올해보다 2배 넘게 비싸진다…“평균 121% 상승”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004666651"
+      "title": "\"호르무즈·홍해 막혀도 LNG 공급한다\" 자원 위기서 빛난 SK이노베이션",
+      "url": "https://n.news.naver.com/mnews/article/469/0000956950"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/374/0000535201"
+      "title": "산업장관 \"美, 어떤 형태든 관세 15% 수준 유지 입장 밝혀\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005337912"
     },
     {
-      "title": "‘국민재테크’ ISA 1000만명 돌파… ‘성인 4명중 1명 가입’",
-      "url": "https://n.news.naver.com/mnews/article/029/0003050346"
+      "title": "美물가 예상 밑돌자 10월 금리 동결 기대↑…고용·소비 강세 '변수'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006378116"
     },
     {
-      "title": "대우건설, 용인 반도체 국가산단 1공구 수주",
-      "url": "https://n.news.naver.com/mnews/article/016/0002703115"
+      "title": "서울 도심복합사업 11곳에 1만8000가구 추가공급",
+      "url": "https://n.news.naver.com/mnews/article/277/0005822721"
     },
     {
-      "title": "주병기 \"쿠팡 조사 끝까지....무너진 정의 다시 세울것\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005822223"
+      "title": "'국민참여성장펀드'가 뭐길래..판매 첫 날 2140억 흥행",
+      "url": "https://n.news.naver.com/mnews/article/014/0005583270"
     },
     {
-      "title": "[속보] 8월 산업생산 1.3%↓…소비·설비투자까지 ‘트리플 감소’",
-      "url": "https://n.news.naver.com/mnews/article/016/0002703423"
+      "title": "은행 주담대 금리 연 4.66%…넉달째 상승해 3년 9개월만에 최고",
+      "url": "https://n.news.naver.com/mnews/article/001/0016346432"
     },
     {
-      "title": "사학연금공단 이사장에 김창수 전 중앙대 총장",
-      "url": "https://n.news.naver.com/mnews/article/001/0016344735"
+      "title": "[단독] 온누리 지류상품권 줄인다는데…농산물 결제 60%가 ‘종이’",
+      "url": "https://n.news.naver.com/mnews/article/028/0002825315"
     },
     {
-      "title": "삼성, AI인프라 총망라 美기업에 10억달러 투자",
-      "url": "https://n.news.naver.com/mnews/article/020/0003751607"
+      "title": "삼립, 2030년 글로벌 매출 5000억원 달성.. 해외 사업 확대",
+      "url": "https://n.news.naver.com/mnews/article/014/0005582712"
     },
     {
-      "title": "삼성전자, '보는 TV'서 '이해하는 AI'로 TV 경험 바꾼다",
-      "url": "https://n.news.naver.com/mnews/article/009/0005741696"
+      "title": "동원그룹, 참존 인수 추진…식품 넘어 뷰티로",
+      "url": "https://n.news.naver.com/mnews/article/374/0000535729"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6870.81,
+      "value": 6792.89,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 849.8,
+      "value": 851.92,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26797.54,
-      "change": -22.84,
-      "change_pct": -0.09
+      "value": 26861.06,
+      "change": 63.53,
+      "change_pct": 0.24
     },
     "usdkrw": {
-      "value": 1351.88,
-      "change": -7.68,
-      "change_pct": -0.56
+      "value": 1357.6,
+      "change": 7.1,
+      "change_pct": 0.53
     }
   },
   "gold": {
-    "price_usd": 4218.7,
-    "price_krw": 5703176,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4181.7,
+    "price_krw": 5677076,
+    "change": 2.0,
+    "change_pct": 0.05
   },
-  "updated": "2026-09-30 09:03",
+  "updated": "2026-10-01 09:21",
   "error": null
 }
