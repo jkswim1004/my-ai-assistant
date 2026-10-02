@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "생산·소비·투자 3개월 만에 '트리플 감소'…자동차 생산 24.8%↓(상보)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009199443"
+      "title": "신한은행 2만5000명 개인정보 유출…정상혁 은행장 \"무거운 책임 통감\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005583631"
     },
     {
-      "title": "\"호르무즈·홍해 막혀도 LNG 공급한다\" 자원 위기서 빛난 SK이노베이션",
-      "url": "https://n.news.naver.com/mnews/article/469/0000956950"
+      "title": "APR1400 美 건설 준비 본격화…'팀코리아' 대응체계 구축",
+      "url": "https://n.news.naver.com/mnews/article/014/0005583816"
     },
     {
-      "title": "산업장관 \"美, 어떤 형태든 관세 15% 수준 유지 입장 밝혀\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005337912"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/215/0001267907"
     },
     {
-      "title": "美물가 예상 밑돌자 10월 금리 동결 기대↑…고용·소비 강세 '변수'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006378116"
+      "title": "美 마이크론, 또 최대 실적… 삼전닉스 영업익 200조 육박",
+      "url": "https://n.news.naver.com/mnews/article/023/0004001574"
     },
     {
-      "title": "서울 도심복합사업 11곳에 1만8000가구 추가공급",
-      "url": "https://n.news.naver.com/mnews/article/277/0005822721"
+      "title": "정부 \"9월 물가 2.9%…석유 최고가격제로 상승률 0.6%p 낮춰\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009205348"
     },
     {
-      "title": "'국민참여성장펀드'가 뭐길래..판매 첫 날 2140억 흥행",
-      "url": "https://n.news.naver.com/mnews/article/014/0005583270"
+      "title": "미·영·프 장기금리 동반 급등…글로벌 국채 투매 심화",
+      "url": "https://n.news.naver.com/mnews/article/056/0012266734"
     },
     {
-      "title": "은행 주담대 금리 연 4.66%…넉달째 상승해 3년 9개월만에 최고",
-      "url": "https://n.news.naver.com/mnews/article/001/0016346432"
+      "title": "86주째 오른 서울 집값…강남은 거꾸로 갔다",
+      "url": "https://n.news.naver.com/mnews/article/031/0001062753"
     },
     {
-      "title": "[단독] 온누리 지류상품권 줄인다는데…농산물 결제 60%가 ‘종이’",
-      "url": "https://n.news.naver.com/mnews/article/028/0002825315"
+      "title": "SK하이닉스 \"솔리다임 투자 재원 결정된 바 없어…외부 자본 활용 시 주주가치 최우선\"",
+      "url": "https://n.news.naver.com/mnews/article/277/0005823429"
     },
     {
-      "title": "삼립, 2030년 글로벌 매출 5000억원 달성.. 해외 사업 확대",
-      "url": "https://n.news.naver.com/mnews/article/014/0005582712"
+      "title": "\"드릴로 나무 뚫고, 너트 조여\" 보스턴다이나믹스 '아틀라스' 새 로봇 손 공개",
+      "url": "https://n.news.naver.com/mnews/article/277/0005823874"
     },
     {
-      "title": "동원그룹, 참존 인수 추진…식품 넘어 뷰티로",
-      "url": "https://n.news.naver.com/mnews/article/374/0000535729"
+      "title": "한화그룹 M&S 부문, 2027년 임원인사…기계·서비스 영역 12명 신규 발탁",
+      "url": "https://n.news.naver.com/mnews/article/020/0003752131"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6792.89,
+      "value": 6949.04,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 851.92,
+      "value": 902.75,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26861.06,
-      "change": 63.53,
-      "change_pct": 0.24
+      "value": 26871.6,
+      "change": 10.54,
+      "change_pct": 0.04
     },
     "usdkrw": {
-      "value": 1357.6,
-      "change": 7.1,
-      "change_pct": 0.53
+      "value": 1364.38,
+      "change": 7.54,
+      "change_pct": 0.56
     }
   },
   "gold": {
-    "price_usd": 4181.7,
-    "price_krw": 5677076,
-    "change": 2.0,
-    "change_pct": 0.05
+    "price_usd": 4198.8,
+    "price_krw": 5728758,
+    "change": 12.1,
+    "change_pct": 0.29
   },
-  "updated": "2026-10-01 09:21",
+  "updated": "2026-10-02 09:31",
   "error": null
 }
