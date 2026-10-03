@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "신한은행 2만5000명 개인정보 유출…정상혁 은행장 \"무거운 책임 통감\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005583631"
+      "title": "“동물학대범, 최대 5년 동물 못 키운다”…‘사육금지명령’ 국회 통과",
+      "url": "https://n.news.naver.com/mnews/article/662/0000105502"
     },
     {
-      "title": "APR1400 美 건설 준비 본격화…'팀코리아' 대응체계 구축",
-      "url": "https://n.news.naver.com/mnews/article/014/0005583816"
+      "title": "최태원 회장, SK지분 9440억원 매각…재산분할 자금 마련 (1보)",
+      "url": "https://n.news.naver.com/mnews/article/014/0005584401"
+    },
+    {
+      "title": "韓, G20서 \"과잉생산 시장원칙 따라 대응…국제공조 필요\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005584177"
+    },
+    {
+      "title": "은행·저축은행 고객정보 줄줄이 유출…AI 해킹 공포에 금융권 초비상",
+      "url": "https://n.news.naver.com/mnews/article/008/0005421775"
+    },
+    {
+      "title": "삼성전자, 자사주 계획 물량 모두 매입...수급 우려 제기",
+      "url": "https://n.news.naver.com/mnews/article/052/0002413886"
+    },
+    {
+      "title": "기름값 20주 연속 내림세…휘발유 L당 1857.6원",
+      "url": "https://n.news.naver.com/mnews/article/021/0002822873"
+    },
+    {
+      "title": "1~9월 K뷰티 수출 111억달러…작년 연간 실적 육박",
+      "url": "https://n.news.naver.com/mnews/article/374/0000536141"
+    },
+    {
+      "title": "[속보]\"개미들 1.7조 팔았다\"…코스피 7000 지켜낸 '뜻밖의 큰손'",
+      "url": "https://n.news.naver.com/mnews/article/018/0006379710"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/215/0001267907"
+      "url": "https://n.news.naver.com/mnews/article/023/0004001756"
     },
     {
-      "title": "美 마이크론, 또 최대 실적… 삼전닉스 영업익 200조 육박",
-      "url": "https://n.news.naver.com/mnews/article/023/0004001574"
-    },
-    {
-      "title": "정부 \"9월 물가 2.9%…석유 최고가격제로 상승률 0.6%p 낮춰\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009205348"
-    },
-    {
-      "title": "미·영·프 장기금리 동반 급등…글로벌 국채 투매 심화",
-      "url": "https://n.news.naver.com/mnews/article/056/0012266734"
-    },
-    {
-      "title": "86주째 오른 서울 집값…강남은 거꾸로 갔다",
-      "url": "https://n.news.naver.com/mnews/article/031/0001062753"
-    },
-    {
-      "title": "SK하이닉스 \"솔리다임 투자 재원 결정된 바 없어…외부 자본 활용 시 주주가치 최우선\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005823429"
-    },
-    {
-      "title": "\"드릴로 나무 뚫고, 너트 조여\" 보스턴다이나믹스 '아틀라스' 새 로봇 손 공개",
-      "url": "https://n.news.naver.com/mnews/article/277/0005823874"
-    },
-    {
-      "title": "한화그룹 M&S 부문, 2027년 임원인사…기계·서비스 영역 12명 신규 발탁",
-      "url": "https://n.news.naver.com/mnews/article/020/0003752131"
+      "title": "하나금융, '4000명 새 둥지' 청라 시대 열었다…\"새로운 100년 시작\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014229380"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6949.04,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 902.75,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26871.6,
-      "change": 10.54,
-      "change_pct": 0.04
+      "value": 27190.86,
+      "change": 319.26,
+      "change_pct": 1.19
     },
     "usdkrw": {
-      "value": 1364.38,
-      "change": 7.54,
-      "change_pct": 0.56
+      "value": 1342.51,
+      "change": -14.33,
+      "change_pct": -1.06
     }
   },
   "gold": {
-    "price_usd": 4198.8,
-    "price_krw": 5728758,
-    "change": 12.1,
-    "change_pct": 0.29
+    "price_usd": 4172.1,
+    "price_krw": 5601086,
+    "change": -30.2,
+    "change_pct": -0.72
   },
-  "updated": "2026-10-02 09:31",
+  "updated": "2026-10-03 09:09",
   "error": null
 }
