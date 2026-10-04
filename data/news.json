@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "영화 ‘암살자(들)’ 300억 투자 논란에…기업은행·산업은행 “외부 요청 없었다”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004163799"
+      "title": "기아, 3분기 내수서 ‘형님’ 현대차 첫 추월…현대차 부진",
+      "url": "https://n.news.naver.com/mnews/article/025/0003555650"
     },
     {
-      "title": "\"연휴 때 100원 내렸다더니\"...지난주 국내 기름값 0.4원 하락",
-      "url": "https://n.news.naver.com/mnews/article/014/0005584524"
+      "title": "AI發 무차별 해킹 피해 확산…금융당국, 오늘 금융권 긴급 소집",
+      "url": "https://n.news.naver.com/mnews/article/421/0009208888"
     },
     {
-      "title": "현대차그룹, 3Q 美서 포드 추월 불발…1195대 차이로 4위",
-      "url": "https://n.news.naver.com/mnews/article/018/0006379971"
+      "title": "'컵밥'으로 한 끼 때웠는데…\"사 먹기 무섭네\" 화들짝",
+      "url": "https://n.news.naver.com/mnews/article/015/0005338933"
     },
     {
-      "title": "\"할인 있어요\"…씰리침대, '롯데 웨딩페어' 참가",
-      "url": "https://n.news.naver.com/mnews/article/003/0014231628"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000912480"
     },
     {
-      "title": "법에 없는 'NEXT원칙'…재경위 \"미래기금 선정 기준 보완해야\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016356172"
+      "title": "미래기금 '지출 30%' 변경 논란…기획처 \"법률 따라 통제\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014233019"
     },
     {
-      "title": "미국 9월 고용 예상치 크게 밑돌아...연준 '금리 동결'에 무게",
-      "url": "https://n.news.naver.com/mnews/article/052/0002414166"
+      "title": "롯데온, 앱 쇼핑 키운다…행사 기간 앱 구매 비중 10% 증가",
+      "url": "https://n.news.naver.com/mnews/article/421/0009209387"
     },
     {
-      "title": "삼성전자, 용인 과학축제서 '반도체가 만드는 지역 미래' 소개",
-      "url": "https://n.news.naver.com/mnews/article/001/0016356270"
+      "title": "은행들 가계대출 기준 1년간 150회 바꿔…실수요층 혼란",
+      "url": "https://n.news.naver.com/mnews/article/001/0016357167"
     },
     {
-      "title": "숙련공 부족에 美 법 장벽까지…마스가, 곳곳에 '암초'",
-      "url": "https://n.news.naver.com/mnews/article/243/0000103813"
+      "title": "\"160만명 고용 창출\"…삼성전자, 용인 과학축제서 반도체 클러스터 청사진 공개",
+      "url": "https://n.news.naver.com/mnews/article/003/0014232385"
     },
     {
-      "title": "소득 절반 대출 갚아야 서울 국평 아파트 마련…3년 6개월 만에 최고",
-      "url": "https://n.news.naver.com/mnews/article/448/0000642913"
+      "title": "트럼프 ‘알래스카 LNG 압박’, 한·미 교섭 새 변수 되나",
+      "url": "https://n.news.naver.com/mnews/article/005/0001876653"
     },
     {
-      "title": "디티에스 등 4개사 수요예측…2개사 공모주 청약[IPO챗]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016355086"
+      "title": "현대차 판매량 16년 만에 최저 수준…  내수는 더 ‘최악’",
+      "url": "https://n.news.naver.com/mnews/article/082/0001401073"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 1.19
     },
     "usdkrw": {
-      "value": 1342.51,
-      "change": -14.33,
-      "change_pct": -1.06
+      "value": 1343.0,
+      "change": -17.59,
+      "change_pct": -1.29
     }
   },
   "gold": {
-    "price_usd": 4162.3,
-    "price_krw": 5587929,
-    "change": -40.0,
-    "change_pct": -0.95
+    "price_usd": 4172.7,
+    "price_krw": 5603936,
+    "change": 10.4,
+    "change_pct": 0.25
   },
-  "updated": "2026-10-04 08:30",
+  "updated": "2026-10-05 08:49",
   "error": null
 }
