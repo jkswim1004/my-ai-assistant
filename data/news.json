@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "기아, 3분기 내수서 ‘형님’ 현대차 첫 추월…현대차 부진",
-      "url": "https://n.news.naver.com/mnews/article/025/0003555650"
+      "title": "LG전자, 북미서 5GW 규모 AIDC 냉각솔루션 장기 공급계약 수주",
+      "url": "https://n.news.naver.com/mnews/article/277/0005824701"
     },
     {
-      "title": "AI發 무차별 해킹 피해 확산…금융당국, 오늘 금융권 긴급 소집",
-      "url": "https://n.news.naver.com/mnews/article/421/0009208888"
+      "title": "스페이스X 7.6% 급등에 머스크 석 달 만에 ‘조만장자’ 복귀",
+      "url": "https://n.news.naver.com/mnews/article/025/0003555956"
     },
     {
-      "title": "'컵밥'으로 한 끼 때웠는데…\"사 먹기 무섭네\" 화들짝",
-      "url": "https://n.news.naver.com/mnews/article/015/0005338933"
+      "title": "한미반도체, 삼성전기에 245억 규모 '반도체 패키지 절단·검사 장비' 공급",
+      "url": "https://n.news.naver.com/mnews/article/421/0009210591"
+    },
+    {
+      "title": "제주항공, 中 노선 증편·운수권 추가 확보…동계 시즌 공급 대폭 확대",
+      "url": "https://n.news.naver.com/mnews/article/003/0014234733"
+    },
+    {
+      "title": "소금부터 젓갈까지 장인 손길…현대百, 프리미엄 김치 선봬",
+      "url": "https://n.news.naver.com/mnews/article/014/0005584918"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/422/0000912480"
+      "url": "https://n.news.naver.com/mnews/article/055/0001393384"
     },
     {
-      "title": "미래기금 '지출 30%' 변경 논란…기획처 \"법률 따라 통제\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014233019"
+      "title": "현대백화점, ‘더현대 글로벌’ 파리 상륙…2030년까지 해외매장 10곳 확장",
+      "url": "https://n.news.naver.com/mnews/article/020/0003752961"
     },
     {
-      "title": "롯데온, 앱 쇼핑 키운다…행사 기간 앱 구매 비중 10% 증가",
-      "url": "https://n.news.naver.com/mnews/article/421/0009209387"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002415034"
     },
     {
-      "title": "은행들 가계대출 기준 1년간 150회 바꿔…실수요층 혼란",
-      "url": "https://n.news.naver.com/mnews/article/001/0016357167"
+      "title": "국힘 박성훈 \"공공기관 채용비리 피해자 10명 중 1명만 구제\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016357183"
     },
     {
-      "title": "\"160만명 고용 창출\"…삼성전자, 용인 과학축제서 반도체 클러스터 청사진 공개",
-      "url": "https://n.news.naver.com/mnews/article/003/0014232385"
-    },
-    {
-      "title": "트럼프 ‘알래스카 LNG 압박’, 한·미 교섭 새 변수 되나",
-      "url": "https://n.news.naver.com/mnews/article/005/0001876653"
-    },
-    {
-      "title": "현대차 판매량 16년 만에 최저 수준…  내수는 더 ‘최악’",
-      "url": "https://n.news.naver.com/mnews/article/082/0001401073"
+      "title": "일본의 '무역결제 실험' 통할까",
+      "url": "https://n.news.naver.com/mnews/article/015/0005339268"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 7003.74,
-      "change": 32.39,
-      "change_pct": 0.46
+      "value": 6979.81,
+      "change": -23.93,
+      "change_pct": -0.34
     },
     "kosdaq": {
-      "value": 893.29,
-      "change": -1.0,
-      "change_pct": -0.11
+      "value": 911.93,
+      "change": 18.64,
+      "change_pct": 2.09
     },
     "nasdaq": {
-      "value": 27190.86,
-      "change": 319.26,
-      "change_pct": 1.19
+      "value": 27477.31,
+      "change": 286.45,
+      "change_pct": 1.05
     },
     "usdkrw": {
-      "value": 1343.0,
-      "change": -17.59,
-      "change_pct": -1.29
+      "value": 1344.38,
+      "change": 1.82,
+      "change_pct": 0.14
     }
   },
   "gold": {
-    "price_usd": 4172.7,
-    "price_krw": 5603936,
-    "change": 10.4,
-    "change_pct": 0.25
+    "price_usd": 4164.0,
+    "price_krw": 5597998,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-10-05 08:49",
+  "updated": "2026-10-06 10:39",
   "error": null
 }
