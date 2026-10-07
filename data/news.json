@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "LG전자, 북미서 5GW 규모 AIDC 냉각솔루션 장기 공급계약 수주",
-      "url": "https://n.news.naver.com/mnews/article/277/0005824701"
+      "title": "산업장관 “알래스카 LNG, 중동전쟁 통해 전략적 가치 생겨”…신중 모드",
+      "url": "https://n.news.naver.com/mnews/article/016/0002706118"
     },
     {
-      "title": "스페이스X 7.6% 급등에 머스크 석 달 만에 ‘조만장자’ 복귀",
-      "url": "https://n.news.naver.com/mnews/article/025/0003555956"
+      "title": "롯데하이마트·롯데글로벌로지스, 휴머노이드 로봇 기술 개발",
+      "url": "https://n.news.naver.com/mnews/article/001/0016361300"
     },
     {
-      "title": "한미반도체, 삼성전기에 245억 규모 '반도체 패키지 절단·검사 장비' 공급",
-      "url": "https://n.news.naver.com/mnews/article/421/0009210591"
+      "title": "포스코퓨처엠·엘앤에프, LFP 전환 속도…K 배터리, 美 ESS 양산 본격화",
+      "url": "https://n.news.naver.com/mnews/article/421/0009210458"
     },
     {
-      "title": "제주항공, 中 노선 증편·운수권 추가 확보…동계 시즌 공급 대폭 확대",
-      "url": "https://n.news.naver.com/mnews/article/003/0014234733"
+      "title": "이 대통령 치킨값 언급 엿새 만에 가격담합 전격 조사 나선 공정위",
+      "url": "https://n.news.naver.com/mnews/article/015/0005339792"
     },
     {
-      "title": "소금부터 젓갈까지 장인 손길…현대百, 프리미엄 김치 선봬",
-      "url": "https://n.news.naver.com/mnews/article/014/0005584918"
-    },
-    {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001393384"
-    },
-    {
-      "title": "현대백화점, ‘더현대 글로벌’ 파리 상륙…2030년까지 해외매장 10곳 확장",
-      "url": "https://n.news.naver.com/mnews/article/020/0003752961"
+      "title": "신세계, 워너브라더스 인수에 1.4조 투자… 글로벌 콘텐츠 플랫폼 승부수",
+      "url": "https://n.news.naver.com/mnews/article/029/0003051749"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002415034"
+      "url": "https://n.news.naver.com/mnews/article/057/0001972228"
     },
     {
-      "title": "국힘 박성훈 \"공공기관 채용비리 피해자 10명 중 1명만 구제\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016357183"
+      "title": "석 달 만에 '900스닥'…삼전닉스 이긴 '반도체 소부장'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009210437"
     },
     {
-      "title": "일본의 '무역결제 실험' 통할까",
-      "url": "https://n.news.naver.com/mnews/article/015/0005339268"
+      "title": "삼성전자, '아트 스토어'에 영국 박물관 대표 소장품 30점 공개",
+      "url": "https://n.news.naver.com/mnews/article/629/0000539932"
+    },
+    {
+      "title": "삼성전자 부른 삼바 노조… 번지수 헷갈리는 '노봉법'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005422886"
+    },
+    {
+      "title": "농지 전수조사·농협 개혁·CPTPP 가입…7일 농식품부 국감 쟁점은",
+      "url": "https://n.news.naver.com/mnews/article/008/0005422686"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6979.81,
-      "change": -23.93,
-      "change_pct": -0.34
+      "value": 6875.88,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 911.93,
-      "change": 18.64,
-      "change_pct": 2.09
+      "value": 919.05,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27477.31,
-      "change": 286.45,
-      "change_pct": 1.05
+      "value": 27599.89,
+      "change": 122.58,
+      "change_pct": 0.45
     },
     "usdkrw": {
-      "value": 1344.38,
-      "change": 1.82,
-      "change_pct": 0.14
+      "value": 1340.58,
+      "change": -3.17,
+      "change_pct": -0.24
     }
   },
   "gold": {
-    "price_usd": 4164.0,
-    "price_krw": 5597998,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4193.5,
+    "price_krw": 5621722,
+    "change": 36.7,
+    "change_pct": 0.88
   },
-  "updated": "2026-10-06 10:39",
+  "updated": "2026-10-07 09:21",
   "error": null
 }
