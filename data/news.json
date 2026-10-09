@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "송미령 \"농지 조사, 비경작·투기용 중심의 대체안 살펴보겠다\"",
-      "url": "https://n.news.naver.com/mnews/article/055/0001393745"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012270174"
     },
     {
-      "title": "포스코, 아르헨티나 리튬 2공장 준공…2027년 ‘5만톤 체제’ 기반 마련",
-      "url": "https://n.news.naver.com/mnews/article/028/0002826450"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002416422"
     },
     {
-      "title": "법원에 제동걸린 '시총 미달 상폐'…거래소 \"후속 상폐절차 유예\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016363952"
+      "title": "금융권 해외發 해킹에 '깜깜이'…18건 중 16건 공격자 불명",
+      "url": "https://n.news.naver.com/mnews/article/001/0016367193"
     },
     {
-      "title": "조선 총괄에 이상균…HD현대 주력사업 힘 싣는다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004668933"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000913618"
     },
     {
-      "title": "BGF, KNW 지분 56.9% 전량 인수…지배구조 개편",
-      "url": "https://n.news.naver.com/mnews/article/138/0002244030"
+      "title": "iM증권 \"한미약품, 비만치료제 점유율 확보 기대감\"…목표가 65만원 ↑",
+      "url": "https://n.news.naver.com/mnews/article/003/0014240566"
     },
     {
-      "title": "LG에너지솔루션, 3분기 영업익 7560억원…전년比 25.7%↑",
-      "url": "https://n.news.naver.com/mnews/article/366/0001196812"
+      "title": "63만원 or 27만원…'역대급 실적' 삼성전자 주가 향방은[종목e슈]",
+      "url": "https://n.news.naver.com/mnews/article/018/0006384329"
     },
     {
-      "title": "삼성전자 DS 성과급 메모리 7.5억·공통 5.3억 전망",
-      "url": "https://n.news.naver.com/mnews/article/421/0009215430"
+      "title": "\"내년엔 560조 번다\"…엔비디아 제친 삼성전자 더 놀라운 전망",
+      "url": "https://n.news.naver.com/mnews/article/015/0005340671"
     },
     {
-      "title": "국토장관 \"토지거래허가제 수요 있어…시장상황 보며 연장 검토\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016362243"
+      "title": "홍지선 국토장관 “수도권 주택 대량 공급 책임지겠다”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004669526"
     },
     {
-      "title": "'주인 못찾은 주식' 1.5조원 육박…2만6천명 미수령",
-      "url": "https://n.news.naver.com/mnews/article/374/0000536810"
+      "title": "\"우리도 삼성전자처럼\"… 마이크론 대만 노조, 영업이익 15% 성과급 요구",
+      "url": "https://n.news.naver.com/mnews/article/469/0000958375"
     },
     {
-      "title": "KT&G 인도네시아 신공장 가동…해외 5각 생산체제 완성",
-      "url": "https://n.news.naver.com/mnews/article/082/0001401560"
+      "title": "현대차 신형 넥쏘, 日 수소승용차 시장 두 자릿수 점유율…택시 시장 순항",
+      "url": "https://n.news.naver.com/mnews/article/030/0003473395"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6789.74,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 889.35,
+      "value": 898.43,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 27538.69,
-      "change": -61.1,
-      "change_pct": -0.22
+      "value": 27193.34,
+      "change": -345.35,
+      "change_pct": -1.25
     },
     "usdkrw": {
-      "value": 1338.38,
-      "change": -1.36,
-      "change_pct": -0.1
+      "value": 1344.55,
+      "change": 5.47,
+      "change_pct": 0.41
     }
   },
   "gold": {
-    "price_usd": 4131.2,
-    "price_krw": 5529115,
-    "change": -55.9,
-    "change_pct": -1.34
+    "price_usd": 4168.5,
+    "price_krw": 5604756,
+    "change": 27.8,
+    "change_pct": 0.67
   },
-  "updated": "2026-10-08 09:42",
+  "updated": "2026-10-09 09:58",
   "error": null
 }
