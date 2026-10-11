@@ -1,44 +1,44 @@
 {
   "news": [
     {
+      "title": "7000선 고비에서 5% 밀린 코스피…美 물가·TSMC 실적 반등 시험대",
+      "url": "https://n.news.naver.com/mnews/article/421/0009220069"
+    },
+    {
+      "title": "'스타벅스 안 가요' 탱크데이 발목 잡히나 했는데…'카페 왕좌' 다시 돌아왔다",
+      "url": "https://n.news.naver.com/mnews/article/215/0001268744"
+    },
+    {
+      "title": "“가짜 불닭볶음면 ‘딱’ 걸렸다”…이젠 지폐 보안기술로 ‘짝퉁 K브랜드’ 싹 잡아",
+      "url": "https://n.news.naver.com/mnews/article/009/0005746511"
+    },
+    {
+      "title": "\"AI가 은행을 뚫었다?\"⋯금융권 연쇄 해킹이 남긴 경고",
+      "url": "https://n.news.naver.com/mnews/article/031/0001064803"
+    },
+    {
+      "title": "은행권, 1년 만기 예금 3%대 후반으로 인상…정기예금 증가세",
+      "url": "https://n.news.naver.com/mnews/article/422/0000914173"
+    },
+    {
+      "title": "'8단 자동·교차로 감속' 현대차 신형 투싼 45㎞ 타보니[카미경]",
+      "url": "https://n.news.naver.com/mnews/article/293/0000091412"
+    },
+    {
+      "title": "한국 금융권 해킹에 등장한 '아르텍스' 결국 공개 중단",
+      "url": "https://n.news.naver.com/mnews/article/055/0001394398"
+    },
+    {
+      "title": "실적발표만 하면 하락하는 삼성전자…\"우려 말고 숫자 봐라\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009219528"
+    },
+    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/448/0000643892"
-    },
-    {
-      "title": "최태원 “호남 반도체, 용인의 3분의 2 규모… 전력·용수 늦어도 먼저 착공”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001197057"
-    },
-    {
-      "title": "해외발 금융권 해킹 10건 중 9건 “공격 주체 파악 못해”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005746274"
+      "url": "https://n.news.naver.com/mnews/article/437/0000515044"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002416615"
-    },
-    {
-      "title": "쿠팡 한밤중 먹통…“서비스 업그레이드 과정서 발생”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003556808"
-    },
-    {
-      "title": "디자인 보고 현대차 '발칵' 뒤집혔는데…극찬 쏟아진 車 [최수진의 모빌리티톡]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005340781"
-    },
-    {
-      "title": "정인섭 한화오션 사장 \"크레인 아닌 협상장서 논의 이어가야\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005340878"
-    },
-    {
-      "title": "“ETF 수익률 10개 중 8개가 2차전지” ESS·AI데이터센터 호재 효과 [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002707281"
-    },
-    {
-      "title": "경상수지 흑자 3개월 연속 400억弗 웃돌아",
-      "url": "https://n.news.naver.com/mnews/article/022/0004165294"
-    },
-    {
-      "title": "100원부터 경매, 전국 떡볶이 맛보기…공주에 모인 전통시장 120곳",
-      "url": "https://n.news.naver.com/mnews/article/081/0003687634"
+      "url": "https://n.news.naver.com/mnews/article/052/0002416807"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": 0.64
     },
     "usdkrw": {
-      "value": 1340.02,
-      "change": 0.94,
-      "change_pct": 0.07
+      "value": 1340.9,
+      "change": -2.09,
+      "change_pct": -0.16
     }
   },
   "gold": {
-    "price_usd": 4220.3,
-    "price_krw": 5655286,
-    "change": 63.3,
-    "change_pct": 1.52
+    "price_usd": 4216.3,
+    "price_krw": 5653636,
+    "change": 59.3,
+    "change_pct": 1.43
   },
-  "updated": "2026-10-10 09:29",
+  "updated": "2026-10-11 09:05",
   "error": null
 }
