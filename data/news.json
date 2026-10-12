@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "7000선 고비에서 5% 밀린 코스피…美 물가·TSMC 실적 반등 시험대",
-      "url": "https://n.news.naver.com/mnews/article/421/0009220069"
+      "title": "LH, 서울에 매입임대 2만가구 푼다…청년에 1.4만가구",
+      "url": "https://n.news.naver.com/mnews/article/018/0006385732"
     },
     {
-      "title": "'스타벅스 안 가요' 탱크데이 발목 잡히나 했는데…'카페 왕좌' 다시 돌아왔다",
-      "url": "https://n.news.naver.com/mnews/article/215/0001268744"
+      "title": "휴머노이드 로봇 D램 수요, 2030년 20배 증가 전망…삼성·SK하이닉스 새 성장동력",
+      "url": "https://n.news.naver.com/mnews/article/366/0001197170"
     },
     {
-      "title": "“가짜 불닭볶음면 ‘딱’ 걸렸다”…이젠 지폐 보안기술로 ‘짝퉁 K브랜드’ 싹 잡아",
-      "url": "https://n.news.naver.com/mnews/article/009/0005746511"
+      "title": "마케팅 논란에 밀린 스타벅스, 5개월 만에 결제액 1위 탈환 [이슈픽]",
+      "url": "https://n.news.naver.com/mnews/article/081/0003687689"
     },
     {
-      "title": "\"AI가 은행을 뚫었다?\"⋯금융권 연쇄 해킹이 남긴 경고",
-      "url": "https://n.news.naver.com/mnews/article/031/0001064803"
+      "title": "반복되는 '짬짜미' 담합, 이유 있었다…\"과징금, 매출의 6% 미만\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005341331"
     },
     {
-      "title": "은행권, 1년 만기 예금 3%대 후반으로 인상…정기예금 증가세",
-      "url": "https://n.news.naver.com/mnews/article/422/0000914173"
+      "title": "\"소멸시효 완성돼야 대손 처리 가능\"…금융권 연체채권 추심 관행 제동",
+      "url": "https://n.news.naver.com/mnews/article/003/0014245609"
     },
     {
-      "title": "'8단 자동·교차로 감속' 현대차 신형 투싼 45㎞ 타보니[카미경]",
-      "url": "https://n.news.naver.com/mnews/article/293/0000091412"
+      "title": "“삼성전자 ‘대박’ 났는데 왜 이래?”…금융위기 수준으로 떨어진 외국인보유율",
+      "url": "https://n.news.naver.com/mnews/article/009/0005746640"
     },
     {
-      "title": "한국 금융권 해킹에 등장한 '아르텍스' 결국 공개 중단",
-      "url": "https://n.news.naver.com/mnews/article/055/0001394398"
+      "title": "현대자동차, 30년 공들인 인도서 1000만대 신화 쓴다…연내대기록 달성 확실시",
+      "url": "https://n.news.naver.com/mnews/article/020/0003754111"
     },
     {
-      "title": "실적발표만 하면 하락하는 삼성전자…\"우려 말고 숫자 봐라\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009219528"
+      "title": "경제인협회 \"1천대 상장사, 에너지·로봇·AI 신사업 검토\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016369631"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000515044"
+      "title": "셀트리온 3분기 영업익 5100억…70% 뛰어올라 역대 최대",
+      "url": "https://n.news.naver.com/mnews/article/277/0005826945"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002416807"
+      "title": "한화 창립 74돌, 김승연 “낙관 아닌 현실 직시해야 100년, 200년 준비 가능”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002707798"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 6625.93,
-      "change": -177.97,
-      "change_pct": -2.62
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 892.27,
-      "change": -6.16,
-      "change_pct": -0.69
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
       "value": 27366.17,
@@ -58,17 +58,17 @@
       "change_pct": 0.64
     },
     "usdkrw": {
-      "value": 1340.9,
-      "change": -2.09,
-      "change_pct": -0.16
+      "value": 1338.38,
+      "change": -4.61,
+      "change_pct": -0.34
     }
   },
   "gold": {
-    "price_usd": 4216.3,
-    "price_krw": 5653636,
-    "change": 59.3,
-    "change_pct": 1.43
+    "price_usd": 4217.3,
+    "price_krw": 5644349,
+    "change": 1.0,
+    "change_pct": 0.02
   },
-  "updated": "2026-10-11 09:05",
+  "updated": "2026-10-12 09:13",
   "error": null
 }
