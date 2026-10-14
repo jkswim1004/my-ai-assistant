@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "롯데쇼핑 주주, 백화점·마트·온라인몰 추가 할인된다",
-      "url": "https://n.news.naver.com/mnews/article/008/0005425380"
+      "title": "필리 반도체지수 5거래일 연속 하락…누적 낙폭 7.6%",
+      "url": "https://n.news.naver.com/mnews/article/029/0003052948"
     },
     {
-      "title": "LS일렉트릭, 美 빅테크 데이터센터에 1853억 규모 배전 솔루션 공급",
-      "url": "https://n.news.naver.com/mnews/article/011/0004670598"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/214/0001528762"
     },
     {
-      "title": "흘러내리는 코스피, 6100선 붕괴…코스닥도 3%대 급락",
-      "url": "https://n.news.naver.com/mnews/article/437/0000515377"
+      "title": "정부, 18개국 1.7만 명 ‘피부 데이터뱅크’ AI로 제공",
+      "url": "https://n.news.naver.com/mnews/article/056/0012273190"
     },
     {
-      "title": "“대출 더 죄야” 발언 LH 사장, 이번엔 “집값 급락 가능성”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004003460"
+      "title": "김정아 이노션 대표 \"시네마바이브랜드, 영화 산업 새 돌파구 역할\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009223756"
     },
     {
-      "title": "송미령 농식품장관 “농지 추가 조사는 투기 유형에 집중”",
-      "url": "https://n.news.naver.com/mnews/article/138/0002244498"
+      "title": "삼성전자, 美서 HBM5 등 차세대 메모리 전략 공개",
+      "url": "https://n.news.naver.com/mnews/article/014/0005588181"
     },
     {
-      "title": "에이피알, 증권가 목표가 하향에 11%대 급락",
-      "url": "https://n.news.naver.com/mnews/article/003/0014248776"
+      "title": "새마을금고, 400명대 정보 유출 확인 당국에 신고",
+      "url": "https://n.news.naver.com/mnews/article/374/0000537578"
     },
     {
-      "title": "국내 선박 최초 북극항로 시범운항 성공…출항 50일 만에 귀항",
-      "url": "https://n.news.naver.com/mnews/article/028/0002826995"
+      "title": "中 반도체 추격 충격 지속…호실적 은행주도 흔들[뉴욕마감]",
+      "url": "https://n.news.naver.com/mnews/article/008/0005425915"
     },
     {
-      "title": "서울 분양 전망 3개월만 기준선 회복...전국은 '하락'",
-      "url": "https://n.news.naver.com/mnews/article/018/0006386997"
+      "title": "LG전자·애플, AI홈 동맹…카메라·도어락 등 7종 선보인다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003476140"
     },
     {
-      "title": "파리모터쇼 개막… 韓中日 공세에 유럽 방어전선 폈다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003754422"
+      "title": "“비트코인 폭락 끝났다”…10만 달러 간다는 큰손",
+      "url": "https://n.news.naver.com/mnews/article/018/0006387482"
     },
     {
-      "title": "\"AI의 기억 책임지는 메모리… 사이클 벗어나 산업 핵심 축\"[AI월드 2026]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005587966"
+      "title": "오유경 식약처장 \"부작용 피해구제 위해 미프진 합법화 필요\"",
+      "url": "https://n.news.naver.com/mnews/article/422/0000915183"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5979.11,
-      "change": -405.13,
-      "change_pct": -6.35
-    },
-    "kosdaq": {
-      "value": 809.3,
-      "change": -39.89,
-      "change_pct": -4.7
-    },
-    "nasdaq": {
-      "value": 27245.9,
-      "change": -120.27,
-      "change_pct": -0.44
-    },
-    "usdkrw": {
-      "value": 1339.08,
+      "value": 6035.35,
       "change": 0.0,
       "change_pct": 0.0
+    },
+    "kosdaq": {
+      "value": 837.03,
+      "change": 0.0,
+      "change_pct": 0.0
+    },
+    "nasdaq": {
+      "value": 27204.38,
+      "change": -41.52,
+      "change_pct": -0.15
+    },
+    "usdkrw": {
+      "value": 1339.68,
+      "change": 5.55,
+      "change_pct": 0.42
     }
   },
   "gold": {
-    "price_usd": 4190.8,
-    "price_krw": 5611816,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4177.8,
+    "price_krw": 5596914,
+    "change": -12.8,
+    "change_pct": -0.31
   },
-  "updated": "2026-10-13 11:25",
+  "updated": "2026-10-14 09:08",
   "error": null
 }
