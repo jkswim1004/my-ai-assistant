@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "수출물가 두 달째 하락…유가 급등에 수입물가는 반등",
-      "url": "https://n.news.naver.com/mnews/article/123/0002391977"
+      "title": "정부, 11차 석유 최고가격 동결…휘발유 1784원·경유 1773원",
+      "url": "https://n.news.naver.com/mnews/article/003/0014259054"
     },
     {
-      "title": "눈여겨 본 그 옷, 그 자리서 바로…지그재그, 성수 팝업 운영",
-      "url": "https://n.news.naver.com/mnews/article/138/0002244862"
+      "title": "‘검은 목요일’, 반대매매 충격도 덮쳤다…이틀 연속 800억원대 강제청산",
+      "url": "https://n.news.naver.com/mnews/article/009/0005749711"
     },
     {
-      "title": "대한항공, 3분기 영업익 12% 증가한 4212억원… 연료비 급증에 시장 기대 밑돌아",
-      "url": "https://n.news.naver.com/mnews/article/366/0001198234"
-    },
-    {
-      "title": "\"AI·스타트업에 4조 이상 투자\" 장재훈 현대차 부회장 간담회",
-      "url": "https://n.news.naver.com/mnews/article/014/0005589953"
-    },
-    {
-      "title": "\"가계대출 2.2조원 줄었다\"…9개월만 첫 순감..주담대는 3.3조 늘어",
-      "url": "https://n.news.naver.com/mnews/article/014/0005589665"
-    },
-    {
-      "title": "HMM, 2조 원 들여 컨선 12척 추가 확보",
-      "url": "https://n.news.naver.com/mnews/article/011/0004671683"
-    },
-    {
-      "title": "코스피 급락에 긴급 점검회의…이억원 \"리스크 관리에 만전\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016379518"
-    },
-    {
-      "title": "트럼프 불확실성에 금 몰리는 런던…보관량 1만t 육박",
-      "url": "https://n.news.naver.com/mnews/article/018/0006388642"
+      "title": "강호동 농협회장 \"외부 감사기구 신설, 자율성·독립성 우려\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016381309"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/214/0001529246"
+      "url": "https://n.news.naver.com/mnews/article/052/0002419779"
     },
     {
-      "title": "대전 찾은 이소영 “지역 강점이 성장으로 이어지는 창업생태계 뒷받침”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002709984"
+      "title": "'정부 확약 먼저'-'부지 확정 우선'…과천경마장 이전 평행선[Why&Next]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005829316"
+    },
+    {
+      "title": "외국인 3배 늘었다...NS 푸드 페스타 개막",
+      "url": "https://n.news.naver.com/mnews/article/243/0000104299"
+    },
+    {
+      "title": "9월 취업자 11만3000명 증가…청년층은 47개월째 감소(상보)",
+      "url": "https://n.news.naver.com/mnews/article/277/0005829270"
+    },
+    {
+      "title": "수도권 올해 착공, 최대 전망도 목표의 88%… 최소 3만3000가구 부족",
+      "url": "https://n.news.naver.com/mnews/article/366/0001198466"
+    },
+    {
+      "title": "8거래일만에 오른 코스피…추세 상승일까 일시 반등일까 [코주부]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004672198"
+    },
+    {
+      "title": "코어위브 주가 롤러코스터…고금리에 AI 기업 양극화",
+      "url": "https://n.news.naver.com/mnews/article/018/0006389064"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6008.81,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 823.88,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26713.03,
-      "change": 20.16,
-      "change_pct": 0.08
+      "value": 26140.03,
+      "change": -573.0,
+      "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1340.74,
-      "change": 1.39,
-      "change_pct": 0.1
+      "value": 1334.2,
+      "change": -6.75,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 4184.4,
-    "price_krw": 5610192,
-    "change": 76.5,
-    "change_pct": 1.86
+    "price_usd": 4186.7,
+    "price_krw": 5585895,
+    "change": 16.6,
+    "change_pct": 0.4
   },
-  "updated": "2026-10-16 08:32",
+  "updated": "2026-10-17 08:14",
   "error": null
 }
