@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "정부, 11차 석유 최고가격 동결…휘발유 1784원·경유 1773원",
-      "url": "https://n.news.naver.com/mnews/article/003/0014259054"
-    },
-    {
-      "title": "‘검은 목요일’, 반대매매 충격도 덮쳤다…이틀 연속 800억원대 강제청산",
-      "url": "https://n.news.naver.com/mnews/article/009/0005749711"
-    },
-    {
-      "title": "강호동 농협회장 \"외부 감사기구 신설, 자율성·독립성 우려\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016381309"
+      "title": "이통3사 영업익 '5조원 시대' 열릴까…3분기 추정치 무려",
+      "url": "https://n.news.naver.com/mnews/article/215/0001269483"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002419779"
+      "url": "https://n.news.naver.com/mnews/article/055/0001396103"
     },
     {
-      "title": "'정부 확약 먼저'-'부지 확정 우선'…과천경마장 이전 평행선[Why&Next]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005829316"
+      "title": "석유+가스공사 통합, 발전 5사 하나로…에너지공기업 통폐합 국감 쟁점",
+      "url": "https://n.news.naver.com/mnews/article/008/0005427796"
     },
     {
-      "title": "외국인 3배 늘었다...NS 푸드 페스타 개막",
-      "url": "https://n.news.naver.com/mnews/article/243/0000104299"
+      "title": "‘삼전’이 확인한 슈퍼사이클, ‘하닉’ 바통 잇는다[이상현의 전자수첩]",
+      "url": "https://n.news.naver.com/mnews/article/029/0003053528"
     },
     {
-      "title": "9월 취업자 11만3000명 증가…청년층은 47개월째 감소(상보)",
-      "url": "https://n.news.naver.com/mnews/article/277/0005829270"
+      "title": "“80만원→30만원” 삼전닉스보다 더 심하다…‘반토막’에 노조 파업까지, 주주들 어쩌나",
+      "url": "https://n.news.naver.com/mnews/article/016/0002710702"
     },
     {
-      "title": "수도권 올해 착공, 최대 전망도 목표의 88%… 최소 3만3000가구 부족",
-      "url": "https://n.news.naver.com/mnews/article/366/0001198466"
+      "title": "중소기업의 눈물…불황에 빚 감당 못한 법인파산 4년새 2.4배",
+      "url": "https://n.news.naver.com/mnews/article/015/0005343530"
     },
     {
-      "title": "8거래일만에 오른 코스피…추세 상승일까 일시 반등일까 [코주부]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004672198"
+      "title": "국내 기름값 22주 연속 내림세…휘발유·경유 1천800원대 지속",
+      "url": "https://n.news.naver.com/mnews/article/055/0001396164"
     },
     {
-      "title": "코어위브 주가 롤러코스터…고금리에 AI 기업 양극화",
-      "url": "https://n.news.naver.com/mnews/article/018/0006389064"
+      "title": "“국민연금 첫 보험료도 못 낸 청년 21만명”…10명 중 9명은 실직 탓",
+      "url": "https://n.news.naver.com/mnews/article/009/0005749933"
+    },
+    {
+      "title": "법원, 삼성바이오 쟁의금지 범위 대폭 확대…배양·정제도 파업 제동 (종합)",
+      "url": "https://n.news.naver.com/mnews/article/366/0001198505"
+    },
+    {
+      "title": "분기에 100조 버는데 외국인은 왜 삼전닉스를 파는 걸까",
+      "url": "https://n.news.naver.com/mnews/hotissue/article/032/0003476860?type=series&cid=2002145"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5668.05,
+      "change": 113.83,
+      "change_pct": 2.05
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 794.78,
+      "change": 33.96,
+      "change_pct": 4.46
     },
     "nasdaq": {
       "value": 26140.03,
@@ -58,17 +58,17 @@
       "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1334.2,
-      "change": -6.75,
-      "change_pct": -0.5
+      "value": 1329.6,
+      "change": -11.35,
+      "change_pct": -0.85
     }
   },
   "gold": {
-    "price_usd": 4186.7,
-    "price_krw": 5585895,
-    "change": 16.6,
-    "change_pct": 0.4
+    "price_usd": 4181.1,
+    "price_krw": 5559190,
+    "change": 11.0,
+    "change_pct": 0.26
   },
-  "updated": "2026-10-17 08:14",
+  "updated": "2026-10-18 07:53",
   "error": null
 }
