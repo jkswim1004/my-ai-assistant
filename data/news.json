@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "이통3사 영업익 '5조원 시대' 열릴까…3분기 추정치 무려",
-      "url": "https://n.news.naver.com/mnews/article/215/0001269483"
+      "title": "국민연금도 ‘반도체 쇼크’…100일 만에 182조 날렸다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003755704"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001396103"
+      "title": "솔리다임 ‘4중상장’ 논란에도 블룸버그인텔 “투자재원 확보” [코주부]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004672353"
     },
     {
-      "title": "석유+가스공사 통합, 발전 5사 하나로…에너지공기업 통폐합 국감 쟁점",
-      "url": "https://n.news.naver.com/mnews/article/008/0005427796"
+      "title": "로봇 손끝 1㎜까지 지배하는 AI… 현대차·기아 공장 ‘셀프 진화’",
+      "url": "https://n.news.naver.com/mnews/article/081/0003690094"
     },
     {
-      "title": "‘삼전’이 확인한 슈퍼사이클, ‘하닉’ 바통 잇는다[이상현의 전자수첩]",
-      "url": "https://n.news.naver.com/mnews/article/029/0003053528"
+      "title": "이형일 부총리, 방콕서 무디스 등과 11차례 경제외교 강행군",
+      "url": "https://n.news.naver.com/mnews/article/277/0005829840"
     },
     {
-      "title": "“80만원→30만원” 삼전닉스보다 더 심하다…‘반토막’에 노조 파업까지, 주주들 어쩌나",
-      "url": "https://n.news.naver.com/mnews/article/016/0002710702"
+      "title": "대미 무역흑자 역대 최대…알래스카 LNG 투자 '딜레마'",
+      "url": "https://n.news.naver.com/mnews/article/374/0000538369"
     },
     {
-      "title": "중소기업의 눈물…불황에 빚 감당 못한 법인파산 4년새 2.4배",
-      "url": "https://n.news.naver.com/mnews/article/015/0005343530"
+      "title": "'취업자 15만명 증가' 전망에 빨간불…팬데믹 후 최소 우려",
+      "url": "https://n.news.naver.com/mnews/article/001/0016383188"
     },
     {
-      "title": "국내 기름값 22주 연속 내림세…휘발유·경유 1천800원대 지속",
-      "url": "https://n.news.naver.com/mnews/article/055/0001396164"
+      "title": "[단독] 수협개발, 외부 매출 0.2%…내부거래로만 연 435억원 매출",
+      "url": "https://n.news.naver.com/mnews/article/011/0004672530"
     },
     {
-      "title": "“국민연금 첫 보험료도 못 낸 청년 21만명”…10명 중 9명은 실직 탓",
-      "url": "https://n.news.naver.com/mnews/article/009/0005749933"
+      "title": "\"급락장 소나기 일단 피하자\"…'방어형' ETF, 이달 순설정액 '쑥'",
+      "url": "https://n.news.naver.com/mnews/article/001/0016383233"
     },
     {
-      "title": "법원, 삼성바이오 쟁의금지 범위 대폭 확대…배양·정제도 파업 제동 (종합)",
-      "url": "https://n.news.naver.com/mnews/article/366/0001198505"
+      "title": "할리스도 해킹에 고객 정보 유출…비밀번호·주소까지 털렸다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014261176"
     },
     {
-      "title": "분기에 100조 버는데 외국인은 왜 삼전닉스를 파는 걸까",
-      "url": "https://n.news.naver.com/mnews/hotissue/article/032/0003476860?type=series&cid=2002145"
+      "title": "김장철 앞두고 새우젓 30% 급등… 어획량 감소",
+      "url": "https://n.news.naver.com/mnews/article/023/0004004429"
     }
   ],
   "stocks": {
@@ -58,17 +58,17 @@
       "change_pct": -2.15
     },
     "usdkrw": {
-      "value": 1329.6,
-      "change": -11.35,
-      "change_pct": -0.85
+      "value": 1334.66,
+      "change": -6.29,
+      "change_pct": -0.47
     }
   },
   "gold": {
-    "price_usd": 4181.1,
-    "price_krw": 5559190,
-    "change": 11.0,
-    "change_pct": 0.26
+    "price_usd": 4198.0,
+    "price_krw": 5602902,
+    "change": 16.9,
+    "change_pct": 0.4
   },
-  "updated": "2026-10-18 07:53",
+  "updated": "2026-10-19 07:46",
   "error": null
 }
