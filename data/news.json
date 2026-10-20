@@ -1,44 +1,44 @@
 {
   "news": [
     {
-      "title": "이찬진 “단일종목 레버리지 상품, 상장일정 맞추기 위해 심사 빨리 진행”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004004624"
+      "title": "1~9월 서울 아파트 월세 비중 50% 첫 돌파…전세 급감 여파",
+      "url": "https://n.news.naver.com/mnews/article/005/0001879805"
     },
     {
-      "title": "삼성전자 1대 주주 美 '엘리먼트', 서울서 유전체 분석 기술 소개",
-      "url": "https://n.news.naver.com/mnews/article/003/0014264473"
+      "title": "1만원 에어프라이어…이마트, ‘와우샵’ 본격 확대",
+      "url": "https://n.news.naver.com/mnews/article/092/0002441708"
     },
     {
-      "title": "청년들 취업준비에 월 58만 원…3년 넘기면 80만 원 지출",
-      "url": "https://n.news.naver.com/mnews/article/082/0001403012"
+      "title": "솔리다임 나스닥 상장, 제동 못 거는 금융당국… 해외 중복상장 규제 사각지대",
+      "url": "https://n.news.naver.com/mnews/article/469/0000960611"
     },
     {
-      "title": "이형일 “올해 3.4~3.6% 성장 가능…내년부터 경제전망 연 3회 검토”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005750445"
+      "title": "수은 행장 \"KAI 지분 매각 계획 없어\"…KAI 대표 \"독과점 문제\"(종합2보)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016389589"
     },
     {
-      "title": "중앙일보 인수 우선협상대상자에 ‘다우키움·CJ 컨소시엄’",
-      "url": "https://n.news.naver.com/mnews/article/032/0003477308"
+      "title": "개미 한숨 커지는데…\"삼전 67만·하닉 470만 간다\" 파격 전망 [분석+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005344688"
     },
     {
-      "title": "구광모, 오늘부터 LG 전 계열사 사업보고회 주재…AI 미래 사업 전략 점검",
-      "url": "https://n.news.naver.com/mnews/article/014/0005590893"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012277019"
     },
     {
-      "title": "‘브라질 대선 자금 마련하려 계란 수입?’ 허위 게시물에…농식품부 “법적 대응 검토”",
-      "url": "https://n.news.naver.com/mnews/article/025/0003558948"
+      "title": "달러 올랐는데 원화도 강세…환율 ‘3대 공식’ 깨졌다 [이슈&뷰]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002711776"
     },
     {
-      "title": "4년 만에 국감 출석 5대 시중은행장, AI 해킹사태에 일제히 고개 숙여",
-      "url": "https://n.news.naver.com/mnews/article/088/0001035280"
+      "title": "세라젬 창업주, 전문경영인 양자로 입양해 지분 승계",
+      "url": "https://n.news.naver.com/mnews/article/001/0016387282"
     },
     {
-      "title": "K2 전차에 주포까지 품는다…현대로템으로 현대차그룹 방산 통합",
-      "url": "https://n.news.naver.com/mnews/article/050/0000112117"
+      "title": "스페이스X, AI 매출 9배 급증에 분기 흑자 전환…“테슬라·스페이스X 합병 좋은 생각\"",
+      "url": "https://n.news.naver.com/mnews/article/023/0004005026"
     },
     {
-      "title": "서울 488가구·인천 0가구 뿐…다음달 전국 입주 물량 ‘반토막’ [부동산360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002710968"
+      "title": "“혹시 부도 날라” “저가 매수 기회”…월가의 상반된 AI 대응법",
+      "url": "https://n.news.naver.com/mnews/article/023/0004004856"
     }
   ],
   "stocks": {
@@ -53,22 +53,22 @@
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26430.89,
-      "change": 290.86,
-      "change_pct": 1.11
+      "value": 26424.82,
+      "change": -6.07,
+      "change_pct": -0.02
     },
     "usdkrw": {
-      "value": 1327.28,
-      "change": -6.15,
-      "change_pct": -0.46
+      "value": 1325.57,
+      "change": -4.43,
+      "change_pct": -0.33
     }
   },
   "gold": {
-    "price_usd": 4152.1,
-    "price_krw": 5510999,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4135.2,
+    "price_krw": 5481497,
+    "change": -24.9,
+    "change_pct": -0.6
   },
-  "updated": "2026-10-20 09:06",
+  "updated": "2026-10-21 08:36",
   "error": null
 }
