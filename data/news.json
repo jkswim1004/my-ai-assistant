@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "LG이노텍, 엔비디아와 로봇 ‘눈’ 개발한다…피지컬 AI 시장 공략",
-      "url": "https://n.news.naver.com/mnews/article/032/0003477844"
+      "title": "하나·우리금융 3분기 호실적 … 역대급 이익에 주주환원 강화",
+      "url": "https://n.news.naver.com/mnews/article/009/0005753290"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/215/0001270104"
+      "title": "박홍근, 미래대응기금 재경부 패싱 논란에 \"국회서 추가 협의\"",
+      "url": "https://n.news.naver.com/mnews/article/014/0005593517"
     },
     {
-      "title": "국세청, 신세계인터내셔날·신세계디에프 세무조사",
-      "url": "https://n.news.naver.com/mnews/article/003/0014272636"
+      "title": "LH 사장 \"전 정부, 3년짜리 집값 폭등 시한폭탄 설치\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002422900"
     },
     {
-      "title": "잠실·명동 다음은 청량리…롯데百, 서울 세 번째 ‘롯데타운’ 구축",
-      "url": "https://n.news.naver.com/mnews/article/138/0002245645"
+      "title": "업주가 할인해줬는데 수수료는 원가대로···쿠팡이츠, ‘불공정 산정’ 국감서 뭇매",
+      "url": "https://n.news.naver.com/mnews/article/032/0003478196"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/449/0000364913"
+      "title": "산업연구원 \"최고가격제, 휘발윳값 최대 239원 억제\"",
+      "url": "https://n.news.naver.com/mnews/article/052/0002422791"
     },
     {
-      "title": "\"이체 실패했는데 '띵동' 돈이 들어왔다\"…토스뱅크서 터진 325억 금융 사고",
-      "url": "https://n.news.naver.com/mnews/article/277/0005832397"
+      "title": "37세 ‘토스뱅크 설립 주역’ 박연현, 핀다저축은행 수장 됐다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006394365"
     },
     {
-      "title": "이억원·이찬진, 단일 레버리지 출시 사과…\"여러 결과 초래해 무거운 마음\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009244171"
+      "title": "홍지선 국토장관 “전월세 시장 불안은 공급 부족 탓… 집값 폭등락 대비中”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001199895"
     },
     {
-      "title": "\"스테이블코인 발행 은행 중심이어야 하나\" 질타에…이억원 \"혁신·안정 조화안 마련\"[2026국감]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005832249"
+      "title": "삼성 이건희 선대회장 6주기 추도식…이재용 회장 등 유족·경영진 참석",
+      "url": "https://n.news.naver.com/mnews/article/437/0000517236"
     },
     {
-      "title": "테슬라, 자율주행시스템 날개로 3분기 매출 37조원 전망 웃돌아",
-      "url": "https://n.news.naver.com/mnews/article/020/0003757011"
+      "title": "3기 신도시 첫 민간분양 ‘계양신도시 카이브 유보라’…“서울 분양 부담에 계양으로”[현장]",
+      "url": "https://n.news.naver.com/mnews/article/119/0003146414"
     },
     {
-      "title": "삼성E&A 영업익 1조 시대 열렸다..3분기만 5000억 넘어",
-      "url": "https://n.news.naver.com/mnews/article/014/0005592880"
+      "title": "충북도·청주시, 한솔아이원스와 1,560억원 규모 투자협약",
+      "url": "https://n.news.naver.com/mnews/article/422/0000918775"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5735.66,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 792.76,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26008.86,
-      "change": -694.0,
-      "change_pct": -2.6
+      "value": 25955.34,
+      "change": -53.52,
+      "change_pct": -0.21
     },
     "usdkrw": {
-      "value": 1326.07,
-      "change": 0.48,
-      "change_pct": 0.04
+      "value": 1323.66,
+      "change": -1.93,
+      "change_pct": -0.15
     }
   },
   "gold": {
-    "price_usd": 4039.2,
-    "price_krw": 5356261,
-    "change": -110.8,
-    "change_pct": -2.67
+    "price_usd": 4010.0,
+    "price_krw": 5307876,
+    "change": -50.4,
+    "change_pct": -1.24
   },
-  "updated": "2026-10-23 08:53",
+  "updated": "2026-10-24 08:44",
   "error": null
 }
