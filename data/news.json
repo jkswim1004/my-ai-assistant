@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "하나·우리금융 3분기 호실적 … 역대급 이익에 주주환원 강화",
-      "url": "https://n.news.naver.com/mnews/article/009/0005753290"
+      "title": "국내 기름값 23주째 하락했지만…국제유가 급등에 상승 전환 우려",
+      "url": "https://n.news.naver.com/mnews/article/119/0003146510"
     },
     {
-      "title": "박홍근, 미래대응기금 재경부 패싱 논란에 \"국회서 추가 협의\"",
-      "url": "https://n.news.naver.com/mnews/article/014/0005593517"
+      "title": "“내년말 이후 전기요금 인상 필요”…‘요금 인상’ 군불떼는 한전, 명분 들어보니...",
+      "url": "https://n.news.naver.com/mnews/article/021/0002827533"
     },
     {
-      "title": "LH 사장 \"전 정부, 3년짜리 집값 폭등 시한폭탄 설치\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002422900"
+      "title": "삼성물산, 반포푸르지오 리모델링 수주…1천250억원 규모(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016398125"
     },
     {
-      "title": "업주가 할인해줬는데 수수료는 원가대로···쿠팡이츠, ‘불공정 산정’ 국감서 뭇매",
-      "url": "https://n.news.naver.com/mnews/article/032/0003478196"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000919022"
     },
     {
-      "title": "산업연구원 \"최고가격제, 휘발윳값 최대 239원 억제\"",
-      "url": "https://n.news.naver.com/mnews/article/052/0002422791"
+      "title": "\"세제 개편 시행땐 세부담 증가\"…곳곳서 '하소연'[중기 가업승계②]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014275527"
     },
     {
-      "title": "37세 ‘토스뱅크 설립 주역’ 박연현, 핀다저축은행 수장 됐다",
-      "url": "https://n.news.naver.com/mnews/article/018/0006394365"
+      "title": "포스코 노사 입금 교섭 결렬…노조, 다음달 2일 무기한 파업 예고",
+      "url": "https://n.news.naver.com/mnews/article/422/0000919009"
     },
     {
-      "title": "홍지선 국토장관 “전월세 시장 불안은 공급 부족 탓… 집값 폭등락 대비中”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001199895"
+      "title": "더 센 전·월세 대란 온다…“향후 2~3년 서울아파트 5만채 멸실”",
+      "url": "https://n.news.naver.com/mnews/article/021/0002827483"
     },
     {
-      "title": "삼성 이건희 선대회장 6주기 추도식…이재용 회장 등 유족·경영진 참석",
-      "url": "https://n.news.naver.com/mnews/article/437/0000517236"
+      "title": "대한항공, 예약·발권 시스템 운영사서 개인정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/018/0006395134"
     },
     {
-      "title": "3기 신도시 첫 민간분양 ‘계양신도시 카이브 유보라’…“서울 분양 부담에 계양으로”[현장]",
-      "url": "https://n.news.naver.com/mnews/article/119/0003146414"
+      "title": "“원화값은 여전히 저평가입니다”…‘반도체 달러’에 1200원대 진입하나",
+      "url": "https://n.news.naver.com/mnews/article/009/0005753388"
     },
     {
-      "title": "충북도·청주시, 한솔아이원스와 1,560억원 규모 투자협약",
-      "url": "https://n.news.naver.com/mnews/article/422/0000918775"
+      "title": "“인기가 이렇게 많다고?” 중고 전기차도 무섭게 팔린다…요즘 확 달라진 분위기",
+      "url": "https://n.news.naver.com/mnews/article/011/0004674747"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5550.3,
+      "change": 16.53,
+      "change_pct": 0.3
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 751.69,
+      "change": -12.41,
+      "change_pct": -1.62
     },
     "nasdaq": {
       "value": 25955.34,
@@ -58,17 +58,17 @@
       "change_pct": -0.21
     },
     "usdkrw": {
-      "value": 1323.66,
-      "change": -1.93,
-      "change_pct": -0.15
+      "value": 1325.4,
+      "change": -0.59,
+      "change_pct": -0.04
     }
   },
   "gold": {
-    "price_usd": 4010.0,
-    "price_krw": 5307876,
-    "change": -50.4,
-    "change_pct": -1.24
+    "price_usd": 4007.9,
+    "price_krw": 5312070,
+    "change": -52.5,
+    "change_pct": -1.29
   },
-  "updated": "2026-10-24 08:44",
+  "updated": "2026-10-25 07:53",
   "error": null
 }
