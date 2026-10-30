@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "출생아 26개월째 증가 ‘역대 최장’… 절반 이상 수도권 쏠려",
-      "url": "https://n.news.naver.com/mnews/article/005/0001881531"
+      "title": "73년 역사 日산코증권 인수… 미래에셋, 글로벌 전략 시동",
+      "url": "https://n.news.naver.com/mnews/article/021/0002828818"
     },
     {
-      "title": "삼성물산, 반도체 투자 확대에 건설 실적 '쑥'…수익성 개선세-한화",
-      "url": "https://n.news.naver.com/mnews/article/018/0006398426"
+      "title": "빗썸·프라뱅 잇단 해킹… 가상자산 ‘보안 비상’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004170987"
     },
     {
-      "title": "공정위, 라면 가격 담합 여부 현장 조사",
-      "url": "https://n.news.naver.com/mnews/article/052/0002425042"
+      "title": "체코 원전 수주한 ‘팀코리아’ 깨졌다…한수원, 시공사 교체 결정",
+      "url": "https://n.news.naver.com/mnews/article/020/0003758720"
     },
     {
-      "title": "서울시, 구룡마을 화재 이재민에 공공임대 96호 긴급 지원",
-      "url": "https://n.news.naver.com/mnews/article/001/0016407325"
+      "title": "2.7조 깜짝 실적 냈는데.. 현대차 목표가 55만→45만원으로 깎인 이유",
+      "url": "https://n.news.naver.com/mnews/article/014/0005596867"
     },
     {
-      "title": "6년 만에 컨콜 등판한 CEO…하이닉스 '4분기 영업익 100조' 가시권",
-      "url": "https://n.news.naver.com/mnews/article/015/0005347649"
+      "title": "삼성SDI, ESS로 날았다…영업익 3년만에 최대",
+      "url": "https://n.news.naver.com/mnews/article/215/0001270915"
     },
     {
-      "title": "대신증권·미래에셋운용·빗썸 줄줄이 해킹…금융투자업계 보안망 '비상'",
-      "url": "https://n.news.naver.com/mnews/article/629/0000546264"
+      "title": "서울 그린벨트 토허구역, 송파 일부 빼고 푼다…아파트 규제는 유지 [부동산360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002716054"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000517894"
+      "title": "MS는 25조 흑자·구글은 12조 적자…현금흐름에 주가 엇갈려",
+      "url": "https://n.news.naver.com/mnews/article/003/0014287848"
     },
     {
-      "title": "삼성전기, 3분기 영업익 6천910억 원…역대 최대 분기 실적",
-      "url": "https://n.news.naver.com/mnews/article/056/0012282473"
+      "title": "멈춰선 계층이동… 소득 이동성 4년째 하락",
+      "url": "https://n.news.naver.com/mnews/article/023/0004006662"
     },
     {
-      "title": "\"하이닉스 배당에 SK스퀘어 배당수입 6조 달할듯…지배력도↑\"-SK",
-      "url": "https://n.news.naver.com/mnews/article/008/0005433360"
+      "title": "올 9월 은행 주담대 금리 4.88%…14년 5개월 만에 최고 수준",
+      "url": "https://n.news.naver.com/mnews/article/020/0003758685"
     },
     {
-      "title": "기업 체감경기, 4년여 만에 최고…\"반도체 등 생산투자 증가\"",
-      "url": "https://n.news.naver.com/mnews/article/374/0000540416"
+      "title": "호실적에도 ‘주가 급락’ 너무 흔해졌다...돈 잘 번 아마존 된서리 맞은 이유는",
+      "url": "https://n.news.naver.com/mnews/article/009/0005756328"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 6022.64,
+      "value": 5707.95,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 762.48,
+      "value": 727.71,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 26549.85,
-      "change": 72.04,
-      "change_pct": 0.27
+      "value": 26184.72,
+      "change": -365.12,
+      "change_pct": -1.38
     },
     "usdkrw": {
-      "value": 1335.98,
-      "change": 9.17,
-      "change_pct": 0.69
+      "value": 1338.89,
+      "change": -1.45,
+      "change_pct": -0.11
     }
   },
   "gold": {
-    "price_usd": 4057.7,
-    "price_krw": 5421005,
-    "change": -16.9,
-    "change_pct": -0.41
+    "price_usd": 4019.9,
+    "price_krw": 5382203,
+    "change": -31.7,
+    "change_pct": -0.78
   },
-  "updated": "2026-10-29 09:35",
+  "updated": "2026-10-30 09:36",
   "error": null
 }
