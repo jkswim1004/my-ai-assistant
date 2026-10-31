@@ -1,56 +1,56 @@
 {
   "news": [
     {
+      "title": "삼성 사장단에 '30만원 키보드' 선물한 올트먼…어떤 제품이길래",
+      "url": "https://n.news.naver.com/mnews/article/018/0006400787"
+    },
+    {
+      "title": "퇴직연금 판 키우는 정부, 증권사엔 반쪽짜리 기회?",
+      "url": "https://n.news.naver.com/mnews/article/119/0003149714"
+    },
+    {
+      "title": "인텔 주가 털리고 삼성전자 가전도 적자… 반도체 초호황 속 'IT 잔혹사'",
+      "url": "https://n.news.naver.com/mnews/article/469/0000962782"
+    },
+    {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/437/0000518345"
+      "url": "https://n.news.naver.com/mnews/article/056/0012284567"
     },
     {
-      "title": "DL이앤씨, 3분기 영업익 8.1% 감소…누적 실적은 지난해 연간 실적 넘어",
-      "url": "https://n.news.naver.com/mnews/article/119/0003149594"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002426340"
     },
     {
-      "title": "화학산업협회 \"정부, 기술 개발 지원·원가 부담 원화 힘 보태 달라\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009260675"
+      "title": "SK 사장단 인사… 반도체는 ‘안정’ 에너지는 ‘쇄신’",
+      "url": "https://n.news.naver.com/mnews/article/023/0004007010"
     },
     {
-      "title": "GS건설 아파트 입주민 개인정보 유출…\"피해 범위 조사중\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014291171"
+      "title": "한화디펜스, 미 해군 함정 건조 첫 수주…3천600억 원 규모 상륙함",
+      "url": "https://n.news.naver.com/mnews/article/056/0012284666"
     },
     {
-      "title": "SK 사장단 인사 ‘안정 속 쇄신’…SK하이닉스, 곽노정 유임, 미주총괄 신설",
-      "url": "https://n.news.naver.com/mnews/article/025/0003561692"
+      "title": "누가 사나 했는데 “한국서 2만대 넘게 팔려” 중국차의 질주…현대차·기아 中 성적표는",
+      "url": "https://n.news.naver.com/mnews/article/011/0004677330"
     },
     {
-      "title": "현대차그룹 \"새만금 AI데이터센터 내년 3월 착공\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005348634"
+      "title": "'6천피' 찍자 레버리지 ETF로…서학개미 순매수액 11개월 만 최대",
+      "url": "https://n.news.naver.com/mnews/article/082/0001404942"
     },
     {
-      "title": "삼성전자, 삼성디스플레이 보유 中 TCL CSOT 지분 1.3조원에 인수",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201623"
-    },
-    {
-      "title": "코스피, 美 AI 투자 우려에 3% 급락 출발… 5700선 후퇴",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201430"
-    },
-    {
-      "title": "'YTN 민영화 취소' 항소심 12월 18일...유진이엔티, 청문 등 연기 요청",
-      "url": "https://n.news.naver.com/mnews/article/057/0001975976"
-    },
-    {
-      "title": "“역대급 실적에도 아직 멀었다”…삼성전자 반도체 수장의 경고",
-      "url": "https://n.news.naver.com/mnews/article/018/0006399666"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012284580"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5730.74,
+      "change": -206.92,
+      "change_pct": -3.48
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 724.38,
+      "change": -28.85,
+      "change_pct": -3.83
     },
     "nasdaq": {
       "value": 25437.0,
@@ -58,17 +58,17 @@
       "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1337.98,
-      "change": -2.36,
-      "change_pct": -0.18
+      "value": 1335.1,
+      "change": -2.88,
+      "change_pct": -0.22
     }
   },
   "gold": {
-    "price_usd": 3884.9,
-    "price_krw": 5197918,
-    "change": -146.5,
-    "change_pct": -3.63
+    "price_usd": 3898.9,
+    "price_krw": 5205421,
+    "change": -132.5,
+    "change_pct": -3.29
   },
-  "updated": "2026-10-31 09:21",
+  "updated": "2026-11-01 08:56",
   "error": null
 }
