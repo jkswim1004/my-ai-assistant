@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "73년 역사 日산코증권 인수… 미래에셋, 글로벌 전략 시동",
-      "url": "https://n.news.naver.com/mnews/article/021/0002828818"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/437/0000518345"
     },
     {
-      "title": "빗썸·프라뱅 잇단 해킹… 가상자산 ‘보안 비상’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004170987"
+      "title": "DL이앤씨, 3분기 영업익 8.1% 감소…누적 실적은 지난해 연간 실적 넘어",
+      "url": "https://n.news.naver.com/mnews/article/119/0003149594"
     },
     {
-      "title": "체코 원전 수주한 ‘팀코리아’ 깨졌다…한수원, 시공사 교체 결정",
-      "url": "https://n.news.naver.com/mnews/article/020/0003758720"
+      "title": "화학산업협회 \"정부, 기술 개발 지원·원가 부담 원화 힘 보태 달라\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009260675"
     },
     {
-      "title": "2.7조 깜짝 실적 냈는데.. 현대차 목표가 55만→45만원으로 깎인 이유",
-      "url": "https://n.news.naver.com/mnews/article/014/0005596867"
+      "title": "GS건설 아파트 입주민 개인정보 유출…\"피해 범위 조사중\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014291171"
     },
     {
-      "title": "삼성SDI, ESS로 날았다…영업익 3년만에 최대",
-      "url": "https://n.news.naver.com/mnews/article/215/0001270915"
+      "title": "SK 사장단 인사 ‘안정 속 쇄신’…SK하이닉스, 곽노정 유임, 미주총괄 신설",
+      "url": "https://n.news.naver.com/mnews/article/025/0003561692"
     },
     {
-      "title": "서울 그린벨트 토허구역, 송파 일부 빼고 푼다…아파트 규제는 유지 [부동산360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002716054"
+      "title": "현대차그룹 \"새만금 AI데이터센터 내년 3월 착공\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005348634"
     },
     {
-      "title": "MS는 25조 흑자·구글은 12조 적자…현금흐름에 주가 엇갈려",
-      "url": "https://n.news.naver.com/mnews/article/003/0014287848"
+      "title": "삼성전자, 삼성디스플레이 보유 中 TCL CSOT 지분 1.3조원에 인수",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201623"
     },
     {
-      "title": "멈춰선 계층이동… 소득 이동성 4년째 하락",
-      "url": "https://n.news.naver.com/mnews/article/023/0004006662"
+      "title": "코스피, 美 AI 투자 우려에 3% 급락 출발… 5700선 후퇴",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201430"
     },
     {
-      "title": "올 9월 은행 주담대 금리 4.88%…14년 5개월 만에 최고 수준",
-      "url": "https://n.news.naver.com/mnews/article/020/0003758685"
+      "title": "'YTN 민영화 취소' 항소심 12월 18일...유진이엔티, 청문 등 연기 요청",
+      "url": "https://n.news.naver.com/mnews/article/057/0001975976"
     },
     {
-      "title": "호실적에도 ‘주가 급락’ 너무 흔해졌다...돈 잘 번 아마존 된서리 맞은 이유는",
-      "url": "https://n.news.naver.com/mnews/article/009/0005756328"
+      "title": "“역대급 실적에도 아직 멀었다”…삼성전자 반도체 수장의 경고",
+      "url": "https://n.news.naver.com/mnews/article/018/0006399666"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5707.95,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 727.71,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 26184.72,
-      "change": -365.12,
-      "change_pct": -1.38
+      "value": 25437.0,
+      "change": -747.72,
+      "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1338.89,
-      "change": -1.45,
-      "change_pct": -0.11
+      "value": 1337.98,
+      "change": -2.36,
+      "change_pct": -0.18
     }
   },
   "gold": {
-    "price_usd": 4019.9,
-    "price_krw": 5382203,
-    "change": -31.7,
-    "change_pct": -0.78
+    "price_usd": 3884.9,
+    "price_krw": 5197918,
+    "change": -146.5,
+    "change_pct": -3.63
   },
-  "updated": "2026-10-30 09:36",
+  "updated": "2026-10-31 09:21",
   "error": null
 }
