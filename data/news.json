@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "삼성 사장단에 '30만원 키보드' 선물한 올트먼…어떤 제품이길래",
-      "url": "https://n.news.naver.com/mnews/article/018/0006400787"
+      "title": "\"에이피알, 원화 강세에 실적 부진…목표가↓\"-한국",
+      "url": "https://n.news.naver.com/mnews/article/015/0005349022"
     },
     {
-      "title": "퇴직연금 판 키우는 정부, 증권사엔 반쪽짜리 기회?",
-      "url": "https://n.news.naver.com/mnews/article/119/0003149714"
+      "title": "반도체 수출 급증에 10월 수출 1153억달러…연간 1조달러 눈앞",
+      "url": "https://n.news.naver.com/mnews/article/005/0001882124"
     },
     {
-      "title": "인텔 주가 털리고 삼성전자 가전도 적자… 반도체 초호황 속 'IT 잔혹사'",
-      "url": "https://n.news.naver.com/mnews/article/469/0000962782"
+      "title": "롯데쇼핑·이마트도 ‘저평가 딱지’…상장사 151곳에 경고장",
+      "url": "https://n.news.naver.com/mnews/article/081/0003694524"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012284567"
+      "title": "550조 퇴직연금 두고 국민연금 진입 막는 금융권…'밥그릇 싸움' 비판도",
+      "url": "https://n.news.naver.com/mnews/article/005/0001882309"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002426340"
+      "title": "전기차 1대 등록때마다 세수 150만원 손해…제주 '탄소중립 딜레마'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009263416"
     },
     {
-      "title": "SK 사장단 인사… 반도체는 ‘안정’ 에너지는 ‘쇄신’",
-      "url": "https://n.news.naver.com/mnews/article/023/0004007010"
+      "title": "한화, 美 해군 함정 건조 첫 수주… 필리조선수 인수 2년 만",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201742"
     },
     {
-      "title": "한화디펜스, 미 해군 함정 건조 첫 수주…3천600억 원 규모 상륙함",
-      "url": "https://n.news.naver.com/mnews/article/056/0012284666"
+      "title": "코스피, '인텔 급락 등 美증시 삭풍' 이어받나[마켓뷰]",
+      "url": "https://n.news.naver.com/mnews/article/001/0016414657"
     },
     {
-      "title": "누가 사나 했는데 “한국서 2만대 넘게 팔려” 중국차의 질주…현대차·기아 中 성적표는",
-      "url": "https://n.news.naver.com/mnews/article/011/0004677330"
+      "title": "이재용, 日 첨단 패키징 랩 방문…소부장 생태계 협력 모색",
+      "url": "https://n.news.naver.com/mnews/article/079/0004205184"
     },
     {
-      "title": "'6천피' 찍자 레버리지 ETF로…서학개미 순매수액 11개월 만 최대",
-      "url": "https://n.news.naver.com/mnews/article/082/0001404942"
+      "title": "\"SK하이닉스, 4분기 영업익 사상 첫 100조 돌파 전망\"-KB",
+      "url": "https://n.news.naver.com/mnews/article/015/0005349023"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/056/0012284580"
+      "title": "“누가 노도강이 싸다 했나”…노원 월세 상승률 서울 1위",
+      "url": "https://n.news.naver.com/mnews/article/009/0005757100"
     }
   ],
   "stocks": {
     "kospi": {
       "value": 5730.74,
-      "change": -206.92,
-      "change_pct": -3.48
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
       "value": 724.38,
-      "change": -28.85,
-      "change_pct": -3.83
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
       "value": 25437.0,
@@ -58,17 +58,17 @@
       "change_pct": -2.86
     },
     "usdkrw": {
-      "value": 1335.1,
-      "change": -2.88,
-      "change_pct": -0.22
+      "value": 1337.98,
+      "change": 0.0,
+      "change_pct": 0.0
     }
   },
   "gold": {
-    "price_usd": 3898.9,
-    "price_krw": 5205421,
-    "change": -132.5,
-    "change_pct": -3.29
+    "price_usd": 3911.6,
+    "price_krw": 5233642,
+    "change": 12.7,
+    "change_pct": 0.33
   },
-  "updated": "2026-11-01 08:56",
+  "updated": "2026-11-02 09:13",
   "error": null
 }
