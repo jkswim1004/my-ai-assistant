@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "\"에이피알, 원화 강세에 실적 부진…목표가↓\"-한국",
-      "url": "https://n.news.naver.com/mnews/article/015/0005349022"
+      "title": "현대백화점 캐릭터 '흰디' 굿즈 매출 73% 증가…외부 협업 확대",
+      "url": "https://n.news.naver.com/mnews/article/001/0016417474"
     },
     {
-      "title": "반도체 수출 급증에 10월 수출 1153억달러…연간 1조달러 눈앞",
-      "url": "https://n.news.naver.com/mnews/article/005/0001882124"
+      "title": "금융지주 회장 연임 문턱 높인다…3연임 땐 출석 의결권 75% 찬성 추진",
+      "url": "https://n.news.naver.com/mnews/article/005/0001882606"
     },
     {
-      "title": "롯데쇼핑·이마트도 ‘저평가 딱지’…상장사 151곳에 경고장",
-      "url": "https://n.news.naver.com/mnews/article/081/0003694524"
+      "title": "호반, 한진칼 지분 추가 매입… ‘최대주주 가능성’에 기업결합 신고",
+      "url": "https://n.news.naver.com/mnews/article/366/0001201961"
     },
     {
-      "title": "550조 퇴직연금 두고 국민연금 진입 막는 금융권…'밥그릇 싸움' 비판도",
-      "url": "https://n.news.naver.com/mnews/article/005/0001882309"
+      "title": "배추값 내렸지만 기름값·휴대폰값 뛰었다…두 달 연속 물가 2%대 상승",
+      "url": "https://n.news.naver.com/mnews/article/469/0000963260"
     },
     {
-      "title": "전기차 1대 등록때마다 세수 150만원 손해…제주 '탄소중립 딜레마'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009263416"
+      "title": "한양증권도 해킹 사고…개인정보 31건 유출",
+      "url": "https://n.news.naver.com/mnews/article/016/0002717913"
     },
     {
-      "title": "한화, 美 해군 함정 건조 첫 수주… 필리조선수 인수 2년 만",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201742"
+      "title": "GC녹십자, 국민성장펀드 기업 선정…“美 피하주사형 면역글로불린 개발 속도”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001202123"
     },
     {
-      "title": "코스피, '인텔 급락 등 美증시 삭풍' 이어받나[마켓뷰]",
-      "url": "https://n.news.naver.com/mnews/article/001/0016414657"
+      "title": "국내생산세액공제 대상에 전기차 추가되나…이형일 \"국회 논의 적극 참여\"",
+      "url": "https://n.news.naver.com/mnews/article/008/0005435331"
     },
     {
-      "title": "이재용, 日 첨단 패키징 랩 방문…소부장 생태계 협력 모색",
-      "url": "https://n.news.naver.com/mnews/article/079/0004205184"
+      "title": "“2030년 PBV 1000대 공급 목표”…기아, 일본 ‘MK홀딩스’와 협력",
+      "url": "https://n.news.naver.com/mnews/article/009/0005757985"
     },
     {
-      "title": "\"SK하이닉스, 4분기 영업익 사상 첫 100조 돌파 전망\"-KB",
-      "url": "https://n.news.naver.com/mnews/article/015/0005349023"
+      "title": "삼성복지재단, 영유아 발달지원 강연·문화행사 마련… 전국 어린이집 원장 초청",
+      "url": "https://n.news.naver.com/mnews/article/366/0001202138"
     },
     {
-      "title": "“누가 노도강이 싸다 했나”…노원 월세 상승률 서울 1위",
-      "url": "https://n.news.naver.com/mnews/article/009/0005757100"
+      "title": "엘앤에프·LG엔솔, 1조원 규모 LFP 양극재 장기 공급계약 체결",
+      "url": "https://n.news.naver.com/mnews/article/001/0016417805"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5730.74,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 5721.43,
+      "change": -137.65,
+      "change_pct": -2.35
     },
     "kosdaq": {
-      "value": 724.38,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 717.39,
+      "change": -16.97,
+      "change_pct": -2.31
     },
     "nasdaq": {
-      "value": 25437.0,
-      "change": -747.72,
-      "change_pct": -2.86
+      "value": 25164.36,
+      "change": -272.64,
+      "change_pct": -1.07
     },
     "usdkrw": {
-      "value": 1337.98,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": 1340.71,
+      "change": 15.19,
+      "change_pct": 1.15
     }
   },
   "gold": {
-    "price_usd": 3911.6,
-    "price_krw": 5233642,
-    "change": 12.7,
-    "change_pct": 0.33
+    "price_usd": 3952.4,
+    "price_krw": 5299022,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-02 09:13",
+  "updated": "2026-11-03 11:45",
   "error": null
 }
