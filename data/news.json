@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "현대백화점 캐릭터 '흰디' 굿즈 매출 73% 증가…외부 협업 확대",
-      "url": "https://n.news.naver.com/mnews/article/001/0016417474"
+      "title": "車업계 \"이번엔\"… 전기차 생산세액공제 기대",
+      "url": "https://n.news.naver.com/mnews/article/009/0005758440"
     },
     {
-      "title": "금융지주 회장 연임 문턱 높인다…3연임 땐 출석 의결권 75% 찬성 추진",
-      "url": "https://n.news.naver.com/mnews/article/005/0001882606"
+      "title": "“노후 준비, 알아서 자동으로 척척”…하나증권 ‘퇴직연금 ETF 모으기’ 눈길",
+      "url": "https://n.news.naver.com/mnews/article/009/0005758367"
     },
     {
-      "title": "호반, 한진칼 지분 추가 매입… ‘최대주주 가능성’에 기업결합 신고",
-      "url": "https://n.news.naver.com/mnews/article/366/0001201961"
+      "title": "비트코인 7만7000달러선도 붕괴… “바이낸스 해킹 사태 여진”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001202119"
     },
     {
-      "title": "배추값 내렸지만 기름값·휴대폰값 뛰었다…두 달 연속 물가 2%대 상승",
-      "url": "https://n.news.naver.com/mnews/article/469/0000963260"
+      "title": "美, SK하이닉스 中공장 장비 반입 제동…美투자 재원 확보 난항",
+      "url": "https://n.news.naver.com/mnews/article/020/0003759943"
     },
     {
-      "title": "한양증권도 해킹 사고…개인정보 31건 유출",
-      "url": "https://n.news.naver.com/mnews/article/016/0002717913"
+      "title": "금감원, 베트남·인니 보험당국 초청…“국내 보험사 현지 안착 지원”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002718535"
     },
     {
-      "title": "GC녹십자, 국민성장펀드 기업 선정…“美 피하주사형 면역글로불린 개발 속도”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001202123"
+      "title": "KAI 3Q 매출 1조 돌파에 1.5조 수주..KF-21 타고 날아오르나",
+      "url": "https://n.news.naver.com/mnews/article/014/0005598774"
     },
     {
-      "title": "국내생산세액공제 대상에 전기차 추가되나…이형일 \"국회 논의 적극 참여\"",
-      "url": "https://n.news.naver.com/mnews/article/008/0005435331"
+      "title": "10월 외환보유액 26억 달러 증가...한 달 만에 반등",
+      "url": "https://n.news.naver.com/mnews/article/052/0002428067"
     },
     {
-      "title": "“2030년 PBV 1000대 공급 목표”…기아, 일본 ‘MK홀딩스’와 협력",
-      "url": "https://n.news.naver.com/mnews/article/009/0005757985"
+      "title": "연말 김장철, 먹거리 물가 괜찮을까요",
+      "url": "https://n.news.naver.com/mnews/article/025/0003562634"
     },
     {
-      "title": "삼성복지재단, 영유아 발달지원 강연·문화행사 마련… 전국 어린이집 원장 초청",
-      "url": "https://n.news.naver.com/mnews/article/366/0001202138"
+      "title": "포스코퓨처엠, LFP 양극재 생산 본격화…목표가 15%↑-하나",
+      "url": "https://n.news.naver.com/mnews/article/018/0006402473"
     },
     {
-      "title": "엘앤에프·LG엔솔, 1조원 규모 LFP 양극재 장기 공급계약 체결",
-      "url": "https://n.news.naver.com/mnews/article/001/0016417805"
+      "title": "배추 풍년에 김장 수요는 감소…정부, 640억 풀어 김장재료 반값 할인",
+      "url": "https://n.news.naver.com/mnews/article/421/0009265909"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5721.43,
-      "change": -137.65,
-      "change_pct": -2.35
+      "value": 5698.74,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 717.39,
-      "change": -16.97,
-      "change_pct": -2.31
+      "value": 701.35,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25164.36,
-      "change": -272.64,
-      "change_pct": -1.07
+      "value": 25372.01,
+      "change": 207.7,
+      "change_pct": 0.83
     },
     "usdkrw": {
-      "value": 1340.71,
-      "change": 15.19,
-      "change_pct": 1.15
+      "value": 1344.28,
+      "change": -0.53,
+      "change_pct": -0.04
     }
   },
   "gold": {
-    "price_usd": 3952.4,
-    "price_krw": 5299022,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 3935.3,
+    "price_krw": 5290145,
+    "change": -34.3,
+    "change_pct": -0.86
   },
-  "updated": "2026-11-03 11:45",
+  "updated": "2026-11-04 10:01",
   "error": null
 }
