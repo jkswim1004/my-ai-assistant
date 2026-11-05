@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "車업계 \"이번엔\"… 전기차 생산세액공제 기대",
-      "url": "https://n.news.naver.com/mnews/article/009/0005758440"
+      "title": "뉴스페이스 심장, 순천에서 뛴다…한화에어로스페이스 생산기지 준공",
+      "url": "https://n.news.naver.com/mnews/article/011/0004678692"
     },
     {
-      "title": "“노후 준비, 알아서 자동으로 척척”…하나증권 ‘퇴직연금 ETF 모으기’ 눈길",
-      "url": "https://n.news.naver.com/mnews/article/009/0005758367"
+      "title": "쿠팡, 3분기 영업손실 6423억…올해 누적손실, 3년치 영업익 맞먹어",
+      "url": "https://n.news.naver.com/mnews/article/020/0003760051"
     },
     {
-      "title": "비트코인 7만7000달러선도 붕괴… “바이낸스 해킹 사태 여진”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001202119"
+      "title": "한진칼 최대주주 오른 호반의 속내…'경영권 흔들기'인가 '몸값 띄우기'인가",
+      "url": "https://n.news.naver.com/mnews/article/119/0003151387"
     },
     {
-      "title": "美, SK하이닉스 中공장 장비 반입 제동…美투자 재원 확보 난항",
-      "url": "https://n.news.naver.com/mnews/article/020/0003759943"
+      "title": "‘쉬었음’ 9만명 줄었지만…“원하는 일자리 없어” 쉰 30대 늘었다",
+      "url": "https://n.news.naver.com/mnews/article/032/0003480740"
     },
     {
-      "title": "금감원, 베트남·인니 보험당국 초청…“국내 보험사 현지 안착 지원”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002718535"
+      "title": "휴젤, 미국 직판 전환 승부수…2028년 매출 9000억 '정조준'",
+      "url": "https://n.news.naver.com/mnews/article/008/0005436564"
     },
     {
-      "title": "KAI 3Q 매출 1조 돌파에 1.5조 수주..KF-21 타고 날아오르나",
-      "url": "https://n.news.naver.com/mnews/article/014/0005598774"
+      "title": "분양가 25%만 내고 내 집 마련…고양창릉서 12월 첫 분양",
+      "url": "https://n.news.naver.com/mnews/article/030/0003482016"
     },
     {
-      "title": "10월 외환보유액 26억 달러 증가...한 달 만에 반등",
-      "url": "https://n.news.naver.com/mnews/article/052/0002428067"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/055/0001400699"
     },
     {
-      "title": "연말 김장철, 먹거리 물가 괜찮을까요",
-      "url": "https://n.news.naver.com/mnews/article/025/0003562634"
+      "title": "현대차그룹, 수소 기반 미래 도시 청사진 제시…\"생태계 주도권 잡는다\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014302778"
     },
     {
-      "title": "포스코퓨처엠, LFP 양극재 생산 본격화…목표가 15%↑-하나",
-      "url": "https://n.news.naver.com/mnews/article/018/0006402473"
+      "title": "\"가상자산도 상속 시 보호돼야\"…두나무, 국회 입법박람회 참여",
+      "url": "https://n.news.naver.com/mnews/article/001/0016423201"
     },
     {
-      "title": "배추 풍년에 김장 수요는 감소…정부, 640억 풀어 김장재료 반값 할인",
-      "url": "https://n.news.naver.com/mnews/article/421/0009265909"
+      "title": "美증시 반도체주 급락에 코스피도 하락 출발…삼전닉스 3~6% 급락",
+      "url": "https://n.news.naver.com/mnews/article/082/0001405737"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5698.74,
+      "value": 5461.64,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 701.35,
+      "value": 692.03,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25372.01,
-      "change": 207.7,
-      "change_pct": 0.83
+      "value": 25736.51,
+      "change": 364.5,
+      "change_pct": 1.44
     },
     "usdkrw": {
-      "value": 1344.28,
-      "change": -0.53,
-      "change_pct": -0.04
+      "value": 1338.59,
+      "change": -4.31,
+      "change_pct": -0.32
     }
   },
   "gold": {
-    "price_usd": 3935.3,
-    "price_krw": 5290145,
-    "change": -34.3,
-    "change_pct": -0.86
+    "price_usd": 4106.0,
+    "price_krw": 5496250,
+    "change": 165.6,
+    "change_pct": 4.2
   },
-  "updated": "2026-11-04 10:01",
+  "updated": "2026-11-05 10:17",
   "error": null
 }
