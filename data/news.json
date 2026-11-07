@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "빅테크 회사채 쏟아졌지만…美 장기국채 찾는 수요도 견조",
-      "url": "https://n.news.naver.com/mnews/article/009/0005759528"
+      "title": "기금형 퇴직연금 도입 본격화…정부·금융권 시행 준비 점검",
+      "url": "https://n.news.naver.com/mnews/article/016/0002720090"
     },
     {
-      "title": "삼전닉스 프리마켓서 10% 넘게 급락…시총 상위 줄하락 [투자360]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002719674"
+      "title": "증권사 '신용융자 담보비율' 유지 의무 3개월 면제…9일 시행",
+      "url": "https://n.news.naver.com/mnews/article/008/0005437614"
     },
     {
-      "title": "애플, 10조원 회사채 발행…주문 4배 몰려",
-      "url": "https://n.news.naver.com/mnews/article/001/0016425303"
+      "title": "기아 3조 투자…\"광주공장 미래차 전환\"",
+      "url": "https://n.news.naver.com/mnews/article/015/0005351319"
     },
     {
-      "title": "결혼 100쌍 중 9쌍 다문화… ‘남편 10세 이상 연상’ 36%",
-      "url": "https://n.news.naver.com/mnews/article/020/0003760474"
+      "title": "CJ CGV, 3분기 영업익 736억…전년比 216% 증가",
+      "url": "https://n.news.naver.com/mnews/article/018/0006405316"
     },
     {
-      "title": "인도에 뜬 ‘농심 푸드트럭’, 신라면·툼바 맛 알린다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002719733"
+      "title": "SK네트웍스, 3분기 영업익 201억원…전년 대비 9.9%↓",
+      "url": "https://n.news.naver.com/mnews/article/016/0002720068"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002428872"
+      "title": "'블루쓰나미'에 원/달러 환율, 14.5원 '쑥'…6개월만에 최대폭 상승",
+      "url": "https://n.news.naver.com/mnews/article/008/0005437756"
     },
     {
-      "title": "서울대 간 최태원 “美 선거 하나에 증시 요동…롤러코스터 장세 계속될 것”",
-      "url": "https://n.news.naver.com/mnews/article/009/0005759808"
+      "title": "삼양식품, 3Q 영업익 1962억⋯전년比 49.9%↑",
+      "url": "https://n.news.naver.com/mnews/article/031/0001072965"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001400942"
+      "title": "씨젠, 3분기 영업익 21%↑…비호흡기 진단 제품 호조",
+      "url": "https://n.news.naver.com/mnews/article/011/0004679552"
     },
     {
-      "title": "SK바이오팜, 세노바메이트 성장에도 예상 주당순익 조정…목표가 하향-IBK",
-      "url": "https://n.news.naver.com/mnews/article/018/0006404730"
+      "title": "롯데케미칼, 3분기 영업손실 2813억원…전년 比 적자 폭↑",
+      "url": "https://n.news.naver.com/mnews/article/008/0005437741"
     },
     {
-      "title": "코스피 장중 5400선 아래로...삼전 8%↓·하닉 9%↓",
-      "url": "https://n.news.naver.com/mnews/article/025/0003563079"
+      "title": "D램값 폭등에 OLED 신기술 투자도 제동…삼성·LGD 속도 조절론",
+      "url": "https://n.news.naver.com/mnews/article/018/0006405331"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4927.64,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 630.43,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 24315.0,
-      "change": -1421.51,
-      "change_pct": -5.52
+      "value": 24579.42,
+      "change": 264.42,
+      "change_pct": 1.09
     },
     "usdkrw": {
-      "value": 1354.58,
-      "change": 14.51,
-      "change_pct": 1.08
+      "value": 1356.34,
+      "change": 16.27,
+      "change_pct": 1.21
     }
   },
   "gold": {
-    "price_usd": 4101.7,
-    "price_krw": 5556081,
-    "change": 28.7,
-    "change_pct": 0.7
+    "price_usd": 4079.5,
+    "price_krw": 5533189,
+    "change": -34.0,
+    "change_pct": -0.83
   },
-  "updated": "2026-11-06 10:22",
+  "updated": "2026-11-07 09:36",
   "error": null
 }
