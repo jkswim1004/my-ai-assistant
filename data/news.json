@@ -1,60 +1,60 @@
 {
   "news": [
     {
-      "title": "기금형 퇴직연금 도입 본격화…정부·금융권 시행 준비 점검",
-      "url": "https://n.news.naver.com/mnews/article/016/0002720090"
+      "title": "기차 타기 전에 라면 먹으려다가 '화들짝'…고민한 이유",
+      "url": "https://n.news.naver.com/mnews/article/015/0005351357"
     },
     {
-      "title": "증권사 '신용융자 담보비율' 유지 의무 3개월 면제…9일 시행",
-      "url": "https://n.news.naver.com/mnews/article/008/0005437614"
+      "title": "“공공기관 지정 피하자”… 금감원, 검사 재량 줄이는 쇄신안 마련",
+      "url": "https://n.news.naver.com/mnews/article/366/0001203244"
     },
     {
-      "title": "기아 3조 투자…\"광주공장 미래차 전환\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005351319"
+      "title": "블루웨이브 쇼크에…세계증시 시총, 하루 만에 4773조원 증발",
+      "url": "https://n.news.naver.com/mnews/article/028/0002831140"
     },
     {
-      "title": "CJ CGV, 3분기 영업익 736억…전년比 216% 증가",
-      "url": "https://n.news.naver.com/mnews/article/018/0006405316"
+      "title": "'블루 웨이브 쇼크'에 휘청인 코스피…반등 열쇠는 [주간전망]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005351429"
     },
     {
-      "title": "SK네트웍스, 3분기 영업익 201억원…전년 대비 9.9%↓",
-      "url": "https://n.news.naver.com/mnews/article/016/0002720068"
+      "title": "국내 증시 급락하자 미국 주식으로 달려간 서학개미들···11월 첫 주에만 3조원 순매수",
+      "url": "https://n.news.naver.com/mnews/article/032/0003481235"
     },
     {
-      "title": "'블루쓰나미'에 원/달러 환율, 14.5원 '쑥'…6개월만에 최대폭 상승",
-      "url": "https://n.news.naver.com/mnews/article/008/0005437756"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/056/0012289397"
     },
     {
-      "title": "삼양식품, 3Q 영업익 1962억⋯전년比 49.9%↑",
-      "url": "https://n.news.naver.com/mnews/article/031/0001072965"
+      "title": "부산 화장품 수출 9월까지 3억달러…작년보다 1.5배 증가",
+      "url": "https://n.news.naver.com/mnews/article/001/0016427659"
     },
     {
-      "title": "씨젠, 3분기 영업익 21%↑…비호흡기 진단 제품 호조",
-      "url": "https://n.news.naver.com/mnews/article/011/0004679552"
+      "title": "세계 식량값 석 달 상승 뒤 하락…설탕은 6.6% 뛰어",
+      "url": "https://n.news.naver.com/mnews/article/022/0004173284"
     },
     {
-      "title": "롯데케미칼, 3분기 영업손실 2813억원…전년 比 적자 폭↑",
-      "url": "https://n.news.naver.com/mnews/article/008/0005437741"
+      "title": "문 열었더니 백종원이 헬멧 쓰고 서 있었다…피자 배달 직접 뛴 사연",
+      "url": "https://n.news.naver.com/mnews/article/022/0004173252"
     },
     {
-      "title": "D램값 폭등에 OLED 신기술 투자도 제동…삼성·LGD 속도 조절론",
-      "url": "https://n.news.naver.com/mnews/article/018/0006405331"
+      "title": "주유소 기름값 25주 연속 하락…1800원대서 횡보",
+      "url": "https://n.news.naver.com/mnews/article/021/0002831039"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5059.69,
+      "change": -324.11,
+      "change_pct": -6.02
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 644.27,
+      "change": -34.14,
+      "change_pct": -5.03
     },
     "nasdaq": {
-      "value": 24579.42,
-      "change": 264.42,
+      "value": 24579.43,
+      "change": 264.43,
       "change_pct": 1.09
     },
     "usdkrw": {
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 4079.5,
-    "price_krw": 5533189,
-    "change": -34.0,
-    "change_pct": -0.83
+    "price_usd": 4074.9,
+    "price_krw": 5526949,
+    "change": -38.6,
+    "change_pct": -0.94
   },
-  "updated": "2026-11-07 09:36",
+  "updated": "2026-11-08 09:11",
   "error": null
 }
