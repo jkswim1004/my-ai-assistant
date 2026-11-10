@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성전자, 현대차그룹과 교류 행사…양사 경영진 부부 170여명 참석",
-      "url": "https://n.news.naver.com/mnews/article/421/0009277182"
+      "title": "삼성SDI, UPS용 각형 배터리로 ‘CES 혁신상’ …3년 연속 수상",
+      "url": "https://n.news.naver.com/mnews/article/029/0003058125"
     },
     {
-      "title": "잇단 해킹에 4대 은행 보안예산 확대…3곳 '1천억 이상'",
-      "url": "https://n.news.naver.com/mnews/article/374/0000542403"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/052/0002430725"
     },
     {
-      "title": "현대차그룹 HTWO 광저우, 중국 수소 상용차 시장 공략",
-      "url": "https://n.news.naver.com/mnews/article/417/0001163643"
+      "title": "더 정교해진 아틀라스 … 손가락만한 너트 꺼내 조립까지 뚝딱",
+      "url": "https://n.news.naver.com/mnews/article/009/0005761159"
     },
     {
-      "title": "9일부터 3개월간 '빚투' 반대매매 숨통",
-      "url": "https://n.news.naver.com/mnews/article/029/0003057746"
+      "title": "공정위, 배민·쿠팡 과징금 6319억…\"1·2위 동시 최혜대우, 담합같은 경쟁제한\"",
+      "url": "https://n.news.naver.com/mnews/article/031/0001073328"
     },
     {
-      "title": "국내 주요 기업, 여성임원 규모 늘었지만…전체 비중 여전히 6%대",
-      "url": "https://n.news.naver.com/mnews/article/009/0005760738"
+      "title": "골드만삭스 “폭락한 한국 반도체株, 두 배 뛸 수도”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004680228"
     },
     {
-      "title": "삼성바이오에피스 ‘SB27’, 임상 3상서 키트루다와 동등성 입증",
-      "url": "https://n.news.naver.com/mnews/article/011/0004680045"
+      "title": "가덕신공항, 공사비 협상 남겨두고 설계부터…내년 상반기 착공 목표",
+      "url": "https://n.news.naver.com/mnews/article/005/0001883987"
     },
     {
-      "title": "“좀더 보태면 국평 가는데”…대출 규제에 중소형 가격차 1.7억까지 좁혀져",
-      "url": "https://n.news.naver.com/mnews/article/009/0005760744"
+      "title": "‘엔비디아 쇼크’에도 필라델피아 반도체지수 6.86% 급등",
+      "url": "https://n.news.naver.com/mnews/article/005/0001884121"
     },
     {
-      "title": "무신사, 오프라인 매장 100곳 돌파…\"5년 만에 방문객 1억명\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005839701"
+      "title": "미래에셋운용, ‘TIGER 200 커버드콜액티브’ 출시…성장성·비과세 분배 결합",
+      "url": "https://n.news.naver.com/mnews/article/011/0004680146"
     },
     {
-      "title": "“삼성전자, 지금은 반등 가능성 주목할 때”…비관론 정점 속 돋보인 리포트",
-      "url": "https://n.news.naver.com/mnews/article/009/0005760729"
+      "title": "수입 증가로 값 떨어진 염소고기…691농가에 50억원 보전",
+      "url": "https://n.news.naver.com/mnews/article/018/0006407162"
     },
     {
-      "title": "피델리티 \"금보다 비트코인 선호…금 대비 상대 강세 뚜렷\"",
-      "url": "https://n.news.naver.com/mnews/article/018/0006405996"
+      "title": "'억대 부담금' 현실화?…반포현대, 재초환 179억 통지",
+      "url": "https://n.news.naver.com/mnews/article/057/0001977370"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5024.0,
-      "change": -35.69,
-      "change_pct": -0.71
+      "value": 5242.97,
+      "change": 224.12,
+      "change_pct": 4.47
     },
     "kosdaq": {
-      "value": 636.56,
-      "change": -7.71,
-      "change_pct": -1.2
+      "value": 664.41,
+      "change": 25.44,
+      "change_pct": 3.98
     },
     "nasdaq": {
-      "value": 24579.43,
-      "change": 264.43,
-      "change_pct": 1.09
+      "value": 25253.14,
+      "change": 673.71,
+      "change_pct": 2.74
     },
     "usdkrw": {
-      "value": 1360.7,
-      "change": 4.36,
-      "change_pct": 0.32
+      "value": 1346.19,
+      "change": -16.51,
+      "change_pct": -1.21
     }
   },
   "gold": {
-    "price_usd": 4075.2,
-    "price_krw": 5545124,
-    "change": 0.3,
-    "change_pct": 0.01
+    "price_usd": 4120.4,
+    "price_krw": 5546841,
+    "change": 0.0,
+    "change_pct": 0.0
   },
-  "updated": "2026-11-09 09:32",
+  "updated": "2026-11-10 12:09",
   "error": null
 }
