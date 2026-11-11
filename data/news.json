@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "삼성SDI, UPS용 각형 배터리로 ‘CES 혁신상’ …3년 연속 수상",
-      "url": "https://n.news.naver.com/mnews/article/029/0003058125"
+      "title": "[속보] 10월 취업자 13만9000명 늘어…넉달째 10만명대",
+      "url": "https://n.news.naver.com/mnews/article/009/0005761931"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002430725"
+      "title": "2주택자와 결혼 뒤 ‘위장 미혼’ 무주택 청약… 의사 부부, 허위 퇴사해 저소득자 청약 당첨",
+      "url": "https://n.news.naver.com/mnews/article/023/0004008851"
     },
     {
-      "title": "더 정교해진 아틀라스 … 손가락만한 너트 꺼내 조립까지 뚝딱",
-      "url": "https://n.news.naver.com/mnews/article/009/0005761159"
+      "title": "“3분기 웃었지만 4분기는 글쎄” 백화점 3사…명품·증시 꺾이며 ‘정점’ 경고등(종합)",
+      "url": "https://n.news.naver.com/mnews/article/018/0006407421"
     },
     {
-      "title": "공정위, 배민·쿠팡 과징금 6319억…\"1·2위 동시 최혜대우, 담합같은 경쟁제한\"",
-      "url": "https://n.news.naver.com/mnews/article/031/0001073328"
+      "title": "코어위브 실적에 쏠린 '눈'…AI 투자심리 반등 분수령 될까",
+      "url": "https://n.news.naver.com/mnews/article/003/0014312518"
     },
     {
-      "title": "골드만삭스 “폭락한 한국 반도체株, 두 배 뛸 수도”",
-      "url": "https://n.news.naver.com/mnews/article/011/0004680228"
+      "title": "동원산업, 3분기 영업익 1.1% 증가…식자재·물류 성장",
+      "url": "https://n.news.naver.com/mnews/article/018/0006407464"
     },
     {
-      "title": "가덕신공항, 공사비 협상 남겨두고 설계부터…내년 상반기 착공 목표",
-      "url": "https://n.news.naver.com/mnews/article/005/0001883987"
+      "title": "차세대 센서·액추에이터 등 초혁신경제 프로젝트 신규 지정",
+      "url": "https://n.news.naver.com/mnews/article/277/0005840946"
     },
     {
-      "title": "‘엔비디아 쇼크’에도 필라델피아 반도체지수 6.86% 급등",
-      "url": "https://n.news.naver.com/mnews/article/005/0001884121"
+      "title": "정부, 부총리 직속 '양극화 TF' 가동…\"K자형 양극화 막는다\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009282400"
     },
     {
-      "title": "미래에셋운용, ‘TIGER 200 커버드콜액티브’ 출시…성장성·비과세 분배 결합",
-      "url": "https://n.news.naver.com/mnews/article/011/0004680146"
+      "title": "비트코인, 1억100만원선…美 물가지표에 촉각",
+      "url": "https://n.news.naver.com/mnews/article/003/0014311976"
     },
     {
-      "title": "수입 증가로 값 떨어진 염소고기…691농가에 50억원 보전",
-      "url": "https://n.news.naver.com/mnews/article/018/0006407162"
+      "title": "더본코리아, 우녹스 오븐에 한식 조리 프로그램 탑재 추진",
+      "url": "https://n.news.naver.com/mnews/article/001/0016434877"
     },
     {
-      "title": "'억대 부담금' 현실화?…반포현대, 재초환 179억 통지",
-      "url": "https://n.news.naver.com/mnews/article/057/0001977370"
+      "title": "삼성화재, 2.3조원 투입해 캐노피우스 경영권 확보",
+      "url": "https://n.news.naver.com/mnews/article/215/0001272237"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5242.97,
-      "change": 224.12,
-      "change_pct": 4.47
+      "value": 5213.36,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 664.41,
-      "change": 25.44,
-      "change_pct": 3.98
+      "value": 686.84,
+      "change": 0.0,
+      "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25253.14,
-      "change": 673.71,
-      "change_pct": 2.74
+      "value": 25065.88,
+      "change": -187.27,
+      "change_pct": -0.74
     },
     "usdkrw": {
-      "value": 1346.19,
-      "change": -16.51,
-      "change_pct": -1.21
+      "value": 1339.14,
+      "change": -4.7,
+      "change_pct": -0.35
     }
   },
   "gold": {
-    "price_usd": 4120.4,
-    "price_krw": 5546841,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 4040.9,
+    "price_krw": 5411330,
+    "change": -73.6,
+    "change_pct": -1.79
   },
-  "updated": "2026-11-10 12:09",
+  "updated": "2026-11-11 09:59",
   "error": null
 }
