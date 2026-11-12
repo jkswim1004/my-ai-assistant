@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "[속보] 10월 취업자 13만9000명 늘어…넉달째 10만명대",
-      "url": "https://n.news.naver.com/mnews/article/009/0005761931"
+      "title": "동작구 노들역세권에 938가구 공동주택 들어선다",
+      "url": "https://n.news.naver.com/mnews/article/014/0005603192"
     },
     {
-      "title": "2주택자와 결혼 뒤 ‘위장 미혼’ 무주택 청약… 의사 부부, 허위 퇴사해 저소득자 청약 당첨",
-      "url": "https://n.news.naver.com/mnews/article/023/0004008851"
+      "title": "반포 한강변 5007가구 대단지…'디에이치 반포124' 12월 분양",
+      "url": "https://n.news.naver.com/mnews/article/421/0009284880"
     },
     {
-      "title": "“3분기 웃었지만 4분기는 글쎄” 백화점 3사…명품·증시 꺾이며 ‘정점’ 경고등(종합)",
-      "url": "https://n.news.naver.com/mnews/article/018/0006407421"
+      "title": "JYP엔터, 어닝 서프라이즈에 장초반 급등[종목NOW]",
+      "url": "https://n.news.naver.com/mnews/article/014/0005603203"
     },
     {
-      "title": "코어위브 실적에 쏠린 '눈'…AI 투자심리 반등 분수령 될까",
-      "url": "https://n.news.naver.com/mnews/article/003/0014312518"
+      "title": "삼양식품, 베트남 공장 세운다…2186억 투자해 동남아 공략",
+      "url": "https://n.news.naver.com/mnews/article/015/0005352829"
     },
     {
-      "title": "동원산업, 3분기 영업익 1.1% 증가…식자재·물류 성장",
-      "url": "https://n.news.naver.com/mnews/article/018/0006407464"
+      "title": "'본업집중' 이마트, 분기매출 첫 5조 돌파",
+      "url": "https://n.news.naver.com/mnews/article/008/0005439922"
     },
     {
-      "title": "차세대 센서·액추에이터 등 초혁신경제 프로젝트 신규 지정",
-      "url": "https://n.news.naver.com/mnews/article/277/0005840946"
+      "title": "전남광주 스타트업에 2천억 투자…전국 최대 지역성장펀드 출범",
+      "url": "https://n.news.naver.com/mnews/article/079/0004208744"
     },
     {
-      "title": "정부, 부총리 직속 '양극화 TF' 가동…\"K자형 양극화 막는다\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009282400"
+      "title": "세종시에도 맥도날드 생긴다.. 첫 매장 13일 오픈",
+      "url": "https://n.news.naver.com/mnews/article/014/0005603128"
     },
     {
-      "title": "비트코인, 1억100만원선…美 물가지표에 촉각",
-      "url": "https://n.news.naver.com/mnews/article/003/0014311976"
+      "title": "신한금융 \"한국ESG기준원 ESG 평가 12년 연속 통합 A+ 등급\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016435913"
     },
     {
-      "title": "더본코리아, 우녹스 오븐에 한식 조리 프로그램 탑재 추진",
-      "url": "https://n.news.naver.com/mnews/article/001/0016434877"
+      "title": "롯데온, 플래티어와 맞손…AI로 브랜드 자사몰 운영 지원",
+      "url": "https://n.news.naver.com/mnews/article/011/0004681312"
     },
     {
-      "title": "삼성화재, 2.3조원 투입해 캐노피우스 경영권 확보",
-      "url": "https://n.news.naver.com/mnews/article/215/0001272237"
+      "title": "당정 “은행지주CEO 연임요건 강화…임원추천위 전원 독립이사로”",
+      "url": "https://n.news.naver.com/mnews/article/023/0004009197"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5213.36,
+      "value": 5399.65,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 686.84,
+      "value": 702.95,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25065.88,
-      "change": -187.27,
-      "change_pct": -0.74
+      "value": 25466.19,
+      "change": 400.32,
+      "change_pct": 1.6
     },
     "usdkrw": {
-      "value": 1339.14,
-      "change": -4.7,
-      "change_pct": -0.35
+      "value": 1333.78,
+      "change": -8.13,
+      "change_pct": -0.61
     }
   },
   "gold": {
-    "price_usd": 4040.9,
-    "price_krw": 5411330,
-    "change": -73.6,
-    "change_pct": -1.79
+    "price_usd": 3988.8,
+    "price_krw": 5320181,
+    "change": -41.4,
+    "change_pct": -1.03
   },
-  "updated": "2026-11-11 09:59",
+  "updated": "2026-11-12 11:06",
   "error": null
 }
