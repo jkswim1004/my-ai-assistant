@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "동작구 노들역세권에 938가구 공동주택 들어선다",
-      "url": "https://n.news.naver.com/mnews/article/014/0005603192"
+      "title": "디올 CEO \"한국은 중요한 시장\"…학위식에 재계 총수 대거 참석(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016438155"
     },
     {
-      "title": "반포 한강변 5007가구 대단지…'디에이치 반포124' 12월 분양",
-      "url": "https://n.news.naver.com/mnews/article/421/0009284880"
+      "title": "체코 원전 공기업 사장들 부른 산업장관… \"팀코리아 신뢰 훼손 단호히 대응\"",
+      "url": "https://n.news.naver.com/mnews/article/469/0000965256"
     },
     {
-      "title": "JYP엔터, 어닝 서프라이즈에 장초반 급등[종목NOW]",
-      "url": "https://n.news.naver.com/mnews/article/014/0005603203"
+      "title": "강남 내릴 때 한강벨트는 올랐다…서울 토허 신청 두 달째 증가 [부동산360]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002722852"
     },
     {
-      "title": "삼양식품, 베트남 공장 세운다…2186억 투자해 동남아 공략",
-      "url": "https://n.news.naver.com/mnews/article/015/0005352829"
+      "title": "은행연합회 차기 회장 후보군 6명으로 확정",
+      "url": "https://n.news.naver.com/mnews/article/052/0002432239"
     },
     {
-      "title": "'본업집중' 이마트, 분기매출 첫 5조 돌파",
-      "url": "https://n.news.naver.com/mnews/article/008/0005439922"
+      "title": "현대차·쏘카, 자율주행 생태계 공동 구축 나선다",
+      "url": "https://n.news.naver.com/mnews/article/629/0000551561"
     },
     {
-      "title": "전남광주 스타트업에 2천억 투자…전국 최대 지역성장펀드 출범",
-      "url": "https://n.news.naver.com/mnews/article/079/0004208744"
+      "title": "\"태국서 K패션 영토 넓힌다\"…무신사, 현지 유통기업과 맞손",
+      "url": "https://n.news.naver.com/mnews/article/014/0005603837"
     },
     {
-      "title": "세종시에도 맥도날드 생긴다.. 첫 매장 13일 오픈",
-      "url": "https://n.news.naver.com/mnews/article/014/0005603128"
+      "title": "성동·강동 하락에도 서울 집값 92주 연속↑…“내년도 오른다”",
+      "url": "https://n.news.naver.com/mnews/article/018/0006409065"
     },
     {
-      "title": "신한금융 \"한국ESG기준원 ESG 평가 12년 연속 통합 A+ 등급\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016435913"
+      "title": "울주복지재단, 수능 앞둔 직원 자녀에게 응원 선물 전달",
+      "url": "https://n.news.naver.com/mnews/article/001/0016439040"
     },
     {
-      "title": "롯데온, 플래티어와 맞손…AI로 브랜드 자사몰 운영 지원",
-      "url": "https://n.news.naver.com/mnews/article/011/0004681312"
+      "title": "5년 연속 ESG 경영 ‘A클래스’ 입증한 한전KPS…환경·사회·지배구조 전 영역 ‘A’",
+      "url": "https://n.news.naver.com/mnews/article/011/0004681457"
     },
     {
-      "title": "당정 “은행지주CEO 연임요건 강화…임원추천위 전원 독립이사로”",
-      "url": "https://n.news.naver.com/mnews/article/023/0004009197"
+      "title": "미래에셋, 3분기 4056억 순손실…적자 전환",
+      "url": "https://n.news.naver.com/mnews/article/020/0003762060"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5399.65,
+      "value": 5470.6,
       "change": 0.0,
       "change_pct": 0.0
     },
     "kosdaq": {
-      "value": 702.95,
+      "value": 722.69,
       "change": 0.0,
       "change_pct": 0.0
     },
     "nasdaq": {
-      "value": 25466.19,
-      "change": 400.32,
-      "change_pct": 1.6
+      "value": 25366.09,
+      "change": -100.1,
+      "change_pct": -0.39
     },
     "usdkrw": {
-      "value": 1333.78,
-      "change": -8.13,
-      "change_pct": -0.61
+      "value": 1330.56,
+      "change": -5.7,
+      "change_pct": -0.43
     }
   },
   "gold": {
-    "price_usd": 3988.8,
-    "price_krw": 5320181,
-    "change": -41.4,
-    "change_pct": -1.03
+    "price_usd": 3915.0,
+    "price_krw": 5209142,
+    "change": -85.5,
+    "change_pct": -2.14
   },
-  "updated": "2026-11-12 11:06",
+  "updated": "2026-11-13 10:40",
   "error": null
 }
