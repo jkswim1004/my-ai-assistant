@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "삼성메디슨, 홍천에 신공장 준공…\"2030년 생산능력 두 배로\"",
-      "url": "https://n.news.naver.com/mnews/article/015/0005353667"
+      "title": "4050·외국인도 열광…1만4000명 찾는 ‘컬뷰페’ 가보니 [르포]",
+      "url": "https://n.news.naver.com/mnews/article/016/0002723349"
     },
     {
-      "title": "롯데건설, 3분기 만에 작년 한 해 영업익 2배…정비수주 4조 돌파",
-      "url": "https://n.news.naver.com/mnews/article/277/0005842528"
+      "title": "다우 소폭 상승, 나스닥 약세…반도체주 급락에 기술주 부담[서울데이터랩]",
+      "url": "https://n.news.naver.com/mnews/article/081/0003699354"
     },
     {
-      "title": "파주 메추리·진천 종오리 농장서 ‘H5형 AI 항원’ 검출",
-      "url": "https://n.news.naver.com/mnews/article/662/0000108327"
+      "title": "'192만명 가입' 노란우산 개인정보 유출 가능성",
+      "url": "https://n.news.naver.com/mnews/article/277/0005842598"
     },
     {
-      "title": "현대차, 쏘카·에이펙스모빌리티와 자율주행 데이터 확보 협력",
-      "url": "https://n.news.naver.com/mnews/article/277/0005842212"
+      "title": "‘빚투 30% 삼전·하닉에 몰렸다’…변동성 키운 원인?",
+      "url": "https://n.news.naver.com/mnews/article/021/0002832804"
     },
     {
-      "title": "한화, 국내 첫 1만파운드급 항공엔진 개발한다…1천773억 규모",
-      "url": "https://n.news.naver.com/mnews/article/001/0016441023"
+      "title": "“60억 반포 아파트도 ‘미달 흑역사’ 있었다”…청약 부진 단지들 다시볼까",
+      "url": "https://n.news.naver.com/mnews/article/009/0005763650"
     },
     {
-      "title": "배추·무 공급 과잉 우려에…정부, 수출 확대 추진",
-      "url": "https://n.news.naver.com/mnews/article/422/0000925934"
+      "title": "청약자금 19조원 몰린 4곳…상장 첫날도 웃을까[공모주달력]",
+      "url": "https://n.news.naver.com/mnews/article/648/0000052631"
     },
     {
-      "title": "서학개미, '젠슨 황 스캔들' 엔비디아 1천억 원 순매수",
-      "url": "https://n.news.naver.com/mnews/article/214/0001535581"
+      "title": "중기부, 모두의 창업 개인정보 유출 사흘 만에 사과…\"무겁게 받아들여\"",
+      "url": "https://n.news.naver.com/mnews/article/656/0000192384"
     },
     {
       "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/055/0001402962"
+      "url": "https://n.news.naver.com/mnews/article/052/0002432632"
     },
     {
-      "title": "은행연합회장 후보 6명 압축…'민간 5명 vs 관료 1명' 경쟁(종합)",
-      "url": "https://n.news.naver.com/mnews/article/003/0014320200"
+      "title": "美 연준, AI 데이터센터 '순환금융' 경고…첨단 컴퓨팅 부채 발행 6800억달러",
+      "url": "https://n.news.naver.com/mnews/article/138/0002248570"
     },
     {
-      "title": "더본코리아, 3Q 영업적자 37억…\"손실 규모 15% 축소\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014321473"
+      "title": "엔비디아 위기는 삼전에 기회? '깐부' 젠슨 황 스캔들의 역설 [주말 Q&A]",
+      "url": "https://n.news.naver.com/mnews/article/665/0000008568"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 5290.53,
+      "change": -52.2,
+      "change_pct": -0.98
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 699.66,
+      "change": 3.13,
+      "change_pct": 0.45
     },
     "nasdaq": {
       "value": 25136.27,
@@ -58,17 +58,17 @@
       "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1333.78,
-      "change": -2.48,
-      "change_pct": -0.19
+      "value": 1336.2,
+      "change": 2.42,
+      "change_pct": 0.18
     }
   },
   "gold": {
-    "price_usd": 3887.6,
-    "price_krw": 5185203,
-    "change": 2.3,
-    "change_pct": 0.06
+    "price_usd": 3886.3,
+    "price_krw": 5192874,
+    "change": 1.0,
+    "change_pct": 0.03
   },
-  "updated": "2026-11-14 10:17",
+  "updated": "2026-11-15 09:45",
   "error": null
 }
