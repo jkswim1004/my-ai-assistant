@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "4050·외국인도 열광…1만4000명 찾는 ‘컬뷰페’ 가보니 [르포]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002723349"
+      "title": "최태원 “AI 플라이휠로 선순환 구축…토큰 이코노미 선도하자”",
+      "url": "https://n.news.naver.com/mnews/article/011/0004682234"
     },
     {
-      "title": "다우 소폭 상승, 나스닥 약세…반도체주 급락에 기술주 부담[서울데이터랩]",
-      "url": "https://n.news.naver.com/mnews/article/081/0003699354"
+      "title": "韓, 이번주 엔비디아 실적·앤스로픽 IPO 영향 클 것[굿모닝 증시]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005842858"
     },
     {
-      "title": "'192만명 가입' 노란우산 개인정보 유출 가능성",
-      "url": "https://n.news.naver.com/mnews/article/277/0005842598"
+      "title": "LH, 건설업계와 공공주택 신속공급 간담회…\"민간 협조 필요\"",
+      "url": "https://n.news.naver.com/mnews/article/055/0001403101"
     },
     {
-      "title": "‘빚투 30% 삼전·하닉에 몰렸다’…변동성 키운 원인?",
-      "url": "https://n.news.naver.com/mnews/article/021/0002832804"
+      "title": "삼전·하이닉스에 ‘빚투’ 6.9조…신용융자 27% 쏠렸다 [이런국장 저런주식]",
+      "url": "https://n.news.naver.com/mnews/article/011/0004682250"
     },
     {
-      "title": "“60억 반포 아파트도 ‘미달 흑역사’ 있었다”…청약 부진 단지들 다시볼까",
-      "url": "https://n.news.naver.com/mnews/article/009/0005763650"
+      "title": "\"매일매일 무섭게 팔린다\" 조용하던 백종원, 직접 나서 소통까지…'빽다방' 中 진출 속도",
+      "url": "https://n.news.naver.com/mnews/article/277/0005842874"
     },
     {
-      "title": "청약자금 19조원 몰린 4곳…상장 첫날도 웃을까[공모주달력]",
-      "url": "https://n.news.naver.com/mnews/article/648/0000052631"
+      "title": "국내 1천대 기업 여성 CEO 고작 3.3%…3명 중 2명은 오너 일가",
+      "url": "https://n.news.naver.com/mnews/article/666/0000132186"
     },
     {
-      "title": "중기부, 모두의 창업 개인정보 유출 사흘 만에 사과…\"무겁게 받아들여\"",
-      "url": "https://n.news.naver.com/mnews/article/656/0000192384"
+      "title": "9000만원 내준 비트코인 세달 만에 최저…금리·수급 겹악재 덮쳤다",
+      "url": "https://n.news.naver.com/mnews/article/022/0004175233"
     },
     {
-      "title": "동영상뉴스",
-      "url": "https://n.news.naver.com/mnews/article/052/0002432632"
+      "title": "AI 부정행위 '비상'…세무사 수석 합격자, 무효 처리 추진",
+      "url": "https://n.news.naver.com/mnews/article/057/0001978352"
     },
     {
-      "title": "美 연준, AI 데이터센터 '순환금융' 경고…첨단 컴퓨팅 부채 발행 6800억달러",
-      "url": "https://n.news.naver.com/mnews/article/138/0002248570"
+      "title": "삼성SDI, 미국서 16GWh 규모 LFP 배터리 수주",
+      "url": "https://n.news.naver.com/mnews/article/366/0001204954"
     },
     {
-      "title": "엔비디아 위기는 삼전에 기회? '깐부' 젠슨 황 스캔들의 역설 [주말 Q&A]",
-      "url": "https://n.news.naver.com/mnews/article/665/0000008568"
+      "title": "전세보증금 6년 새 35% 뛰었다…대출은 53% 늘어 세입자 부담 가중",
+      "url": "https://n.news.naver.com/mnews/article/025/0003565227"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5290.53,
-      "change": -52.2,
-      "change_pct": -0.98
+      "value": 5291.42,
+      "change": 0.89,
+      "change_pct": 0.02
     },
     "kosdaq": {
-      "value": 699.66,
-      "change": 3.13,
-      "change_pct": 0.45
+      "value": 695.81,
+      "change": -3.85,
+      "change_pct": -0.55
     },
     "nasdaq": {
       "value": 25136.27,
@@ -58,17 +58,17 @@
       "change_pct": -0.91
     },
     "usdkrw": {
-      "value": 1336.2,
-      "change": 2.42,
-      "change_pct": 0.18
+      "value": 1334.48,
+      "change": 0.7,
+      "change_pct": 0.05
     }
   },
   "gold": {
-    "price_usd": 3886.3,
-    "price_krw": 5192874,
-    "change": 1.0,
-    "change_pct": 0.03
+    "price_usd": 3889.0,
+    "price_krw": 5189792,
+    "change": 2.7,
+    "change_pct": 0.07
   },
-  "updated": "2026-11-15 09:45",
+  "updated": "2026-11-16 09:45",
   "error": null
 }
