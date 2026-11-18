@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "AI 호황에 쌓인 실탄…'삼전닉스' 1년 만에 193조원 증가",
-      "url": "https://n.news.naver.com/mnews/article/050/0000113318"
+      "title": "금융당국 \"IT 자산 스스로 촘촘히 관리하라\"…보안 '약한 고리' 차단",
+      "url": "https://n.news.naver.com/mnews/article/079/0004210906"
     },
     {
-      "title": "K색조 육성 본격화 올리브영…첫 색조 특화 매장 홍대에",
-      "url": "https://n.news.naver.com/mnews/article/009/0005764713"
+      "title": "현대모비스, 협력사와 3년간 860건 공동 특허…상생성장",
+      "url": "https://n.news.naver.com/mnews/article/422/0000927365"
     },
     {
-      "title": "경북 포도 수출 1억 달러 돌파… 전국 수출액의 80.5% 차지",
-      "url": "https://n.news.naver.com/mnews/article/081/0003700114"
+      "title": "현대차 아틀라스, 자동차 밖 첫 시험대는 ‘美 반도체 공장’",
+      "url": "https://n.news.naver.com/mnews/article/023/0004010287"
     },
     {
-      "title": "동부건설, 3분기 영업익 146억원…신규 수주 3조원 돌파",
-      "url": "https://n.news.naver.com/mnews/article/016/0002724471"
+      "title": "국토부, 올해 사망사고 낸 대형건설사 12곳 소집…추락사고 집중 점검",
+      "url": "https://n.news.naver.com/mnews/article/079/0004211034"
     },
     {
-      "title": "수능 영어듣기 35분간 전국 항공기 이·착륙 통제… 드론 비행도 금지",
-      "url": "https://n.news.naver.com/mnews/article/020/0003763028"
+      "title": "한화시스템, 美에 단거리 AESA 레이다 첫 수출",
+      "url": "https://n.news.naver.com/mnews/article/629/0000552984"
     },
     {
-      "title": "온코닉 \"비만치료제 근육 손실 개선 가능성 확인\"",
-      "url": "https://n.news.naver.com/mnews/article/277/0005843516"
+      "title": "하나증권, 이지스운용·딜로이트 안진과 맞손…초고액자산가 공략 강화",
+      "url": "https://n.news.naver.com/mnews/article/014/0005605944"
     },
     {
-      "title": "중국차 누가 타나 했는데…한국이 아시아 최대 고객 됐다 [이슈+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005354708"
+      "title": "롯데바이오, 송도 1공장 첫 상업수주 뚫었다…‘신유열 경영’ 본궤도",
+      "url": "https://n.news.naver.com/mnews/article/016/0002724537"
     },
     {
-      "title": "\"황올·떡볶이에 외국인 지갑 열렸다\"...BBQ, 홍대·명동 매출 40%↑",
-      "url": "https://n.news.naver.com/mnews/article/014/0005605330"
+      "title": "KDB생명 매각 일곱 번째 무산… 산은, 한투금융과 협상 종료",
+      "url": "https://n.news.naver.com/mnews/article/469/0000966228"
     },
     {
-      "title": "송도캠퍼스 준공 앞둔 롯데바이오…글로벌 제약사와 '상업 계약'",
-      "url": "https://n.news.naver.com/mnews/article/119/0003156024"
+      "title": "GC녹십자엠에스, 한타바이러스 진단 제품군 확대…2종 수출허가",
+      "url": "https://n.news.naver.com/mnews/article/011/0004683408"
     },
     {
-      "title": "HD현대, 북미 태양광·배터리 '동시 공략'",
-      "url": "https://n.news.naver.com/mnews/article/014/0005605057"
+      "title": "젠슨 황 부재 속 엔비디아 4일 연속 하락세에 뉴욕 증시 동반 마감 하락...S&P 500 7월 이후 최저",
+      "url": "https://n.news.naver.com/mnews/article/052/0002434335"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5042.0,
-      "change": -58.5,
-      "change_pct": -1.15
+      "value": 4964.29,
+      "change": -4.19,
+      "change_pct": -0.08
     },
     "kosdaq": {
-      "value": 659.25,
-      "change": -6.4,
-      "change_pct": -0.96
+      "value": 648.19,
+      "change": -1.87,
+      "change_pct": -0.29
     },
     "nasdaq": {
-      "value": 24509.76,
-      "change": -626.51,
-      "change_pct": -2.49
+      "value": 24328.38,
+      "change": -181.38,
+      "change_pct": -0.74
     },
     "usdkrw": {
-      "value": 1339.22,
-      "change": 5.97,
-      "change_pct": 0.45
+      "value": 1328.94,
+      "change": -6.73,
+      "change_pct": -0.5
     }
   },
   "gold": {
-    "price_usd": 3874.9,
-    "price_krw": 5189343,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 3808.7,
+    "price_krw": 5061533,
+    "change": -44.3,
+    "change_pct": -1.15
   },
-  "updated": "2026-11-17 12:23",
+  "updated": "2026-11-18 11:43",
   "error": null
 }
