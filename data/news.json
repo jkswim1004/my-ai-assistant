@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "美 반도체 급락…프리마켓서 삼성전자 4%·SK하이닉스 5% 하락",
-      "url": "https://n.news.naver.com/mnews/article/421/0009300498"
+      "title": "'다시 은행맨' 이재근호 닻 올렸다…'5살 젊어진' KB, 세대교체 바람 부나",
+      "url": "https://n.news.naver.com/mnews/article/421/0009300934"
     },
     {
-      "title": "앤트로픽, 공모가 83달러 확정…스페이스X 넘어 역대 최대 IPO [앤트로픽 상장]",
-      "url": "https://n.news.naver.com/mnews/article/016/0002725693"
+      "title": "비트코인, 4개월 만에 6만달러 붕괴…고점 대비 ‘반토막’",
+      "url": "https://n.news.naver.com/mnews/article/009/0005766966"
     },
     {
-      "title": "생산자물가, 3개월 만에 하락 전환…사과·돼지고기 등 먹거리 물가 8.3% 내려",
-      "url": "https://n.news.naver.com/mnews/article/277/0005845363"
+      "title": "컬리서 1만여명 규모 개인정보 유출…\"손해 발생 시 전액 보상\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004212290"
     },
     {
-      "title": "\"행정소송 불사\"…전국 25개 조합장, 재초환 초읽기에 공동대응 예고",
-      "url": "https://n.news.naver.com/mnews/article/277/0005845065"
+      "title": "올리브영, 첫 테크 콘퍼런스… “글로벌·AI로 쇼핑 경쟁력 높인다”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001206146"
     },
     {
-      "title": "LG, CEO는 지키고 사업 조직은 새판…기술 인재 전진 배치",
-      "url": "https://n.news.naver.com/mnews/article/025/0003566516"
+      "title": "외국인, 지난달 우리나라 주식 26조 원 '팔자'‥두 달 연속 순매도",
+      "url": "https://n.news.naver.com/mnews/article/214/0001536816"
     },
     {
-      "title": "한국 수출 1조달러 돌파…일본 넘어 4대 수출 강국",
-      "url": "https://n.news.naver.com/mnews/article/215/0001273276"
+      "title": "내년에도 공동주택 공시가격 현실화율 69%…\"현 수준으로 유지\"",
+      "url": "https://n.news.naver.com/mnews/article/119/0003157762"
     },
     {
-      "title": "선박·굴착기 장식한 이색 트리… HD현대중, 울산 동구에 '희망 트리 거리' 조성",
-      "url": "https://n.news.naver.com/mnews/article/469/0000966580"
+      "title": "한수원 \"대우건설 컨소시엄과 두코바니 원전 공동협력 종료\"",
+      "url": "https://n.news.naver.com/mnews/article/215/0001273403"
     },
     {
-      "title": "코스피, 장중 낙폭 5% 가까이 확대…4900선도 내줘",
-      "url": "https://n.news.naver.com/mnews/article/003/0014334978"
+      "title": "오스코텍, 서스틴베스트 ESG 평가 A등급…직전보다 두 단계↑",
+      "url": "https://n.news.naver.com/mnews/article/366/0001206280"
     },
     {
-      "title": "삼성디스플레이, '지스타 2026'서 QD-OLED 모니터 92대 선봬",
-      "url": "https://n.news.naver.com/mnews/article/031/0001076861"
+      "title": "서울 집값 용산·동작도 하락했지만… 외곽은 여전히 상승",
+      "url": "https://n.news.naver.com/mnews/article/005/0001886359"
     },
     {
-      "title": "NS홈쇼핑 조항목 대표 연임…홈쇼핑·온라인 사업 경쟁력 강화",
-      "url": "https://n.news.naver.com/mnews/article/001/0016453510"
+      "title": "'서민 급전' 카드론 5개월 만에 반등…결제성 리볼빙 7개월째 ↑",
+      "url": "https://n.news.naver.com/mnews/article/421/0009301951"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4913.86,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "kosdaq": {
-      "value": 655.86,
-      "change": 0.0,
-      "change_pct": 0.0
+      "value": NaN,
+      "change": NaN,
+      "change_pct": NaN
     },
     "nasdaq": {
-      "value": 23879.2,
-      "change": -550.68,
-      "change_pct": -2.25
+      "value": 22617.73,
+      "change": -1261.47,
+      "change_pct": -5.28
     },
     "usdkrw": {
-      "value": 1337.98,
-      "change": 7.58,
-      "change_pct": 0.57
+      "value": 1334.79,
+      "change": 4.39,
+      "change_pct": 0.33
     }
   },
   "gold": {
-    "price_usd": 3566.7,
-    "price_krw": 4772173,
-    "change": -175.2,
-    "change_pct": -4.68
+    "price_usd": 3539.0,
+    "price_krw": 4723821,
+    "change": -146.5,
+    "change_pct": -3.98
   },
-  "updated": "2026-11-20 11:00",
+  "updated": "2026-11-21 10:57",
   "error": null
 }
