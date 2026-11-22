@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "'다시 은행맨' 이재근호 닻 올렸다…'5살 젊어진' KB, 세대교체 바람 부나",
-      "url": "https://n.news.naver.com/mnews/article/421/0009300934"
+      "title": "최태원 “AI 시대 대학 교육 새로 짜야”…한일 산학 협력 제안",
+      "url": "https://n.news.naver.com/mnews/article/277/0005845921"
     },
     {
-      "title": "비트코인, 4개월 만에 6만달러 붕괴…고점 대비 ‘반토막’",
-      "url": "https://n.news.naver.com/mnews/article/009/0005766966"
+      "title": "\"대전 1억·대구 6천\"…과천·광명·수원도 억대 부담금 예고",
+      "url": "https://n.news.naver.com/mnews/article/001/0016455987"
     },
     {
-      "title": "컬리서 1만여명 규모 개인정보 유출…\"손해 발생 시 전액 보상\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004212290"
+      "title": "MBK, 갤럭시 S펜 핵심 공급사 와콤 인수…1조1천600억 규모",
+      "url": "https://n.news.naver.com/mnews/article/374/0000545074"
     },
     {
-      "title": "올리브영, 첫 테크 콘퍼런스… “글로벌·AI로 쇼핑 경쟁력 높인다”",
-      "url": "https://n.news.naver.com/mnews/article/366/0001206146"
+      "title": "동영상뉴스",
+      "url": "https://n.news.naver.com/mnews/article/422/0000928558"
     },
     {
-      "title": "외국인, 지난달 우리나라 주식 26조 원 '팔자'‥두 달 연속 순매도",
-      "url": "https://n.news.naver.com/mnews/article/214/0001536816"
+      "title": "삼성전자, 주당 4601원씩 '30조 배당' 27일 지급…증시 반등 이끌까",
+      "url": "https://n.news.naver.com/mnews/article/123/0002394551"
     },
     {
-      "title": "내년에도 공동주택 공시가격 현실화율 69%…\"현 수준으로 유지\"",
-      "url": "https://n.news.naver.com/mnews/article/119/0003157762"
+      "title": "수소이온 거르고 700바 초고압 견딘다…수소경제 키우는 소재·부품 [K수소, 녹색성장의 판을 바꾸다]",
+      "url": "https://n.news.naver.com/mnews/article/003/0014337245"
     },
     {
-      "title": "한수원 \"대우건설 컨소시엄과 두코바니 원전 공동협력 종료\"",
-      "url": "https://n.news.naver.com/mnews/article/215/0001273403"
+      "title": "ETF 투자하는 서학개미야, 2027년 키워드는 ○○○야![주末머니]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005845835"
     },
     {
-      "title": "오스코텍, 서스틴베스트 ESG 평가 A등급…직전보다 두 단계↑",
-      "url": "https://n.news.naver.com/mnews/article/366/0001206280"
+      "title": "\"30대가 무슨 돈으로 12억을…\" 고가주택 보유자 70% 급증",
+      "url": "https://n.news.naver.com/mnews/article/015/0005356637"
     },
     {
-      "title": "서울 집값 용산·동작도 하락했지만… 외곽은 여전히 상승",
-      "url": "https://n.news.naver.com/mnews/article/005/0001886359"
+      "title": "10개월 전으로 돌아간 코스피",
+      "url": "https://n.news.naver.com/mnews/article/023/0004010928"
     },
     {
-      "title": "'서민 급전' 카드론 5개월 만에 반등…결제성 리볼빙 7개월째 ↑",
-      "url": "https://n.news.naver.com/mnews/article/421/0009301951"
+      "title": "하나금융, 취약계층 어르신 1000명에 주거 안전용품·보행보조기 지원",
+      "url": "https://n.news.naver.com/mnews/article/030/0003488173"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 4869.96,
+      "change": -267.93,
+      "change_pct": -5.21
     },
     "kosdaq": {
-      "value": NaN,
-      "change": NaN,
-      "change_pct": NaN
+      "value": 645.68,
+      "change": -39.13,
+      "change_pct": -5.71
     },
     "nasdaq": {
       "value": 22617.73,
@@ -64,11 +64,11 @@
     }
   },
   "gold": {
-    "price_usd": 3539.0,
-    "price_krw": 4723821,
-    "change": -146.5,
-    "change_pct": -3.98
+    "price_usd": 3515.4,
+    "price_krw": 4692320,
+    "change": -170.1,
+    "change_pct": -4.62
   },
-  "updated": "2026-11-21 10:57",
+  "updated": "2026-11-22 09:56",
   "error": null
 }
