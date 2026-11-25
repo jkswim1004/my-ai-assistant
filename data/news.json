@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "“기술유출은 미래 일자리 위협”…재계·학계, 경제안보 강화 한목소리 [2026 산업보안 컨퍼런스]",
-      "url": "https://n.news.naver.com/mnews/article/243/0000106130"
+      "title": "전기차 미보유자 49% “5년 내 구매”…관심 1년 새 두 배 커져",
+      "url": "https://n.news.naver.com/mnews/article/011/0004685476"
     },
     {
-      "title": "코스피, 젠슨 황 복귀에 5%대 급반등…매수 사이드카 발동",
-      "url": "https://n.news.naver.com/mnews/article/030/0003488880"
+      "title": "CJ프레시웨이 ‘기부금·상품권 영업’ 혐의…공정위 심판대 오른다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002728319"
     },
     {
-      "title": "신도시 교통대책 38개 집중 관리…\"광역교통시설 구축 속도\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016460077"
+      "title": "한전, 해커와 협상설 일축…\"추가 접촉·협상한 사실 없어\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014342522"
     },
     {
-      "title": "바다와 금융의 미래…‘2026 부산 해양금융위크’ 개최",
-      "url": "https://n.news.naver.com/mnews/article/016/0002727708"
+      "title": "\"운 좋으면 따고 나쁘면 잃는 도박판\"…올해 사이드카 101회 [분석+]",
+      "url": "https://n.news.naver.com/mnews/article/015/0005357760"
     },
     {
-      "title": "삼성전자 임원 승진 30명 줄었는데…여성은 역대 최다",
-      "url": "https://n.news.naver.com/mnews/article/123/0002394682"
+      "title": "삼성전기, AI 부품 선점 초점…임원 15명 승진",
+      "url": "https://n.news.naver.com/mnews/article/215/0001273748"
     },
     {
-      "title": "삼성SDI, 2027년 정기 인사…부사장 4명 등 11명 승진",
-      "url": "https://n.news.naver.com/mnews/article/015/0005357493"
+      "title": "[단독]속도 관건인 반도체 팹, 건설 인력난… “전역 예정 軍간부 취업 지원 검토”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003764974"
     },
     {
-      "title": "현대로템, 무보·하나은행과 방산 협력사에 3020억원 금융지원",
-      "url": "https://n.news.naver.com/mnews/article/008/0005445430"
+      "title": "다올투자證 경영권 매각설",
+      "url": "https://n.news.naver.com/mnews/article/009/0005768374"
     },
     {
-      "title": "성수동 무신사 사옥 매각 본격화…주관사에 에스원·JLL 선정 [시그널]",
-      "url": "https://n.news.naver.com/mnews/article/011/0004685233"
+      "title": "현대모비스, 램프사업 매각 탄력…로봇·전장에 집중 속도",
+      "url": "https://n.news.naver.com/mnews/article/016/0002727732"
     },
     {
-      "title": "포스코그룹, 미국 셰일가스전 인수 완료…북미 생산거점 확보",
-      "url": "https://n.news.naver.com/mnews/article/011/0004685467"
+      "title": "샤힌 효과 기대 속 석화업계 공급과잉 우려…구조조정 부담도",
+      "url": "https://n.news.naver.com/mnews/article/001/0016462172"
     },
     {
-      "title": "3년6개월 걸리던 서울 정비사업 조합설립, 4개월 만에 끝냈다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014341748"
+      "title": "거래소 지분 제한 '위헌 논란'…법인시장 개방 명확한 가이드라인도 과제",
+      "url": "https://n.news.naver.com/mnews/article/018/0006414806"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 5053.86,
-      "change": 345.32,
-      "change_pct": 7.33
+      "value": 4728.44,
+      "change": -277.59,
+      "change_pct": -5.55
     },
     "kosdaq": {
-      "value": 668.63,
-      "change": 33.18,
-      "change_pct": 5.22
+      "value": 651.81,
+      "change": -14.07,
+      "change_pct": -2.11
     },
     "nasdaq": {
-      "value": 24089.56,
-      "change": 1471.83,
-      "change_pct": 6.51
+      "value": 23733.54,
+      "change": -356.03,
+      "change_pct": -1.48
     },
     "usdkrw": {
-      "value": 1341.87,
-      "change": -2.44,
-      "change_pct": -0.18
+      "value": 1343.18,
+      "change": 2.16,
+      "change_pct": 0.16
     }
   },
   "gold": {
-    "price_usd": 3651.4,
-    "price_krw": 4899703,
-    "change": 0.0,
-    "change_pct": 0.0
+    "price_usd": 3552.2,
+    "price_krw": 4771243,
+    "change": -99.2,
+    "change_pct": -2.72
   },
-  "updated": "2026-11-24 14:07",
+  "updated": "2026-11-25 12:56",
   "error": null
 }
