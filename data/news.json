@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "전기차 미보유자 49% “5년 내 구매”…관심 1년 새 두 배 커져",
-      "url": "https://n.news.naver.com/mnews/article/011/0004685476"
+      "title": "서울시, 장기안심주택 7천호 모집…중장년·예비 신혼부부 지원",
+      "url": "https://n.news.naver.com/mnews/article/001/0016464818"
     },
     {
-      "title": "CJ프레시웨이 ‘기부금·상품권 영업’ 혐의…공정위 심판대 오른다",
-      "url": "https://n.news.naver.com/mnews/article/016/0002728319"
+      "title": "사령탑 유지한 삼성 전자계열사…미래 먹거리 확보 속도",
+      "url": "https://n.news.naver.com/mnews/article/018/0006415438"
     },
     {
-      "title": "한전, 해커와 협상설 일축…\"추가 접촉·협상한 사실 없어\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014342522"
+      "title": "은행 자본규제 풀어 서민대출 확대…은행 돈으로 저축은행서 연 10% 대출 공급",
+      "url": "https://n.news.naver.com/mnews/article/277/0005848094"
     },
     {
-      "title": "\"운 좋으면 따고 나쁘면 잃는 도박판\"…올해 사이드카 101회 [분석+]",
-      "url": "https://n.news.naver.com/mnews/article/015/0005357760"
+      "title": "기준금리 연 3.25%로 인상...내년 경제성장률 전망치 4.1%",
+      "url": "https://n.news.naver.com/mnews/article/052/0002438255"
     },
     {
-      "title": "삼성전기, AI 부품 선점 초점…임원 15명 승진",
-      "url": "https://n.news.naver.com/mnews/article/215/0001273748"
+      "title": "공정위, 애플 아이폰16 AI ‘기만 광고’ 제재 심의",
+      "url": "https://n.news.naver.com/mnews/article/119/0003159800"
     },
     {
-      "title": "[단독]속도 관건인 반도체 팹, 건설 인력난… “전역 예정 軍간부 취업 지원 검토”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003764974"
+      "title": "삼성전자서비스, AI 시대 맞춰 엔지니어 기술·안전 역량 강화",
+      "url": "https://n.news.naver.com/mnews/article/031/0001078507"
     },
     {
-      "title": "다올투자證 경영권 매각설",
-      "url": "https://n.news.naver.com/mnews/article/009/0005768374"
+      "title": "10월 가계대출 금리 5% 돌파…주담대 14년 7개월 만에 최고",
+      "url": "https://n.news.naver.com/mnews/article/055/0001405702"
     },
     {
-      "title": "현대모비스, 램프사업 매각 탄력…로봇·전장에 집중 속도",
-      "url": "https://n.news.naver.com/mnews/article/016/0002727732"
+      "title": "현대차그룹, 무뇨스·송호성 유임…일부 계열사만 ‘핀셋 교체’",
+      "url": "https://n.news.naver.com/mnews/article/023/0004011854"
     },
     {
-      "title": "샤힌 효과 기대 속 석화업계 공급과잉 우려…구조조정 부담도",
-      "url": "https://n.news.naver.com/mnews/article/001/0016462172"
+      "title": "“신사업 가속화하며 인공지능 전환 주력”… 삼성 금융계열사, 미래 겨냥한 임원인사",
+      "url": "https://n.news.naver.com/mnews/article/021/0002835739"
     },
     {
-      "title": "거래소 지분 제한 '위헌 논란'…법인시장 개방 명확한 가이드라인도 과제",
-      "url": "https://n.news.naver.com/mnews/article/018/0006414806"
+      "title": "공정위원장, 중소기업계 만나 현장 애로·건의사항 청취",
+      "url": "https://n.news.naver.com/mnews/article/001/0016464916"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4728.44,
-      "change": -277.59,
-      "change_pct": -5.55
+      "value": 4727.6,
+      "change": 30.09,
+      "change_pct": 0.64
     },
     "kosdaq": {
-      "value": 651.81,
-      "change": -14.07,
-      "change_pct": -2.11
+      "value": 659.07,
+      "change": 8.43,
+      "change_pct": 1.3
     },
     "nasdaq": {
-      "value": 23733.54,
-      "change": -356.03,
-      "change_pct": -1.48
+      "value": 23585.8,
+      "change": -147.74,
+      "change_pct": -0.62
     },
     "usdkrw": {
-      "value": 1343.18,
-      "change": 2.16,
-      "change_pct": 0.16
+      "value": 1343.58,
+      "change": 0.93,
+      "change_pct": 0.07
     }
   },
   "gold": {
-    "price_usd": 3552.2,
-    "price_krw": 4771243,
-    "change": -99.2,
-    "change_pct": -2.72
+    "price_usd": 3610.4,
+    "price_krw": 4850861,
+    "change": 48.5,
+    "change_pct": 1.36
   },
-  "updated": "2026-11-25 12:56",
+  "updated": "2026-11-26 12:22",
   "error": null
 }
