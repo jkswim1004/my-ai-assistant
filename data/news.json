@@ -1,56 +1,56 @@
 {
   "news": [
     {
-      "title": "서울시, 장기안심주택 7천호 모집…중장년·예비 신혼부부 지원",
-      "url": "https://n.news.naver.com/mnews/article/001/0016464818"
+      "title": "‘눈덩이 이자’가 굴러온다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003703654"
     },
     {
-      "title": "사령탑 유지한 삼성 전자계열사…미래 먹거리 확보 속도",
-      "url": "https://n.news.naver.com/mnews/article/018/0006415438"
+      "title": "은행 이자이익 48조 4천억원…대출 확대·금리 상승 영향",
+      "url": "https://n.news.naver.com/mnews/article/079/0004214490"
     },
     {
-      "title": "은행 자본규제 풀어 서민대출 확대…은행 돈으로 저축은행서 연 10% 대출 공급",
-      "url": "https://n.news.naver.com/mnews/article/277/0005848094"
+      "title": "홈플러스 문 닫는다더니 '깜짝 반전'…조 단위 자금 들고 나타난 큰손",
+      "url": "https://n.news.naver.com/mnews/article/277/0005848449"
     },
     {
-      "title": "기준금리 연 3.25%로 인상...내년 경제성장률 전망치 4.1%",
-      "url": "https://n.news.naver.com/mnews/article/052/0002438255"
+      "title": "올리브영, 해킹 공격에 직원·고객 포함 790명 이름·연락처 등 개인정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/003/0014348297"
     },
     {
-      "title": "공정위, 애플 아이폰16 AI ‘기만 광고’ 제재 심의",
-      "url": "https://n.news.naver.com/mnews/article/119/0003159800"
+      "title": "서울 고척동 모아주택 3곳 한 단지로 개발…627가구 공급",
+      "url": "https://n.news.naver.com/mnews/article/018/0006416513"
     },
     {
-      "title": "삼성전자서비스, AI 시대 맞춰 엔지니어 기술·안전 역량 강화",
-      "url": "https://n.news.naver.com/mnews/article/031/0001078507"
+      "title": "보험사 3분기 대출채권 잔액 263.9조원…연체율 상승",
+      "url": "https://n.news.naver.com/mnews/article/003/0014348437"
     },
     {
-      "title": "10월 가계대출 금리 5% 돌파…주담대 14년 7개월 만에 최고",
-      "url": "https://n.news.naver.com/mnews/article/055/0001405702"
+      "title": "금감원 노조 “반쪽짜리 금융행정 쇄신 거부, 금융위부터 바꿔야”",
+      "url": "https://n.news.naver.com/mnews/article/005/0001887816"
     },
     {
-      "title": "현대차그룹, 무뇨스·송호성 유임…일부 계열사만 ‘핀셋 교체’",
-      "url": "https://n.news.naver.com/mnews/article/023/0004011854"
+      "title": "연무장길서 서울숲까지 영토확장…'무탠다드' 800평 승부수[르포]",
+      "url": "https://n.news.naver.com/mnews/article/277/0005848435"
     },
     {
-      "title": "“신사업 가속화하며 인공지능 전환 주력”… 삼성 금융계열사, 미래 겨냥한 임원인사",
-      "url": "https://n.news.naver.com/mnews/article/021/0002835739"
+      "title": "\"대표 브랜드과제를 찾아라\"…지역간 격차 완화 방안 발굴",
+      "url": "https://n.news.naver.com/mnews/article/079/0004214499"
     },
     {
-      "title": "공정위원장, 중소기업계 만나 현장 애로·건의사항 청취",
-      "url": "https://n.news.naver.com/mnews/article/001/0016464916"
+      "title": "국토부 실태조사 “국민 3명 중 1명은 교통약자”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002729178"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4727.6,
-      "change": 30.09,
-      "change_pct": 0.64
+      "value": 4844.98,
+      "change": 133.77,
+      "change_pct": 2.84
     },
     "kosdaq": {
-      "value": 659.07,
-      "change": 8.43,
-      "change_pct": 1.3
+      "value": 694.41,
+      "change": 38.7,
+      "change_pct": 5.9
     },
     "nasdaq": {
       "value": 23585.8,
@@ -58,17 +58,17 @@
       "change_pct": -0.62
     },
     "usdkrw": {
-      "value": 1343.58,
-      "change": 0.93,
-      "change_pct": 0.07
+      "value": 1340.66,
+      "change": -2.31,
+      "change_pct": -0.17
     }
   },
   "gold": {
-    "price_usd": 3610.4,
-    "price_krw": 4850861,
-    "change": 48.5,
-    "change_pct": 1.36
+    "price_usd": 3659.9,
+    "price_krw": 4906681,
+    "change": 124.1,
+    "change_pct": 3.51
   },
-  "updated": "2026-11-26 12:22",
+  "updated": "2026-11-27 12:28",
   "error": null
 }
