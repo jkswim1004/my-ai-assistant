@@ -1,74 +1,74 @@
 {
   "news": [
     {
-      "title": "‘눈덩이 이자’가 굴러온다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003703654"
+      "title": "CJ올리브영 업무 시스템 해킹…임직원·고객 등 790명 개인정보 유출",
+      "url": "https://n.news.naver.com/mnews/article/449/0000368865"
     },
     {
-      "title": "은행 이자이익 48조 4천억원…대출 확대·금리 상승 영향",
-      "url": "https://n.news.naver.com/mnews/article/079/0004214490"
+      "title": "\"파네토네부터 가성비까지\"…취향 따라 고르는 연말 케이크[이번주Eat템]",
+      "url": "https://n.news.naver.com/mnews/article/421/0009315078"
     },
     {
-      "title": "홈플러스 문 닫는다더니 '깜짝 반전'…조 단위 자금 들고 나타난 큰손",
-      "url": "https://n.news.naver.com/mnews/article/277/0005848449"
+      "title": "스테이블코인 대신 '디지털지급토큰'…정부가 '지급'에 방점 찍은 이유",
+      "url": "https://n.news.naver.com/mnews/article/421/0009313283"
     },
     {
-      "title": "올리브영, 해킹 공격에 직원·고객 포함 790명 이름·연락처 등 개인정보 유출",
-      "url": "https://n.news.naver.com/mnews/article/003/0014348297"
+      "title": "중국 발판 삼아 세계 제패..현대차 中 라인업 확대 이유",
+      "url": "https://n.news.naver.com/mnews/article/014/0005610889"
     },
     {
-      "title": "서울 고척동 모아주택 3곳 한 단지로 개발…627가구 공급",
-      "url": "https://n.news.naver.com/mnews/article/018/0006416513"
+      "title": "우리금융, 자회사 대표 4곳 신규 선임…7곳은 1년 유임 '안정 속 변화'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009314484"
     },
     {
-      "title": "보험사 3분기 대출채권 잔액 263.9조원…연체율 상승",
-      "url": "https://n.news.naver.com/mnews/article/003/0014348437"
+      "title": "삼성전자 30조 ‘역대급’ 배당···이재용 회장, 한 분기에만 4488억 수령",
+      "url": "https://n.news.naver.com/mnews/article/032/0003485525"
     },
     {
-      "title": "금감원 노조 “반쪽짜리 금융행정 쇄신 거부, 금융위부터 바꿔야”",
-      "url": "https://n.news.naver.com/mnews/article/005/0001887816"
+      "title": "올해 73만명이 종부세 낸다… 집값 급등에 19만명 늘어",
+      "url": "https://n.news.naver.com/mnews/article/081/0003703666"
     },
     {
-      "title": "연무장길서 서울숲까지 영토확장…'무탠다드' 800평 승부수[르포]",
-      "url": "https://n.news.naver.com/mnews/article/277/0005848435"
+      "title": "2000억 수혈에도 또 셧다운…홈플러스 67개점 재휴업, M&A에 운명",
+      "url": "https://n.news.naver.com/mnews/article/421/0009313284"
     },
     {
-      "title": "\"대표 브랜드과제를 찾아라\"…지역간 격차 완화 방안 발굴",
-      "url": "https://n.news.naver.com/mnews/article/079/0004214499"
+      "title": "3분기까지 국민연금 적립금 1,664조 원...기금 운용수익률 13.28%",
+      "url": "https://n.news.naver.com/mnews/article/052/0002439097"
     },
     {
-      "title": "국토부 실태조사 “국민 3명 중 1명은 교통약자”",
-      "url": "https://n.news.naver.com/mnews/article/016/0002729178"
+      "title": "F4 회의 \"반도체경기·금융 연계 확대, 실물경제 파급 점검\"",
+      "url": "https://n.news.naver.com/mnews/article/082/0001409273"
     }
   ],
   "stocks": {
     "kospi": {
-      "value": 4844.98,
-      "change": 133.77,
-      "change_pct": 2.84
+      "value": 4915.68,
+      "change": 204.47,
+      "change_pct": 4.34
     },
     "kosdaq": {
-      "value": 694.41,
-      "change": 38.7,
-      "change_pct": 5.9
+      "value": 708.99,
+      "change": 53.28,
+      "change_pct": 8.13
     },
     "nasdaq": {
-      "value": 23585.8,
-      "change": -147.74,
-      "change_pct": -0.62
+      "value": 24129.5,
+      "change": 543.7,
+      "change_pct": 2.31
     },
     "usdkrw": {
-      "value": 1340.66,
-      "change": -2.31,
-      "change_pct": -0.17
+      "value": 1343.53,
+      "change": 0.56,
+      "change_pct": 0.04
     }
   },
   "gold": {
-    "price_usd": 3659.9,
-    "price_krw": 4906681,
-    "change": 124.1,
-    "change_pct": 3.51
+    "price_usd": 3668.5,
+    "price_krw": 4928739,
+    "change": 132.7,
+    "change_pct": 3.75
   },
-  "updated": "2026-11-27 12:28",
+  "updated": "2026-11-28 12:05",
   "error": null
 }
